@@ -1,5 +1,7 @@
 # IGCSE Biology 0610 CUP (2023-2027) – Extended Study Guide
 
+<a href="https://github.com/LG-leo/IGCSE-Biology_CUP_CAIE-Note">IGCSE biology Note</a> © 2026 by <a href="https://github.com/LG-leo">Leo Yang</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ## Overview
 
 This repository contains a complete set of **extended study guides** for Cambridge IGCSE Biology 0610, covering **Topics 1 to 21** of the official syllabus (2023‑2025). The guides are designed to help students master both **Core** and **Supplement** content, with a strong focus on examination techniques, common misconceptions, and key terminology.
