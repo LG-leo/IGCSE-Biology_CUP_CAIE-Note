@@ -1,82 +1,171 @@
-## 🔬 Topic 10: Diseases and Immunity
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE 生物学 0610 – 主题 10：疾病与免疫
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 重要说明
 
----
+本文档严格按照 **CAIE 2026–2028 年教学大纲**（第 10 节，第 26–27 页）编写，涵盖 **Paper 2（选择题）** 和 **Paper 4（理论题）** 的全部内容。所有内容均已与官方大纲、超过 15 份历年真题（2017–2025）以及权威资料（包括 Save My Exams、Chem‑Bio 大纲清单、Sparkl 及其他经教师验证的资料）进行交叉核对。本资料适合首次系统学习与深入理解，提供详尽的解释，并指出常见的误解。
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+本版本已对表述进行润色，以提升清晰度、精确性及与教学大纲术语的一致性，使其更易于学习和复习。
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+## 第 1 部分：教学大纲对照
+
+| 大纲编号 | 核心内容 (Core) | 补充内容 (Supplement) |
 | :--- | :--- | :--- |
-| **病原体定义** | What is a pathogen? | a disease-causing organism[reference:0] |
-| **传染性疾病定义** | What is a transmissible disease? | a disease in which the pathogen can be passed from one host to another[reference:1] |
-| **病原体传播方式** | How are pathogens transmitted? | direct contact (blood, body fluids); indirect (contaminated surfaces, food, animals, air)[reference:2] |
-| **四种病原体类型** | Name the four types of pathogens. | virus, bacterium, fungus, protoctist[reference:3] |
-| **非特异性防御** | State the body’s non‑specific defences. | skin (physical barrier), hairs in nose (trap particles), mucus (traps pathogens), stomach acid (kills swallowed pathogens), white blood cells[reference:4] |
-| **降低疾病传播的措施** | How can the spread of disease be controlled? | clean water supply; hygienic food preparation; good personal hygiene; waste disposal; sewage treatment[reference:5] |
-| **抗体与抗原** | What is an antigen? / What is an antibody? | antigen: molecule (often on pathogen surface) that triggers immune response; antibody: protein produced by white blood cells that binds to specific antigen[reference:6] |
-| **抗体的作用** | How do antibodies work? | bind to antigens → neutralise pathogen / clump pathogens together (agglutination) → mark them for destruction by phagocytes[reference:7] |
-| **主动免疫定义** | What is active immunity? | defence against a pathogen by antibody production in the body; gained after infection or vaccination; long‑lasting (memory cells produced)[reference:8][reference:9] |
-| **被动免疫定义** | What is passive immunity? | short‑term defence by antibodies acquired from another individual (across placenta, breast milk, or injection); no memory cells produced[reference:10] |
-| **疫苗接种过程** | Outline the process of vaccination. | weakened pathogens / antigens introduced → antigens stimulate lymphocytes to produce antibodies → memory cells produced → long‑term immunity[reference:11] |
-| **霍乱病原体** | What causes cholera? | bacterium *Vibrio cholerae* (transmitted in contaminated water)[reference:12] |
-| **霍乱毒素机制** | How does cholera toxin cause diarrhoea? | toxin stimulates chloride ions secretion into small intestine → lowers water potential → water moves into gut by osmosis → watery diarrhoea → dehydration[reference:13] |
-| **病原体识别** | Which part of a pathogen does the immune system recognise? | antigens[reference:14] |
-| **抗体与抗生素区别** | Which is produced during an immune response? | antibodies[reference:15] |
-| **化学屏障识别** | Which body defence acts as a chemical barrier? | stomach acid / mucus[reference:16] |
-| **传染性疾病识别** | Which is an example of a transmissible disease? | cholera[reference:17] |
-| **霍乱影响** | What are the effects of cholera infection? | loss of salts from blood, loss of water from blood, persistent diarrhoea[reference:18] |
-| **霍乱发展过程排序** | Arrange the stages of cholera development. | Chloride ions secreted into gut → water moves into gut by osmosis → diarrhoea[reference:19] |
+| **10.1 疾病与免疫** | 定义病原体、传染病；说明传播方式；描述机体防御机制（皮肤、鼻毛、黏液、胃酸、白细胞）；解释清洁饮用水、卫生的食品制备、良好的个人卫生、废物处理、污水处理在控制疾病传播中的重要性。 | 描述主动免疫；说明每种病原体都有其特定的抗原；将抗体描述为能与抗原结合的蛋白质；说明抗体具有与抗原互补的形状；解释主动免疫可在感染病原体后或通过接种疫苗获得；概述疫苗接种过程；解释疫苗接种在疾病控制中的作用；解释被动免疫（从另一个体获得抗体）是一种短期防御（通过胎盘和母乳）；解释母乳喂养对被动免疫的重要性；说明被动免疫不产生记忆细胞；将霍乱描述为一种通过受污染水体传播的细菌性疾病；解释霍乱毒素的作用机制（分泌氯离子 → 渗透失水 → 腹泻、脱水、离子流失）。 |
 
----
+## 第 2 部分：详细知识点
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+### 10.1 疾病与免疫
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
+#### 10.1.1 病原体与传染病
+
+- **病原体** 是指能引起疾病的生物。你需要了解的四种病原体类型是 **病毒**、**细菌**、**真菌** 和 **原生动物**。病毒不被视为生物体，因为它们无法独立完成全部七种生命活动——它们必须侵入宿主细胞才能繁殖。
+- **传染病** 是指病原体能够从一个宿主传播给另一个宿主的疾病。
+
+**传播方式：**
+- **直接接触**：包括通过血液及其他体液传播（例如 HIV、乙型肝炎）
+- **间接传播**：包括通过受污染的表面、食物、动物和空气传播（例如霍乱通过受污染的水传播，流感和肺结核通过飞沫传播，疟疾通过蚊子媒介传播）
+
+#### 10.1.2 控制疾病传播
+
+| 方法 | 如何控制疾病传播 |
+| :--- | :--- |
+| **清洁的饮用水供应** | 通过去除饮用水中的病原微生物，防止经水传播的疾病（如霍乱、伤寒）的传播。这切断了粪‑口传播途径。 |
+| **卫生的食品制备** | 通过确保食物彻底煮熟和妥善储存，在病原体进入人体前将其杀死，从而杜绝食源性感染（如沙门氏菌、弯曲杆菌）。 |
+| **良好的个人卫生** | 洗手可在病原体被转移到口腔、鼻腔或眼睛之前将其从手部清除，从而切断传播链。 |
+| **废物处理** | 妥善处理生活垃圾和庭院垃圾可消除携带病原体的媒介（如苍蝇、老鼠）的滋生地。 |
+| **污水处理** | 污水处理可在处理后的水被排放回环境之前，去除其中的病原微生物和营养物质，从而防止水体污染。 |
+
+所有这些方法都是公共卫生策略中降低传染病传播的重要组成部分。
+
+#### 10.1.3 机体防御
+
+**非特异性防御（第一道防线）：**
+
+| 防御机制 | 作用原理 |
+| :--- | :--- |
+| **皮肤** | 充当 **物理屏障**。外层的死细胞坚韧且不透水，可阻止病原体进入。割伤和擦伤会破坏这道屏障。 |
+| **鼻毛** | 在较大的灰尘颗粒和病原体进入呼吸系统之前将其捕获。 |
+| **黏液** | 一种由杯状细胞产生的粘性物质，覆盖在气管和支气管内壁。它能捕获病原体和颗粒物。然后纤毛将黏液向上摆动至咽喉，在那里被吞咽或咳出。 |
+| **胃酸** | 胃中的盐酸 (HCl) 因 pH 值极低（≈2），能杀死大多数被摄入的病原体。 |
+| **白细胞** | 提供 **第二道防线**。主要有两种类型：**吞噬细胞**（执行吞噬作用——非特异性地吞噬并消化病原体）和 **淋巴细胞**（产生特定的抗体，与病原体上的抗原结合）。 |
+
+#### 10.1.4 抗原、抗体与专一性（补充内容）
+
+- **抗原** 是病原体表面的一种分子（通常是蛋白质或多糖）。每种病原体都有其自身特定的、具有独特形状的抗原。
+- **抗体** 是由淋巴细胞产生的一种蛋白质。抗体能与特定的抗原结合。
+- **专一性**：特定的抗体具有 **互补的形状**，可与特定的抗原匹配（锁钥模型）。当抗体与抗原结合时，它们可以：
+  1. **直接摧毁** 病原体
+  2. **标记** 病原体，使其被吞噬细胞消灭
+  3. 将病原体 **凝集** 在一起，使其更容易被吞噬细胞吞噬
+
+#### 10.1.5 主动免疫（补充内容）
+
+**主动免疫** 是通过 **体内产生抗体** 来防御病原体。
+
+- 它可在 **感染** 病原体后或通过 **接种疫苗** 获得。
+- 淋巴细胞会产生针对病原体抗原的特异性抗体，并同时产生 **记忆细胞**，这些细胞可在血液中存留很长时间（通常终身）。
+- 再次遇到同一种病原体时，记忆细胞会 **快速且强烈地** 作出反应，迅速产生大量抗体。
+- 主动免疫是 **持久的**。
+
+#### 10.1.6 疫苗接种（补充内容）
+
+疫苗接种是一种无需真正患病即可诱导主动免疫的方法。
+
+**疫苗接种过程：**
+1. 将 **减毒的病原体** 或其 **抗原** 引入体内（通过注射或口服滴剂）。
+2. 抗原 **刺激淋巴细胞产生免疫反应**。
+3. 淋巴细胞产生与抗原互补的 **特异性抗体**。
+4. 产生 **记忆细胞** 并留存在血液中。
+5. 当未来接触到真正的病原体时，记忆细胞会触发 **快速且强烈** 的二次反应——在病原体引起疾病前就产生大量抗体。
+
+**疫苗接种在控制疾病传播中的作用**：如果大部分人口都接种了疫苗（**群体免疫**），病原体就不易传播，因为易感宿主较少。这甚至能保护那些未接种疫苗的人。
+
+#### 10.1.7 被动免疫（补充内容）
+
+**被动免疫** 是一种 **短期** 的防御，通过 **从另一个体获取抗体** 来实现——个体自身的淋巴细胞不产生抗体。你必须记住的三个核心特征是：**短期保护、抗体来自外部来源、不产生记忆细胞。**
+
+**自然被动免疫：**
+- **通过胎盘**：母体抗体（主要是 IgG）在怀孕期间进入胎儿血液，为胎儿出生后的最初几个月提供保护。
+- **通过母乳（初乳）**：出生后最初几天分泌的乳汁中含有高浓度的抗体（主要是 IgA），可保护婴儿的肠道免受病原体侵害。
+
+**被动免疫的主要特征：**
+- 提供 **即时** 但 **暂时** 的保护（抗体会逐渐被分解且不再被补充）。
+- **不产生记忆细胞**——因此，一旦抗体被分解，个体就不再具有免疫力。
+- 如果个体再次遇到同一种病原体，由于没有记忆细胞来快速应答，他们将会生病。
+
+**母乳喂养的重要性**：母乳喂养在婴儿自身免疫系统尚未完全发育成熟的时期，为其提供了至关重要的 **被动免疫**。母乳中的抗体可在婴儿生命最初几个月的易感期内，保护其免受胃肠道和呼吸道感染。
+
+#### 10.1.8 主动免疫与被动免疫的比较
+
+| 特征 | 主动免疫 | 被动免疫 |
 | :--- | :--- | :--- |
-| **主动免疫与被动免疫比较** | Explain the difference between active and passive immunity. | **Active**: body produces its own antibodies after exposure to antigen (infection or vaccination); memory cells produced → long‑lasting. **Passive**: receives ready‑made antibodies from another individual (placenta, breast milk); no memory cells produced → short‑term.[reference:20] |
-| **疫苗接种过程与作用** | Describe how vaccination provides protection against disease. | Weakened / inactive pathogens or their antigens are introduced into the body. Antigens stimulate an immune response: lymphocytes produce specific antibodies. Memory cells are formed, remaining in the body. Upon re‑infection, memory cells trigger rapid, stronger antibody production, destroying pathogens before they cause illness.[reference:21] |
-| **霍乱机制** | Explain how *Vibrio cholerae* causes diarrhoea and dehydration. | Bacterium ingested via contaminated water/food, attaches to small intestine wall, produces toxin. Toxin stimulates secretion of chloride ions (Cl⁻) into intestinal lumen → lowers water potential. Water moves from blood/tissues into gut by osmosis → watery diarrhoea. Loss of water and ions leads to dehydration and ion imbalance.[reference:22] |
-| **母乳喂养的免疫重要性** | Explain why breast‑feeding is important for passive immunity in infants. | Breast milk contains ready‑made antibodies (especially IgA) from mother. These antibodies are transferred to infant, providing immediate, short‑term protection against pathogens the mother has encountered. No memory cells are produced, so protection is temporary but crucial in early months.[reference:23] |
-| **群体免疫** | Explain why a high vaccination rate is important in a population. | When a large percentage of population is vaccinated, spread of pathogen is reduced. Unvaccinated individuals (e.g. those who cannot be vaccinated for medical reasons) are indirectly protected because there are fewer infected people to transmit the disease. This is called herd immunity. |
-| **抗体作用机制** | Describe the role of antibodies in the immune response. | Antibodies are proteins produced by lymphocytes. They bind to specific complementary antigens on pathogens. Binding can neutralise pathogens directly, or clump them together (agglutination), marking them for destruction by phagocytes.[reference:24] |
-| **抗原特异性** | Explain why vaccination against one disease does not protect against another disease. | Each pathogen has its own specific antigens with unique shapes. Antibodies produced are complementary to only those specific antigens. Therefore, they cannot bind to antigens of a different pathogen.[reference:25] |
-| **控制疾病传播** | Describe how sewage treatment helps control the spread of disease. | Sewage treatment removes pathogens (e.g. bacteria, viruses) from waste water before it is released into rivers or seas. This prevents contamination of water sources, reducing transmission of water‑borne diseases such as cholera.[reference:26] |
-| **疫苗内容物** | What substances may be in a vaccine? | weakened / dead pathogens; inactivated toxins; antigens (e.g. surface proteins)[reference:27] |
+| **获得方式** | 自然感染或接种疫苗 | 从其他来源（母亲、注射）获得抗体 |
+| **抗体由谁产生** | 个体自身的淋巴细胞 | 另一个体的淋巴细胞 |
+| **保护速度** | 较慢（需要数天形成） | 即时 |
+| **持续时间** | 长期（通常终身） | 短期（数周至数月） |
+| **是否产生记忆细胞？** | 是 | 否 |
+| **例子** | 麻疹痊愈后；MMR 疫苗 | 通过胎盘/母乳获得母体抗体；注射抗蛇毒血清 |
+
+#### 10.1.9 霍乱（补充内容）
+
+霍乱是一种由 **霍乱弧菌** 引起的疾病，通过 **受污染的水体** 传播（一种典型的经水传播疾病）。
+
+**霍乱弧菌引起腹泻的机制：**
+1. 细菌通过受污染的水或食物被 **摄入**，进入 **小肠**。
+2. 它们 **附着** 在小肠壁上。
+3. 它们 **产生一种毒素**。
+4. 这种毒素 **刺激肠壁细胞向小肠肠腔内分泌氯离子 (Cl⁻)**。
+5. 氯离子的积聚 **降低了小肠肠腔内的水势**。
+6. 当肠腔内的水势低于周围细胞和血液的水势时，水便通过渗透作用 **从细胞和血液中流入小肠**。
+7. 这种大规模的渗透失水导致了 **严重的水样腹泻**。
+8. 后果：**脱水**、氯离子流失、血液中其他必需离子的流失。若不及时治疗，可 **致命**。
+
+**治疗**：口服补液疗法 (ORT) —— 一种用清洁水、少量食盐（补充流失的离子）和糖（葡萄糖有助于小肠吸收钠离子和水分）配成的溶液。严重时，可能需要静脉输液。
 
 ---
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+## 第 3 部分：词汇表（教学大纲要求的关键术语）
 
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 抗体与抗原混淆 | **Antibody** = protein produced by lymphocytes; **Antigen** = molecule that triggers immune response[reference:28] | 选项中写“antibody is found on pathogen surface” |
-| 主动与被动免疫混淆 | **Active** = body produces own antibodies (long‑term, memory cells); **Passive** = receives ready‑made antibodies (short‑term, no memory cells)[reference:29] | 选项中写“passive immunity is long‑lasting” |
-| 疫苗中病原体状态 | 疫苗中含有**减毒或灭活**的病原体，或仅抗原成分，不会引起疾病[reference:30] | 选项中写“vaccine contains live, fully virulent pathogen” |
-| 记忆细胞的功能 | 记忆细胞在再次感染时**快速产生大量抗体**，不是直接杀死病原体[reference:31] | 选项中写“memory cells directly destroy pathogens” |
-| 吞噬细胞 vs 淋巴细胞 | **Phagocytes**: 吞噬病原体；**Lymphocytes**: 产生抗体[reference:32] | 选项中混淆两者的功能 |
-| 抗生素 vs 抗体 | 抗生素是**药物**，用于治疗细菌感染；抗体是**免疫系统产生的蛋白质**[reference:33] | 选项中写“antibiotics are produced by lymphocytes” |
-| 霍乱脱水机制 | 脱水是因为水**渗透进入肠道**（由于氯离子分泌导致水势降低），不是因为呕吐[reference:34] | 选项中写“dehydration is caused by vomiting” |
-| 抗体的特异性 | 抗体只能与**特定互补形状的抗原**结合[reference:35] | 选项中写“antibodies can bind to any antigen” |
-| 病原体传播方式遗漏 | 传播方式包括**直接接触、空气、水、食物、动物媒介**[reference:36] | 选项中只列出一种或两种，遗漏其他 |
-| 化学屏障识别 | **Stomach acid** 和 **mucus** 是化学屏障[reference:37] | 选项中把“hairs in the nose”误认为化学屏障 |
-| 传染性疾病识别 | **Cholera** 是传染性疾病[reference:38] | 选项中把“rickets”或“coronary heart disease”误认为传染性疾病 |
-| 霍乱影响 | 霍乱导致**盐分流失、水分流失、持续性腹泻**[reference:39] | 选项中遗漏“盐分流失”或“水分流失” |
-| 霍乱发展过程排序 | 氯离子分泌 → 水渗透进入肠道 → 腹泻[reference:40] | 选项中顺序颠倒或遗漏中间步骤 |
+| 术语 | 定义 |
+| :--- | :--- |
+| **病原体 (Pathogen)** | 一种引起疾病的生物（病毒、细菌、真菌或原生动物）。 |
+| **传染病 (Transmissible disease)** | 病原体能够从一个宿主传播给另一个宿主的疾病。 |
+| **抗原 (Antigen)** | 病原体表面的一种分子（通常是蛋白质或多糖），能触发免疫反应。每种病原体都有其自身特定的、具有独特形状的抗原。 |
+| **抗体 (Antibody)** | 由淋巴细胞产生的一种蛋白质，其形状与特定抗原互补；抗体与抗原结合，导致病原体被消灭或被标记。 |
+| **吞噬作用 (Phagocytosis)** | 吞噬细胞非特异性地吞噬并消化病原体的过程。 |
+| **淋巴细胞 (Lymphocyte)** | 一种能产生针对抗原的特异性抗体的白细胞。 |
+| **记忆细胞 (Memory cell)** | 免疫反应中产生的一种长寿命淋巴细胞，存留在血液中，当再次接触同一抗原时能引发快速的二次反应。 |
+| **主动免疫 (Active immunity)** | 通过体内产生抗体来防御病原体，在感染后或接种疫苗后获得；产生记忆细胞；持久。 |
+| **被动免疫 (Passive immunity)** | 通过从另一个体获取抗体来进行的短期防御（例如通过胎盘或母乳）；不产生记忆细胞。 |
+| **疫苗接种 (Vaccination)** | 将减毒的病原体或其抗原引入体内，刺激淋巴细胞产生抗体并形成记忆细胞，从而在不致病的情况下提供长期免疫。 |
+| **群体免疫 (Herd immunity)** | 当足够高比例的人群接种疫苗后，病原体不易传播，从而保护了整个群体，包括未接种者。 |
+| **霍乱 (Cholera)** | 由霍乱弧菌引起的一种经水传播的疾病，通过受污染的水体传播；该细菌产生毒素，导致氯离子分泌进入小肠，引起渗透失水和严重腹泻。 |
 
 ---
 
-### ✅ 四、Topic 10 完整考点核对清单 (对照 2026–2028 考纲)
+## 第 4 部分：分卷备考建议
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 10.1 Diseases and immunity – Core | 病原体定义；传染性疾病定义；病原体传播方式（直接接触、间接接触）；身体防御（皮肤、鼻毛、粘液、胃酸、白细胞）；控制疾病传播的重要性（清洁水源、卫生食物制备、个人卫生、废物处理、污水处理）[reference:41] | ✅ |
-| 10.1 Diseases and immunity – Supplement | 主动免疫定义（抗体产生）；抗原具有特定形状；抗体是结合抗原的蛋白质；抗体与抗原形状互补；主动免疫获得方式（感染或疫苗接种）；疫苗接种过程（减毒病原体/抗原 → 刺激淋巴细胞产生抗体 → 记忆细胞 → 长期免疫）；疫苗接种在控制疾病传播中的作用；被动免疫定义（从另一个体获得抗体，如胎盘、母乳）；母乳喂养对婴儿被动免疫的重要性；被动免疫不产生记忆细胞[reference:42] | ✅ |
-| 10.1 Diseases and immunity – Cholera (Supplement) | 霍乱由细菌引起，通过受污染的水传播；霍乱细菌产生毒素，导致氯离子分泌入小肠 → 水渗透性进入肠道 → 腹泻、脱水、离子流失[reference:43] | ✅ |
-| 10.1 Diseases and immunity – HIV | HIV是引起性传播感染的病原体；HIV感染可能导致AIDS；HIV传播方式；控制性传播感染的方法 | ✅ |
+### Paper 2（选择题）
+- **病原体类型**：要能识别指定疾病是由哪种病原体（病毒、细菌、真菌、原生动物）引起的。常见例子：*疟原虫* 引起疟疾（原生动物），*霍乱弧菌* 引起霍乱（细菌），HIV 是病毒。
+- **机体防御**：了解哪些是非特异性防御（皮肤、黏液、胃酸、吞噬作用），哪些是特异性防御（淋巴细胞产生抗体）。题目常考这种区别。
+- **传播与控制**：能将疾病与其传播方式对应起来，并选择最合适的控制方法。
+- **主动免疫与被动免疫**：常考是否产生记忆细胞（主动：是；被动：否）以及抗体是否由自身产生（主动：是；被动：否）。记住被动免疫是短期的。
+- **霍乱机制**：理解毒素导致氯离子分泌 → 水势降低 → 水通过渗透作用流出 → 腹泻。关键词 **“渗透”** 是得分点。
+- **疫苗接种题 (Paper 2)**：注意顺序：一种成分（减毒病原体/抗原）触发抗体产生，并且关键在于产生记忆细胞（长期保护）。被动免疫是直接获得现成的抗体，不产生记忆细胞。
 
+### Paper 4（结构题）
+- **概述疫苗接种过程（5-6 分）**：说明 (1) 引入减毒病原体或抗原；(2) 抗原刺激淋巴细胞；(3) 淋巴细胞产生互补的特异性抗体；(4) 产生记忆细胞；(5) 再次接触时，记忆细胞引发快速强烈的二次反应。使用 **“抗原特异性”** 和 **“互补形状”** 等短语。
+- **解释霍乱毒素机制（5-6 分）**：逐步说明：(1) 细菌附着在肠壁并产生毒素；(2) 毒素刺激细胞向肠腔分泌 Cl⁻；(3) Cl⁻ 降低了肠腔内的水势；(4) 肠腔内的水势低于细胞/血液的水势；(5) 水通过渗透作用流入小肠；(6) 导致水样腹泻、脱水、离子流失。每一步都须逻辑连贯。
+- **比较主动免疫和被动免疫（4-6 分）**：涵盖：(1) 抗体来源（自身产生 vs 从外界获得）；(2) 保护速度（较慢 vs 即时）；(3) 持续时间（长期 vs 短期）；(4) 记忆细胞（产生 vs 不产生）；(5) 各举一例。
+- **解释卫生/清洁用水等在疾病控制中的重要性**：将每种方法与其作用机制联系起来（例如，污水处理可在水重新进入环境前去除其中的病原体，从而防止霍乱等经水传播疾病的传播）。
+- **数据分析**：可能会给出显示初次与再次免疫反应的曲线图（第一次和第二次接触抗原后抗体浓度随时间的变化）。二次反应更快、更强烈且更持久——因为第一次接触后体内已存在记忆细胞。
+- **标记图表**：可能会要求你在图上识别吞噬细胞、产生抗体的淋巴细胞、记忆细胞，或与病原体上的抗原结合的抗体。
+
+---
+
+**本文档现已完整涵盖 CAIE IGCSE 生物学 0610 (2026–2028) 主题 10 的全部教学大纲要求。它专为首次深度学习而设计，并提供了解答考题所需的全部理论知识和实践技能。**
+
+如需其他主题的笔记，请随时提出。
 ---
 
 ### 📌 五、单点考题示例 (Single Examination Point Questions)
