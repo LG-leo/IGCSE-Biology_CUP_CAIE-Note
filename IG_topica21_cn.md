@@ -16,6 +16,173 @@
 
 ---
 
+
+---
+
+## 📘 Topic 21: Biotechnology and Genetic Modification — 笔记总结
+
+---
+
+### 21.1 Biotechnology and Genetic Modification (生物技术与基因改造)
+
+#### 🔹 细菌在生物技术和基因改造中的用途
+
+**核心 (Core)：**
+
+- 细菌在生物技术和基因改造中非常有用，原因如下：
+  - **繁殖速度快 (rapid reproduction rate)**
+  - **能够制造复杂分子 (ability to make complex molecules)**
+
+**补充 (Supplement)：**
+
+- 细菌有用的更多原因：
+  - **(a) 对其操作和生长的伦理问题较少 (few ethical concerns)** — 与动物或人类不同，人们对细菌的基因改造伦理担忧较少
+  - **(b) 含有质粒 (presence of plasmids)** — 质粒是小型环状 DNA 分子，可以轻松地将外源基因插入其中，使基因改造更容易
+
+---
+
+### 21.2 Biotechnology (生物技术)
+
+#### 🔹 酵母菌的无氧呼吸 — 乙醇生产（生物燃料）
+
+- **酵母菌 (Yeast)** 在 **无氧条件 (anaerobic conditions)** 下进行 **无氧呼吸 (anaerobic respiration)**，将糖转化为 **乙醇 (ethanol)** 和 **二氧化碳 (CO₂)**。
+- 乙醇可用作 **生物燃料 (biofuel)**（如生物乙醇，可添加到汽油中作为汽车燃料）。
+
+> 反应式：葡萄糖 → 乙醇 + 二氧化碳 + 能量（少量）
+
+#### 🔹 酵母菌的无氧呼吸 — 面包制作
+
+- 在面包制作中，酵母菌通过无氧呼吸产生 **二氧化碳 (CO₂)**。
+- CO₂ 气体在面团中形成 **气泡**，使面团 **膨胀/发酵 (rise)**。
+- 烘烤过程中，乙醇蒸发，面包定型。
+
+#### 🔹 果胶酶 (Pectinase) 在果汁生产中的应用
+
+- **果胶酶** 是一种酶，用于分解 **果胶 (pectin)**（果胶是水果细胞壁中的一种物质，使果汁浑浊）。
+- 使用果胶酶可以：
+  - **提高果汁产量** — 释放更多果汁
+  - **使果汁更清澈** — 分解果胶使果汁澄清
+
+#### 🔹 含酶生物洗衣粉 (Biological Washing Powders)
+
+- 生物洗衣粉含有 **酶 (enzymes)**，例如：
+  - **蛋白酶 (Proteases)** — 分解蛋白质污渍（如血渍、蛋渍、草渍）
+  - **脂肪酶 (Lipases)** — 分解脂肪/油渍
+- **优点**：
+  - 在 **较低温度** 下有效工作 → 节省能源和金钱
+  - 有效去除 **有机污渍**
+
+#### 🔹 乳糖酶 (Lactase) 生产无乳糖牛奶（补充）
+
+- **乳糖酶** 将乳糖（牛奶中的糖）分解为 **葡萄糖 (glucose)** 和 **半乳糖 (galactose)**。
+- 用于生产 **无乳糖牛奶 (lactose-free milk)**，供 **乳糖不耐受 (lactose intolerant)** 的人饮用。
+- 方法：将乳糖酶固定在藻酸盐珠上，牛奶流过时乳糖被分解。
+
+#### 🔹 发酵罐 (Fermenters) — 大规模生产（补充）
+
+- **发酵罐** 是用于 **大规模培养微生物**（细菌、真菌）以生产有用产品的容器。
+
+**发酵罐中需要控制的条件：**
+
+| 条件 | 为什么需要控制 |
+|------|---------------|
+| **温度 (Temperature)** | 微生物有最适生长温度；温度过高会杀死微生物，过低会减慢生长 |
+| **pH 值** | 微生物有最适 pH 值；偏离最适 pH 会抑制酶活性和生长 |
+| **氧气 (Oxygen)** | 好氧微生物需要氧气进行有氧呼吸；厌氧微生物需要无氧条件 |
+| **营养供应 (Nutrient supply)** | 微生物需要营养物质（糖、氮源等）来生长和合成产品 |
+| **废物产物 (Waste products)** | 废物积累会抑制微生物生长，需要定期清除 |
+
+**发酵罐生产的产品示例：**
+
+| 产品 | 使用的微生物 | 用途 |
+|------|-------------|------|
+| **胰岛素 (Insulin)** | 基因改造细菌 | 治疗糖尿病 |
+| **青霉素 (Penicillin)** | 青霉菌 (Penicillium fungus) | 抗生素，治疗细菌感染 |
+| **菌蛋白 (Mycoprotein)** | 真菌 | 高蛋白食品（如 Quorn） |
+
+---
+
+### 21.3 Genetic Modification (基因改造)
+
+#### 🔹 定义（核心）
+
+- **基因改造 (Genetic modification)**：通过 **移除、改变或插入单个基因** 来改变生物体的遗传物质。
+- 也称为 **基因工程 (genetic engineering)**。
+
+#### 🔹 基因改造的示例（核心）
+
+| 示例 | 说明 |
+|------|------|
+| **(a) 将人类基因插入细菌以生产人类蛋白质** | 如将人类胰岛素基因插入细菌，细菌生产人胰岛素用于治疗糖尿病 |
+| **(b) 将基因插入作物以赋予除草剂抗性** | 作物对特定除草剂产生抗性，农民可以喷洒除草剂杀死杂草而不伤害作物 |
+| **(c) 将基因插入作物以赋予抗虫性** | 作物产生对害虫有毒的蛋白质，减少对杀虫剂的需求 |
+| **(d) 将基因插入作物以改善营养品质** | 如 **黄金大米 (Golden Rice)** — 插入基因使大米产生 β-胡萝卜素（维生素 A 的前体） |
+
+#### 🔹 基因改造的过程（补充）
+
+以 **细菌生产人类蛋白质** 为例：
+
+| 步骤 | 说明 |
+|------|------|
+| **(a) 分离人类基因** | 使用 **限制性内切酶 (restriction enzymes)** 切割含有人类目标基因的 DNA，形成 **黏性末端 (sticky ends)** |
+| **(b) 切割细菌质粒 DNA** | 使用 **相同的限制性内切酶** 切割细菌质粒 DNA，形成 **互补的黏性末端** |
+| **(c) 插入人类 DNA** | 使用 **DNA 连接酶 (DNA ligase)** 将人类 DNA 插入细菌质粒 DNA，形成 **重组质粒 (recombinant plasmid)** |
+| **(d) 将重组质粒插入细菌** | 将重组质粒导入细菌细胞（具体细节不要求掌握） |
+| **(e) 细菌增殖** | 含有重组质粒的细菌进行 **有丝分裂**，大量繁殖，复制重组质粒 |
+| **(f) 表达人类基因** | 细菌表达人类基因，**生产人类蛋白质**（如胰岛素） |
+
+**过程总结：**
+
+```
+人类 DNA → 限制酶切割 → 黏性末端
+细菌质粒 → 相同限制酶切割 → 互补黏性末端
+↓
+DNA 连接酶连接 → 重组质粒
+↓
+插入细菌 → 细菌繁殖 → 生产人类蛋白质
+```
+
+#### 🔹 基因改造作物的优点与缺点（补充）
+
+以 **大豆 (soya)、玉米 (maize)、水稻 (rice)** 为例：
+
+| 优点 (Advantages) | 缺点 (Disadvantages) |
+|-------------------|---------------------|
+| **提高产量** — 抗虫、抗除草剂使作物损失减少 | **长期健康影响未知** — 转基因食品的安全性仍有争议 |
+| **减少农药使用** — 抗虫作物减少了对化学杀虫剂的需求 | **可能引起过敏反应** — 新基因可能引入新的过敏原 |
+| **改善营养价值** — 如黄金水稻富含维生素 A | **基因流动到野生近缘种** — 转基因作物可能与野生植物杂交，产生"超级杂草" |
+| **提高抗逆性** — 可培育抗旱、抗盐的作物 | **降低生物多样性** — 单一转基因品种的大规模种植减少遗传多样性 |
+| **降低生产成本** — 减少农药和劳动力投入 | **伦理问题** — 一些人认为基因改造"违背自然" |
+| **解决粮食短缺** — 帮助养活不断增长的全球人口 | **跨国公司控制种子供应** — 农民可能依赖大公司购买种子 |
+
+---
+
+### 📌 Topic 21 — 知识框架速览
+
+```
+生物技术与基因改造 (Biotechnology and Genetic Modification)
+├── 21.1 生物技术与基因改造概述
+│   ├── 细菌有用：繁殖快、能制造复杂分子
+│   └── 补充：伦理问题少、含有质粒
+├── 21.2 生物技术 (Biotechnology)
+│   ├── 酵母无氧呼吸 → 乙醇（生物燃料）
+│   ├── 酵母无氧呼吸 → CO₂（面包发酵）
+│   ├── 果胶酶 → 果汁产量提高、更清澈
+│   ├── 生物洗衣粉 → 蛋白酶、脂肪酶去污
+│   ├── 乳糖酶 → 无乳糖牛奶（补充）
+│   └── 发酵罐 → 控制温度、pH、氧气、营养、废物
+│       └── 产品：胰岛素、青霉素、菌蛋白
+└── 21.3 基因改造 (Genetic Modification)
+    ├── 定义：移除、改变或插入基因
+    ├── 示例：细菌产人蛋白、抗除草剂、抗虫、改善营养
+    ├── 过程（补充）：
+    │   限制酶切割 → 黏性末端 → DNA 连接酶 → 重组质粒 → 插入细菌 → 表达
+    └── 优缺点（补充）：
+        ├── 优点：高产、少农药、营养好、抗逆
+        └── 缺点：健康未知、过敏、基因流动、生物多样性降低、伦理问题
+```
+
+---
 ### ✍️ 考点答案要点与关键词
 > 以下内容已整合官方大纲与Past Papers（2022-2024年）的最新考查趋势。
 
@@ -79,72 +246,6 @@
 *   **Fermenter**: 发酵罐 - A vessel used to grow microorganisms on a large scale under controlled conditions。
 *   **Pectinase**: 果胶酶 - An enzyme that breaks down pectin, used in fruit juice production to release more juice and make it clearer。
 *   **Lactase**: 乳糖酶 - An enzyme that breaks down lactose into glucose and galactose, used to produce lactose-free milk。
-
----
-
-### 📝 单主题典型试题 (Single Examination Topic Questions)
-以下为从历年真题中精选的代表性试题，结合了核心考点与答案要点。
-
-#### 📄 典型试题 1: Biotechnology in Bread Making (Paper 4)
-*   **Source**: Sparkl, Cambridge IGCSE Biology - 0610 - Supplement Paper 4 2019 Summer Zone 2
-*   **Question**:
-    > Fig. 1.1 shows some of the steps in making bread.
-    >
-    > (a) State the name of organism A in Fig. 1.1. [1]
-    >
-    > (b) (i) State the name of the source of energy used by organism A. [1]
-    >
-    > (b) (ii) State the name of the process that occurs at step 3 that causes gas bubbles to form in the dough. [1]
-    >
-    > (b) (iii) State the name of the gas that forms to create the gas bubbles in the dough. [1]
-    >
-    > (c) Explain the reasons for the different temperatures used in step 3 and step 5. [2]
-
-*   **Suggested Answer**:
-    *   (a) **Yeast** (or *Saccharomyces cerevisiae*).
-    *   (b) (i) **Glucose** / **Sugar**.
-    *   (b) (ii) **Fermentation** / **Anaerobic respiration**.
-    *   (b) (iii) **Carbon dioxide**.
-    *   (c) Step 3: **Warm temperature (e.g., 30°C)** to provide optimum temperature for **yeast enzymes** to work efficiently. Step 5: **High temperature (e.g., 180°C)** to **kill the yeast** and stop further respiration, and to cook the bread.
-
-#### 📄 典型试题 2: Genetic Engineering Process (Paper 2 & 4)
-*   **Source**: Adapted from IITian Academy (Paper 2) & Save My Exams Notes
-*   **Question**:
-    > The diagram shows stages in the production of human insulin by genetic modification.
-    > (a) Name the structure labelled X in bacteria that is used as a vector. [1]
-    > (b) State the name of the enzyme used to cut the DNA at specific points. [1]
-    > (c) State the name of the enzyme used to join the human insulin gene and the vector together. [1]
-    > (d) Explain why bacteria are useful for genetic modification in the production of human insulin. [3]
-
-*   **Suggested Answer**:
-    *   (a) **Plasmid**.
-    *   (b) **Restriction enzyme**.
-    *   (c) **DNA ligase**.
-    *   (d) Bacteria contain **plasmids** which are easy to manipulate and can be used as vectors. They have a **rapid reproduction rate**, allowing for quick mass production. They share the **same genetic code** as humans, so they can 'read' the human gene and produce the insulin protein.
-
-#### 📄 典型试题 3: Industrial Fermenter (Paper 4)
-*   **Source**: Save My Exams Flashcards & IGCSE Biology 0610 Past Papers
-*   **Question**:
-    > An industrial fermenter is used to produce penicillin.
-    > (a) State two conditions that must be controlled inside the fermenter. [2]
-    > (b) Explain why the temperature inside the fermenter must be controlled. [2]
-
-*   **Suggested Answer**:
-    *   (a) Any two: **Temperature**, **pH**, **oxygen concentration**, **nutrient supply**, or **aseptic conditions**.
-    *   (b) Respiring microorganisms release **heat** as a waste product. If the temperature rises too high, the enzymes of the microorganisms will **denature**, stopping production. The fermenter needs to be **cooled** to maintain the optimum temperature for enzyme activity.
-
-#### 📄 典型试题 4: Bacteria in Biotechnology (Paper 4)
-*   **Source**: IITian Academy (Paper 4)
-*   **Question**:
-    > (b) State three reasons why bacteria are useful in biotechnology. [3]
-
-*   **Suggested Answer**:
-    *   **Rapid reproduction rate** (or reproduce quickly via binary fission).
-    *   **Ability to produce complex molecules** (e.g., antibiotics, enzymes).
-    *   **Presence of plasmids** (or easy to genetically modify).
-    *   **Same genetic code** (can express genes from other organisms).
-    *   **Fewer ethical concerns** compared to using animals.
-    *   **Simple growth requirements**.
 
 ---
 
