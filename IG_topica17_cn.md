@@ -1,112 +1,248 @@
-## 🔬 Topic 17: Inheritance
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
-
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 📘 Topic 17: Inheritance — 笔记总结
 
 ---
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+### 17.1 染色体、基因与蛋白质 (Chromosomes, Genes and Proteins)
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
-| :--- | :--- | :--- |
-| **遗传的定义** | What is meant by inheritance? | The transmission of genetic information from generation to generation. |
-| **基因的定义** | What is a gene? | A short length of DNA on a chromosome that codes for a specific protein (or characteristic). |
-| **染色体的组成** | What are chromosomes made of? | DNA (and proteins). |
-| **等位基因的定义** | What is an allele? | An alternative form of a gene. |
-| **基因型的定义** | What is a genotype? | The genetic makeup of an organism (the alleles it possesses). |
-| **表型的定义** | What is a phenotype? | The observable characteristics of an organism. |
-| **纯合子的定义** | What does homozygous mean? | Having two identical alleles of a particular gene (e.g., BB or bb). |
-| **杂合子的定义** | What does heterozygous mean? | Having two different alleles of a particular gene (e.g., Bb). |
-| **显性等位基因的定义** | What is a dominant allele? | An allele that is always expressed in the phenotype, even if only one copy is present. |
-| **隐性等位基因的定义** | What is a recessive allele? | An allele that is only expressed in the phenotype when two copies are present (homozygous recessive). |
-| **性染色体组成** | What is the genotype of a human male/female? | Male: XY; Female: XX. |
-| **DNA在细胞中的位置** | Where is DNA located in a cell? | In the nucleus (and also in mitochondria). |
-| **DNA双螺旋结构** | Describe the structure of DNA. | Two strands coiled together to form a double helix. The strands are held together by complementary base pairs: A (adenine) with T (thymine), and C (cytosine) with G (guanine). |
-| **单基因杂交的预期比例** | Two heterozygous parents (Bb × Bb) are crossed. What is the expected genotypic/phenotypic ratio? | **Genotypic ratio:** 1 BB : 2 Bb : 1 bb. **Phenotypic ratio:** 3 dominant : 1 recessive. |
-| **单基因杂交 (测交) 的比例** | A heterozygous parent (Bb) is crossed with a homozygous recessive parent (bb). What is the expected phenotypic ratio? | 1 dominant : 1 recessive (50% : 50%). |
-| **性别决定比例** | Why is there approximately a 50:50 ratio of males to females born in a population? | Females produce eggs with an X chromosome; males produce sperm with either an X or a Y chromosome in equal proportions. The sex of the offspring is determined by which sperm fertilises the egg. |
-| **单倍体细胞识别** | Which human cells are haploid? | Gametes (sperm and egg cells). |
-| **共显性的定义 (Supplement)** | What is codominance? | A situation where both alleles in a heterozygous organism contribute to the phenotype (e.g., ABO blood groups). |
-| **性连锁特征的定义 (Supplement)** | What is a sex-linked characteristic? | A characteristic whose gene is located on a sex chromosome (usually the X chromosome). |
-| **多源/多等位基因例子** | Which human characteristic is controlled by multiple alleles? | ABO blood group (three alleles: IA, IB, IO). |
-| **可遗传变异的来源** | Which of the following is a source of genetic variation? | Mutation, meiosis (crossing over and independent assortment), random fertilisation of gametes. |
-| **减数分裂与有丝分裂比较** | Which type of cell division produces genetically identical cells? | Mitosis. |
+#### 🔹 基本概念（Core）
 
----
+- **染色体 (Chromosomes)** 由 **DNA** 组成，DNA 携带遗传信息，这些信息以 **基因 (genes)** 的形式存在。
+- **基因 (Gene)**：是一段 **DNA**，负责编码（决定）一种特定的 **蛋白质**。
+- **等位基因 (Allele)**：同一基因的 **不同形式**（alternative form）。例如，控制花色的基因有紫色等位基因和白色等位基因。
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+#### 🔹 人类的性别决定
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **遗传学定义题** | (a) Define the term allele. (b) Define the term genotype. (c) Define the term phenotype. | (a) An alternative form of a gene. (b) The genetic makeup of an organism (the alleles it possesses). (c) The observable characteristics of an organism. |
-| **显性与隐性判断** | A homozygous sweet pea with white flowers was crossed with a homozygous sweet pea with red flowers. All of the offspring had red flowers. State which allele is dominant. | The **red flower** allele is dominant. Reason: It is expressed in the heterozygous offspring, masking the effect of the white allele. |
-| **单基因杂交 (遗传图解)** | Two heterozygous sweet pea plants with red flowers (Rr × Rr) were crossed. (i) Draw a Punnett square. (ii) State the phenotypic ratio. | (i) Punnett square should show: parent gametes (R and r) and offspring genotypes (RR, Rr, Rr, rr). (ii) Phenotypic ratio = **3 red : 1 white** (or 3:1). |
-| **基因型与表型区分** | State how the phenotype of an organism is different to its genotype. | Genotype is the genetic makeup (alleles present), while phenotype is the observable characteristic produced by the genotype (and environment). |
-| **测交 (Test Cross) 原理与应用** | Describe how a farmer could determine if a white goat (dominant trait) is homozygous dominant (AA) or heterozygous (Aa). | Cross the white goat with a homozygous recessive (black, aa) goat. If any offspring are black (aa), the white goat is heterozygous (Aa). If all offspring are white, the white goat is likely homozygous dominant (AA). |
-| **性别决定机制** | Explain why there is usually a 1:1 ratio of male to female babies born. | Females have two X chromosomes, so all eggs carry an X. Males have one X and one Y, so sperm carry either an X or a Y in equal proportions. Random fertilisation results in a 50% chance of XX (female) and 50% chance of XY (male). |
-| **共显性 (ABO血型) (Supplement)** | Show how a parent with blood group A and a parent with blood group B can produce a child with blood group O. | The parent with blood group A must be heterozygous (IAIO) and the parent with blood group B must be heterozygous (IBIO). Their gametes produce a child with genotype IOIO (blood group O) with a 25% probability. |
-| **性连锁遗传 (红绿色盲) (Supplement)** | A woman who is a carrier for red-green colour blindness (X^B X^b) has children with a normal man (X^B Y). Calculate the probability that a son will be colourblind. | The probability is **50%**. The Punnett square shows that half of the male offspring (X^b Y) will inherit the recessive allele from their mother and be colourblind. |
-| **DNA结构与蛋白质合成 (Supplement)** | Explain how a gene controls a characteristic, such as flower colour. | A gene is a section of DNA that codes for a specific protein (e.g., an enzyme). The protein/enzyme then controls a metabolic pathway, which ultimately determines the characteristic (e.g., pigment production). |
-| **遗传变异来源** | Explain how meiosis can result in genetic variation in a species. | **Crossing over** during prophase I: homologous chromosomes exchange genetic material, producing new combinations of alleles. **Independent assortment** during metaphase I: homologous chromosome pairs line up randomly, producing different combinations of chromosomes in gametes. |
-| **新等位基因的形成** | Describe how new alleles can be formed. | New alleles are formed by **gene mutation**. A mutation is a random change in the base sequence of DNA, which can lead to a change in the protein coded for. |
-| **有性生殖与无性生殖比较** | Explain the advantages of sexual reproduction for a population in a changing environment. | Sexual reproduction produces **genetic variation** in offspring. This increases the chance that some individuals will possess advantageous alleles, enabling them to survive and reproduce in new or changing conditions (natural selection). |
-| **选择育种 (Selective Breeding) 步骤** | Describe the stages in the process of selective breeding. | 1. Identify individuals with desirable characteristics. 2. Breed them together. 3. Select the offspring with the most desirable characteristics. 4. Repeat the process over many generations until the desired trait is consistently expressed. |
+- 人类有 23 对染色体，其中 **一对是性染色体 (sex chromosomes)**：
+  - **女性：XX**
+  - **男性：XY**
+- 性别由 **父亲** 提供的精子决定（精子携带 X 或 Y 染色体，卵子只携带 X 染色体）。
+  - X 精子 + X 卵子 → 女 (XX)
+  - Y 精子 + X 卵子 → 男 (XY)
 
----
+#### 🔹 补充内容（Supplement）
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+- **DNA 碱基序列 (base sequence)** 决定了 **氨基酸序列**，进而决定特定的蛋白质结构。
+- **不同氨基酸序列 → 蛋白质分子形状不同 → 功能不同**（例如酶、膜载体蛋白、神经递质受体）。
+- **DNA 控制细胞功能** 的方式：DNA 控制蛋白质（包括酶、膜载体蛋白和神经递质受体）的合成，从而控制细胞的所有活动。
 
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| **混淆基因与等位基因** | A **gene** is a section of DNA coding for a protein. An **allele** is a specific version of a gene. | 选项中写“gene is an alternative form of a gene”。 |
-| **混淆基因型与表型** | **Genotype** = alleles present (e.g., Tt). **Phenotype** = observable characteristic (e.g., tall). | 选项中写“phenotype is the genetic makeup”。 |
-| **混淆纯合子与杂合子** | **Homozygous** = two identical alleles (e.g., BB, bb). **Heterozygous** = two different alleles (e.g., Bb). | 选项中交换定义。 |
-| **混淆显性与隐性** | **Dominant** = expressed in heterozygote. **Recessive** = only expressed in homozygote. | 选项中写“recessive allele is expressed if present in a single copy”。 |
-| **混淆有丝分裂与减数分裂** | **Mitosis** produces genetically identical cells. **Meiosis** produces genetically different gametes (haploid). | 选项中写“meiosis produces identical cells”或“mitosis produces gametes”。 |
-| **混淆染色体与染色单体** | A **chromosome** (after S phase) consists of two **sister chromatids**. | 选项中用错术语。 |
-| **混淆单倍体与二倍体** | **Haploid** (n) = one set of chromosomes (gametes). **Diploid** (2n) = two sets (body cells). | 选项中写“gametes are diploid”。 |
-| **性别决定比例误解** | Each pregnancy has a 50% chance of a boy and 50% chance of a girl. Past births do not influence the probability of future births. | 选项中写“if a couple already has two girls, the next is more likely to be a boy”。 |
-| **共显性 (Supplement) 误解** | In codominance, both alleles are expressed (e.g., blood group AB). This is **not** incomplete dominance. | 选项中写“in codominance, the phenotype is an intermediate blend”。 |
-| **性连锁遗传 (Supplement) 误解** | Males inherit their X chromosome from their mother and their Y from their father. They express X-linked traits more often because they have only one X. | 选项中写“males express X-linked traits because they inherit two X chromosomes”。 |
-| **变异来源遗漏** | Genetic variation arises from mutation, meiosis (crossing over and independent assortment), and random fertilisation. | 选项中只列出一种来源，或列出“environment”作为可遗传变异的来源。 |
-| **遗传图谱分析错误** | Shaded symbols usually represent individuals with a recessive condition. Unaffected parents can produce affected offspring if both are carriers. | 选项中错误推断遗传模式（例如，认为受影响的孩子必须有一个受影响的父母）。 |
+#### 🔹 蛋白质合成过程（简化版）
+
+1. **基因** 留在细胞核中。
+2. **mRNA (信使RNA)** 是基因的 **拷贝**，在细胞核中合成。
+3. mRNA 从细胞核 **移动到细胞质**。
+4. mRNA 经过 **核糖体 (ribosomes)**。
+5. 核糖体根据 mRNA 上的碱基序列，将 **氨基酸按特定顺序组装** 成蛋白质分子。
+
+> ⚠️ 不需要掌握转录 (transcription) 和翻译 (translation) 的详细过程。
+
+#### 🔹 基因表达与细胞分化
+
+- 大多数体细胞含有 **相同的全套基因**，但 **并非所有基因都表达**。
+- 一个细胞只制造 **它需要的特定蛋白质**，因此不同细胞会分化出不同功能（如神经细胞、肌肉细胞）。
+
+#### 🔹 染色体组型
+
+| 术语 | 定义 |
+|------|------|
+| **单倍体核 (Haploid nucleus)** | 含 **一套 (single set)** 染色体的细胞核 |
+| **二倍体核 (Diploid nucleus)** | 含 **两套 (two sets)** 染色体的细胞核 |
+| 人类二倍体细胞 | 有 **23对 (46条)** 染色体 |
 
 ---
 
-### ✅ 四、Topic 17 完整考点核对清单 (对照 2026–2028 考纲)
+### 17.2 有丝分裂 (Mitosis)
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| **17.1 Chromosomes, genes and proteins (Core)** | 染色体由DNA组成，以基因形式携带遗传信息；基因是编码蛋白质的DNA片段；等位基因是基因的不同形式；人类性别由X和Y染色体决定 | ✅ |
-| **17.1 Chromosomes, genes and proteins (Supplement)** | 基因中的碱基序列决定氨基酸序列；不同氨基酸序列赋予蛋白质不同形状；DNA通过控制蛋白质生产来控制细胞功能；蛋白质合成过程（mRNA, ribosomes）；体细胞含相同基因，但只有部分表达；单倍体与二倍体核；体细胞中染色体成对存在 | ✅ |
-| **17.2 Mitosis (Supplement)** | 有丝分裂产生基因相同的细胞；有丝分裂的作用（生长、修复、细胞更新、无性生殖）；染色体在有丝分裂前复制；染色体副本分离，维持子细胞染色体数目；干细胞的定义与作用 | ✅ |
-| **17.3 Meiosis (Supplement)** | 减数分裂参与配子产生；减数分裂是减数分裂（染色体数目从二倍体减半为单倍体），产生基因不同的细胞 | ✅ |
-| **17.4 Monohybrid inheritance (Core)** | 遗传是遗传信息的代际传递；基因型定义（等位基因组成）；表型定义（可观察特征）；纯合子与杂合子定义；显性等位基因与隐性等位基因定义；纯合子个体杂交为纯育；杂合子个体非纯育；解释遗传图谱；使用遗传图解预测单基因杂交结果并计算表型比例（1:1和3:1）；使用庞尼特方格推导可能基因型 | ✅ |
-| **17.4 Monohybrid inheritance (Supplement)** | 使用测交鉴定未知基因型；共显性定义（杂合子中两个等位基因均对表型有贡献）；ABO血型遗传（等位基因IA、IB、IO，表型A、B、AB、O）；性连锁特征定义（红绿色盲作为例子）；使用遗传图解预测涉及共显性或性连锁的单基因杂交结果并计算表型比例 | ✅ |
+#### 🔹 定义
+
+- **有丝分裂**：一种 **核分裂**，产生 **基因完全相同** 的子细胞。
+- 染色体的 **精确复制** 发生在有丝分裂 **之前**。
+- 有丝分裂过程中，复制的 **染色体分开**，每个子细胞保持 **相同的染色体数目**。
+
+#### 🔹 有丝分裂的作用
+
+| 作用 | 说明 |
+|------|------|
+| **生长 (Growth)** | 细胞数量增加使生物体长大 |
+| **受损组织修复 (Repair)** | 新细胞替代受损或死亡的细胞 |
+| **细胞更新 (Replacement)** | 如皮肤细胞、血细胞不断更新 |
+| **无性生殖 (Asexual reproduction)** | 如植物的营养繁殖、细菌分裂 |
+
+#### 🔹 干细胞 (Stem Cells)
+
+- **定义**：**未特化的细胞 (unspecialised cells)**。
+- **特点**：能通过有丝分裂产生子细胞，这些子细胞可以 **特化 (specialise)** 为具有特定功能的细胞（如神经细胞、肌肉细胞、血细胞等）。
+
+> ⚠️ 不要求掌握有丝分裂各阶段（前期、中期、后期、末期）的细节。
 
 ---
 
-### 📌 五、单点考题示例 (Single Examination Point Questions)
+### 17.3 减数分裂 (Meiosis)
 
-| 单点考题 | 答案 |
-| :--- | :--- |
-| Define the term ‘gene’. | A length of DNA that codes for a protein. |
-| Define the term ‘allele’. | An alternative form of a gene. |
-| State the genotype of a human male. | XY. |
-| State the genotype of a human female. | XX. |
-| What is meant by a dominant allele? | An allele that is always expressed in the phenotype, even if only one copy is present. |
-| What is meant by a recessive allele? | An allele that is only expressed in the phenotype when two copies are present. |
-| State the name of the type of cell division that produces gametes. | Meiosis. |
-| State the name of the cell formed when the nuclei of two gametes join together. | Zygote. |
-| Name one example of a characteristic controlled by multiple alleles. | ABO blood group. |
-| Name one example of a sex-linked characteristic in humans. | Red-green colour blindness / haemophilia. |
-| What is the probability of a couple having a boy? | 50% (1/2). |
-| State the name of the sugar in DNA. | Deoxyribose. |
-| Name the base that pairs with adenine (A) in DNA. | Thymine (T). |
-| Name the process by which new alleles are formed. | Mutation. |
-| State two sources of genetic variation in a population. | Mutation and meiosis. |
+#### 🔹 定义
 
+- **减数分裂**：与 **配子 (gametes)** 的生成有关（精子和卵细胞）。
+- 是一种 **减数分裂 (reduction division)**：
+  - **染色体数目减半**：二倍体 (diploid, 2n) → 单倍体 (haploid, n)
+  - 产生 **基因型不同的细胞**（增加遗传多样性）。
+
+#### 🔹 要点总结
+
+| 项目 | 减数分裂 |
+|------|----------|
+| 发生位置 | 睾丸 (产生精子) 和 卵巢 (产生卵细胞) |
+| 染色体数变化 | 二倍体 (46条) → 单倍体 (23条) |
+| 子细胞数量 | 4个（动物中：4个精子 或 1个卵细胞+3个极体） |
+| 子细胞基因型 | 各不相同 (genetically different) |
+| 意义 | 保证受精后染色体数目恢复；增加遗传变异 |
+
+> ⚠️ 不要求掌握减数分裂各阶段的细节。
+
+---
+
+### 17.4 单因子杂交遗传 (Monohybrid Inheritance)
+
+#### 🔹 基本术语（Core）
+
+| 术语 | 定义 |
+|------|------|
+| **遗传 (Inheritance)** | 遗传信息从 **一代传递到下一代** |
+| **基因型 (Genotype)** | 一个生物体的 **遗传组成**，以所拥有的等位基因来描述 |
+| **表现型 (Phenotype)** | 生物体 **可观察到的特征**（如花色、血型、身高） |
+| **纯合子 (Homozygous)** | 某个基因的 **两个等位基因相同**（如 AA 或 aa） |
+| **杂合子 (Heterozygous)** | 某个基因的 **两个等位基因不同**（如 Aa） |
+| **显性等位基因 (Dominant allele)** | 只要存在就会在表现型中 **表达** 的等位基因（用大写字母表示，如 A） |
+| **隐性等位基因 (Recessive allele)** | 仅在没有显性等位基因时才会 **表达** 的等位基因（用小写字母表示，如 a） |
+
+#### 🔹 纯种繁殖 (Pure-breeding)
+
+- **纯合子个体** 自交/互交后，后代 **总是表现相同的特征** → 称为 **纯种 (pure-breeding)**。
+- **杂合子个体** → **不是纯种**，自交后代会 **分离** 出不同的表现型。
+
+#### 🔹 遗传图解与预测
+
+- 使用 **遗传图解 (genetic diagrams)** 和 **庞纳特方格 (Punnett squares)** 预测单因子杂交的结果。
+- 能计算的 **表现型比例**：
+  - **1 : 1**（如测交结果）
+  - **3 : 1**（如两个杂合子杂交结果）
+
+**示例：豌豆花色（A = 紫色显性，a = 白色隐性）**
+
+父母本基因型：Aa × Aa
+
+```
+        A       a
+   A ┌──────┬──────┐
+     │  AA   │  Aa   │
+     │ 紫色  │ 紫色  │
+   a ├──────┼──────┤
+     │  Aa   │  aa   │
+     │ 紫色  │ 白色  │
+     └──────┴──────┘
+```
+
+表现型比例：紫色 : 白色 = **3 : 1**
+
+#### 🔹 谱系图 (Pedigree Diagrams)
+
+- 可以 **解释谱系图** 来推断某一特征的遗传方式（显性/隐性）。
+
+#### 🔹 补充内容（Supplement）
+
+##### 1️⃣ 测交 (Test Cross)
+
+- **目的**：确定一个表现型为显性的个体是 **纯合子 (AA)** 还是 **杂合子 (Aa)**。
+- **方法**：将该个体与 **隐性纯合子 (aa)** 杂交。
+- **结果分析**：
+  - 如果后代 **全部为显性** → 亲本是 **纯合显性 (AA)**
+  - 如果后代 **出现 1:1 显性:隐性** → 亲本是 **杂合子 (Aa)**
+
+```
+AA × aa → 全部 Aa（全部显性）
+Aa × aa → ½ Aa（显性）: ½ aa（隐性）= 1:1
+```
+
+##### 2️⃣ 共显性 (Codominance)
+
+- **定义**：杂合子中 **两个等位基因都对表现型有贡献**，两者同时表达。
+- 与显性不同：显性中杂合子只表现显性性状；共显性中杂合子表现出 **两种性状的中间或混合形式**。
+
+**示例：ABO 血型系统**
+
+| 基因型 | 表现型（血型） |
+|--------|---------------|
+| IᴬIᴬ 或 Iᴬi | A 型 |
+| IᴮIᴮ 或 Iᴮi | B 型 |
+| **IᴬIᴮ** | **AB 型（共显性）** |
+| ii | O 型 |
+
+> 等位基因：Iᴬ, Iᴮ, i
+> - Iᴬ 和 Iᴮ 对 i 都是显性
+> - Iᴬ 和 Iᴮ 之间是 **共显性** 关系
+
+##### 3️⃣ 伴性遗传 (Sex Linkage)
+
+- **定义**：控制某性状的基因位于 **性染色体**（通常是 X 染色体）上。
+- **特点**：该特征在 **某一性别中更常见**。
+- **原因**：男性只有一条 X 染色体，如果该 X 染色体上携带隐性致病等位基因，没有另一条 X 染色体来"掩盖"它，所以男性更容易表现出隐性伴性特征。
+
+**示例：红绿色盲 (Red-green colour blindness)**
+
+- 相关基因位于 **X 染色体** 上，用上标表示等位基因。
+  - Xᴮ = 正常视觉（显性）
+  - Xᵇ = 色盲（隐性）
+- Y 染色体上 **没有** 对应的等位基因。
+
+| 性别 | 基因型 | 表现型 |
+|------|--------|--------|
+| 女 | XᴮXᴮ | 正常 |
+| 女 | XᴮXᵇ | 携带者（正常） |
+| 女 | XᵇXᵇ | 色盲 |
+| 男 | XᴮY | 正常 |
+| 男 | XᵇY | 色盲 |
+
+> 色盲在 **男性中比女性更常见**。女性需要两条 X 都携带色盲基因才会色盲，而男性只需要一条。
+
+##### 4️⃣ 遗传图解扩展
+
+- 能使用遗传图解和庞纳特方格预测 **共显性** 和 **伴性遗传** 的杂交结果，并计算表现型比例。
+
+---
+
+### 📌 Topic 17 知识框架速览
+
+```
+Inheritance (遗传)
+├── 17.1 染色体、基因与蛋白质
+│   ├── DNA → 基因 → 蛋白质
+│   ├── 等位基因 = 基因的 alternative form
+│   ├── 性别决定: XX(女), XY(男)
+│   ├── 蛋白质合成: DNA → mRNA → 核糖体 → 氨基酸组装
+│   ├── 基因选择性表达
+│   └── 单倍体 vs 二倍体
+├── 17.2 有丝分裂 (Mitosis)
+│   ├── 产生 identical 子细胞
+│   ├── 作用: 生长 / 修复 / 更新 / 无性生殖
+│   └── 干细胞 → 特化
+├── 17.3 减数分裂 (Meiosis)
+│   ├── 产生配子
+│   ├── 染色体数减半 (diploid → haploid)
+│   └── 子细胞 genetically different
+└── 17.4 单因子杂交 (Monohybrid Inheritance)
+    ├── 术语: genotype, phenotype, homozygous, heterozygous, dominant, recessive
+    ├── 1:1 和 3:1 比例
+    ├── Punnett 方格 & 谱系图
+    ├── 测交 (Test cross)
+    ├── 共显性 (Codominance) → ABO 血型
+    └── 伴性遗传 (Sex linkage) → 红绿色盲
+```
+
+---
+
+希望这份笔记对你有帮助！如果需要我进一步补充或调整某个部分的内容，随时告诉我。
+
+---
+
+希望这份笔记对你有帮助！如果需要我进一步补充或调整某个部分的内容，随时告诉我。
 ---
 
 ### 📌 六、如何使用本资料
