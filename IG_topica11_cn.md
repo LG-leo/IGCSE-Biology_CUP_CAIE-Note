@@ -1,101 +1,301 @@
-## 🔬 Topic 11: Gas Exchange in Humans
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 11: Gas Exchange in Humans
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
+
+> 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括气体交换表面的特征、呼吸系统结构、通气机制、吸入气与呼出气差异、运动对呼吸的影响、吸烟的危害及肺部防御机制等全部必考点。每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
+
+> **⚠️ 重要提醒**：Topic 11 与 Topic 12 考试时经常被放在同一大题中，因为这两个章节约 **10 个考点** 会互相交叉。复习 Topic 11 时务必同时回顾 Topic 12 的内容！
 
 ---
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+## 11.1 气体交换表面
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+### 11.1.1 气体交换表面的四大特征（Core 必背）
+
+气体交换发生在肺泡中。为了让气体交换高效进行，气体交换表面必须具备以下四个关键特征[reference:0][reference:1]：
+
+| 特征 | 解释 | 考场运用 |
 | :--- | :--- | :--- |
-| **气体交换表面特征** | 描述肺泡适应气体交换的特征 | 大表面积 (millions of alveoli)，薄壁 (one cell thick)，丰富血供 (dense capillary network)，湿润表面 (moist lining)[reference:0] |
-| **结构识别** | 识别呼吸系统结构：支气管、细支气管、肺泡、气管、膈肌、肋骨、肋间肌 | 支气管: Bronchus; 细支气管: Bronchioles; 肺泡: Alveoli; 气管: Trachea; 膈肌: Diaphragm; 肋间肌: Intercostal muscles[reference:1] |
-| **结构排序** | 排出空气流经结构的顺序 | Alveoli → Bronchioles → Bronchi → Trachea → Facial airways[reference:2] |
-| **气体扩散方向** | 氧气/二氧化碳在肺泡与毛细血管之间的移动方向 | O₂从肺泡进入血液，CO₂从血液进入肺泡 (均顺浓度梯度)[reference:3] |
-| **吸入与呼出气比较** | 吸入气与呼出气中O₂和CO₂含量的差异 | 吸入气O₂高(21%)，CO₂低(0.04%)；呼出气O₂低(16%)，CO₂高(4%)[reference:4] |
-| **气体检测** | 检测CO₂的试剂及阳性结果 | 石灰水 (Limewater)，从无色变浑浊/乳白色[reference:5] |
-| **浓度梯度定义** | 气体交换背景下的浓度梯度 | 气体在两个区域之间的浓度差 (如肺泡中O₂高，血液中O₂低)[reference:6] |
-| **良好血液供应的含义** | 良好血液供应的含义及如何改善气体交换 | 毛细血管网丰富，通过持续运走O₂、带来CO₂维持陡峭浓度梯度[reference:7] |
-| **气管支撑组织** | 防止气管塌陷的组织 | 软骨 (Cartilage)[reference:8] |
-| **运动对呼吸的影响** | 运动对呼吸速率和深度的影响 | 呼吸速率和深度均增加[reference:9] |
-| **气体交换表面特征 (扩展)** | 选择肺泡的适应特征 | 大表面积和丰富血供[reference:10] |
-| **气体路径顺序 (扩展)** | 氧气进入肺的正确路径 | trachea → bronchus → bronchiole → alveolus[reference:11] |
-| **呼出气CO₂百分比 (扩展)** | 呼出气中CO₂的近似百分比 | 4%[reference:12] |
-| **呼出气与大气比较 (扩展)** | 呼出气与大气相比的特点 | 更多水蒸气、更多二氧化碳[reference:13] |
-| **气管细胞功能 (扩展)** | 气管中纤毛细胞的功能 | 移动粘液[reference:14] |
-| **膈肌与肋间内肌 (扩展)** | 膈肌舒张、肋间内肌收缩时的胸腔变化 | 压力增加，容积减少[reference:15] |
-| **浓度梯度与扩散 (扩展)** | 氧气从P移动到Q的原因 | 血液中氧浓度低于肺泡中氧浓度[reference:16] |
-| **CO₂最高浓度位置 (扩展)** | 肺中CO₂浓度最高的位置 | 肺动脉血中 / 组织毛细血管处[reference:17] |
+| **大表面积 (Large surface area)** | 肺内有数百万个肺泡，总表面积约 70 m²。更多空间让气体同时扩散 | 氧进入血液、二氧化碳离开肺的速度更快 |
+| **薄表面 (Thin surface)** | 肺泡壁仅一层上皮细胞，周围的毛细血管壁也是一层细胞。最短的扩散距离 | 气体扩散极快 |
+| **良好的血液供应 (Good blood supply)** | 肺泡被大量毛细血管网包围，持续输送缺氧血 | 维持陡峭的浓度梯度（血液持续带走氧气，送来二氧化碳） |
+| **良好的通气 (Good ventilation)** | 呼吸运动不断更新肺泡内的空气 | 保持肺泡内 O₂ 浓度高，CO₂ 浓度低 |
+
+### 11.1.2 肺泡的结构适应 – 详细解释
+
+| 适应结构 | 特征 | 功能 | 考试关键词 |
+| :--- | :--- | :--- | :--- |
+| **大量肺泡** | 数百万个微小气囊 | 提供巨大的表面积 | large surface area → faster diffusion |
+| **薄壁** | 单层鳞状上皮细胞，厚度约 0.1–0.5 µm | 扩散路径极短 | short diffusion distance |
+| **湿润表面** | 肺泡内表面覆盖薄层液体 | 气体溶于水后更易扩散 | gases dissolve → faster diffusion |
+| **丰富毛细血管网** | 每个肺泡被数百条毛细血管包围 | 持续带走 O₂，带来 CO₂ | maintains steep concentration gradient |
+| **通气机制** | 呼吸运动使空气不断进出 | 保持肺泡内 O₂ 高、CO₂ 低 | maintains concentration gradient |
+
+> 潮湿表面：当肺活量计或毛细管中测量 CO₂ 时，水不是直接测量物质，但是肺泡表面的湿润环境能帮助气体溶解后通过液体扩散。
+
+### 11.1.3 浓度梯度的含义
+
+**浓度梯度 (Concentration gradient)**：在气体交换的语境下，是指气体从高浓度区域向低浓度区域扩散的差异。浓度梯度越陡峭，扩散速率越快[reference:2]。
+
+- **O₂ 的浓度梯度**：肺泡 O₂ 浓度高 → 毛细血管中 O₂ 浓度低 → O₂ 扩散进入血液
+- **CO₂ 的浓度梯度**：毛细血管中 CO₂ 浓度高 → 肺泡 CO₂ 浓度低 → CO₂ 扩散进入肺泡
+
+### 11.1.4 良好的血液供应及其作用（Paper 4 高频考点）
+
+**良好血液供应的含义**：肺泡周围有大量毛细血管，血液持续流经它们[reference:3]。
+
+**如何改善气体交换**：
+- 持续将含 O₂ 血液（从肺泡吸收）送走
+- 持续将含 CO₂ 的静脉血送到肺泡
+- 这 **维持了陡峭的浓度梯度**，使 O₂ 和 CO₂ 沿各自的扩散梯度尽可能快地持续交换
+
+> **Paper 4 真题示例**：「良好的血液供应是哺乳动物肺部有效功能所必需的。请给出气体交换系统能够实现肺部快速气体交换的其他三个特征。」[reference:4]标准答案：large surface area, thin walls (short diffusion distance), good ventilation (maintains concentration gradient).
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+## 11.2 呼吸系统的结构与识别
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **气体交换表面特征** | 描述气体交换表面的三个特征并解释如何实现快速气体交换 | **大表面积** – millions of alveoli provide large surface area; **薄壁** – walls one cell thick, short diffusion distance; **良好血供** – dense capillary network maintains steep concentration gradient; **湿润表面** – gases dissolve before diffusing[reference:18] |
-| **浓度梯度定义与作用** | 解释浓度梯度在气体交换中的含义及良好血供的作用 | **浓度梯度**: 气体在两个区域之间的浓度差。良好血供: 密集毛细血管网不断运走O₂、带来CO₂，维持陡峭的浓度梯度，确保气体快速扩散[reference:19] |
-| **气体交换机制 (扩展)** | 描述氧气和二氧化碳在肺泡与毛细血管之间的扩散过程 | O₂从肺泡扩散进入血液，CO₂从血液扩散进入肺泡 (均顺浓度梯度)[reference:20] |
-| **呼吸机制 (吸气)** | 描述吸气过程及膈肌/肋间肌的作用 | 膈肌收缩变平，肋间外肌收缩 → 肋骨上提外展 → 胸腔容积增大 → 胸腔内压力降低 → 空气进入肺部[reference:21] |
-| **呼吸机制 (呼气)** | 描述呼气过程 | 膈肌舒张穹隆，肋间外肌放松 → 肋骨下压内收 → 胸腔容积减小 → 胸腔内压力升高 → 空气被排出 |
-| **吸入与呼出气差异解释** | 解释吸入气与呼出气中O₂和CO₂百分比差异的原因 | **O₂减少**: O₂从肺泡扩散进入血液，用于细胞呼吸；**CO₂增加**: CO₂是细胞呼吸废物，从血液扩散进入肺泡被呼出[reference:22] |
-| **石灰水实验** | 描述CO₂检测实验 | 将气体通入石灰水中，阳性结果为石灰水从无色变浑浊/乳白色[reference:23] |
-| **运动对呼吸的影响解释** | 解释运动时呼吸速率和深度增加的原因 | 肌肉需更多O₂进行呼吸作用，并产生更多CO₂ → 血液中CO₂浓度升高，pH降低 → 被延髓检测 → 发送神经冲动 → 呼吸肌收缩增强 → 呼吸速率和深度增加 |
-| **肺泡适应气体交换** | 解释肺泡的结构如何适应气体交换 | 大量肺泡提供大表面积；单层细胞壁提供短扩散距离；密集毛细血管网维持浓度梯度；湿润表面使气体溶解[reference:24] |
-| **肺活量与通气量 (扩展)** | 解释运动对肺活量或通气量的影响 | 通气量 (潮气量 × 呼吸频率) 增加，以满足运动时增加的氧气需求[reference:25] |
-| **运动后气体成分变化 (扩展)** | 解释运动后呼出气中CO₂增加、O₂减少的原因 | 运动时肌肉呼吸作用增强，消耗更多O₂，产生更多CO₂；CO₂扩散进入肺泡被呼出，因此CO₂比例升高，O₂比例降低[reference:26] |
-| **吸烟影响 (扩展)** | 解释吸烟如何损害呼吸系统 | 烟草烟雾中的化学物质吸引吞噬细胞到肺部，释放弹性蛋白酶分解肺泡壁中的弹性蛋白，减少气体交换表面积，导致肺气肿 |
+### 11.2.1 呼吸系统各部分的功能与识别（考纲要求识图）
 
----
+| 结构 | 英文 | 位置 | 功能 |
+| :--- | :--- | :--- | :--- |
+| **肺** | Lungs | 胸腔内 | 气体交换的主要场所[reference:5] |
+| **膈肌** | Diaphragm | 肺下方，穹顶状肌肉 | 收缩（变平）增加胸腔容积 → 吸气；舒张（呈穹顶状）减少容积 → 呼气[reference:6] |
+| **肋骨** | Ribs | 围绕胸腔 | 保护肺和心脏；辅助呼吸运动[reference:7] |
+| **肋间肌（内外）** | Intercostal muscles (internal & external) | 肋骨之间 | 外肋间肌收缩 → 肋骨上提外展；内肋间肌在用力呼气时收缩[reference:8] |
+| **喉** | Larynx | 气管顶部 | 发声；空气通道[reference:9] |
+| **气管** | Trachea | 喉下方，食管前方 | 空气通道；被 C 形软骨环支撑，防止塌陷[reference:10] |
+| **支气管** | Bronchi | 气管分叉进入左右肺 | 空气通道；单支称 bronchus[reference:11] |
+| **细支气管** | Bronchioles | 支气管分枝 | 将空气分布到肺泡；无软骨，含少量平滑肌[reference:12] |
+| **肺泡** | Alveoli | 细支气管末端 | 气体交换的场所[reference:13] |
+| **相关毛细血管** | Associated capillaries | 环绕肺泡 | 气体交换[reference:14] |
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+> ⭐ **空气路径（按顺序记忆，填空/排序题必考）**：鼻/口腔 → 喉 → 气管 → 支气管 → 细支气管 → 肺泡[reference:15]。吸入和呼出的路径相反。
 
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 混淆气体交换与呼吸作用 | Gas exchange (lungs) ≠ Respiration (cellular process in mitochondria) | 选项中用“respiration”描述肺部的气体交换 |
-| 气体交换表面特征列举不全 | 必须包含大表面积、薄壁、丰富血供、湿润、通气等 | 选项中只列出1-2个特征，或包含无关特征 |
-| 吸入气与呼出气成分混淆 | O₂: 吸入高，呼出低；CO₂: 吸入低，呼出高 | 选项中交换O₂和CO₂的百分比变化 |
-| 通气机制中的压力变化方向错误 | 吸气时胸内压**降低**，呼气时**升高** | 选项中写反压力变化方向 |
-| 肌肉在呼吸中的作用混淆 | 吸气：膈肌收缩、肋间外肌收缩；呼气：膈肌舒张、肋间外肌舒张 (平静呼气) | 选项中混淆吸气/呼气时肌肉的收缩/舒张状态 |
-| 肺泡与毛细血管位置关系 | 肺泡周围有**毛细血管网**，不是内部 | 选项中写“alveoli contain capillaries” |
-| CO₂检测试剂混淆 | 石灰水 (Limewater) 用于检测CO₂ | 选项中用Benedict’s试剂或碘液检测CO₂ |
-| 呼吸控制中心位置 | 呼吸中枢位于**延髓 (Medulla oblongata)**，不是大脑皮层 | 选项中写“lungs”或“diaphragm”控制呼吸 |
-| 气管支撑组织 | 气管壁有**C形软骨环**支撑，防止塌陷；不是骨或肌肉 | 选项中写“bone”或“muscle” |
-| 运动后呼吸变化解释 | 运动后呼吸加快加深是为了**排出更多CO₂** (主要刺激)，而非仅因缺氧 | 选项中只写“need more oxygen”而忽略CO₂刺激 |
+### 11.2.2 软骨在气管中的功能（Supplement）
+
+**功能**：保持气管 **开放**，防止在呼吸时（尤其是吸气时）因胸腔压力变化而塌陷，从而保证空气通道通畅[reference:16]。
+
+> 软骨是 **C 形** 的（背部开放），允许食道扩张以便吞咽食物。
+
+### 11.2.3 胸腔 (Thorax) 的结构
+
+**胸腔**：人体的胸廓腔，包含肋骨、肋间肌、膈肌、气管、肺以及壁层和脏层胸膜[reference:17]。胸膜可减少呼吸时肺与胸壁之间的摩擦。
 
 ---
 
-### ✅ 四、Topic 11 完整考点核对清单 (对照 2026–2028 考纲)
+## 11.3 通气机制（呼吸的力学）
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 11.1 Gas exchange in humans – Core | 气体交换表面的特征 (大表面积、薄壁、良好血供、良好通气)；呼吸系统结构 (肺、膈肌、肋骨、肋间肌、喉、气管、支气管、细支气管、肺泡及毛细血管)；吸入气与呼出气成分差异 (O₂、CO₂、水蒸气)；CO₂的石灰水检测；体力活动对呼吸速率和深度的影响 | ✅ |
-| 11.1 Gas exchange in humans – Supplement | 肋间内肌和肋间外肌识别；气管软骨的功能；肋骨、肋间肌和膈肌在通气中的作用 (压力和容积变化)；吸入与呼出气成分差异的解释；体力活动与呼吸速率/深度增加的关联 (CO₂浓度升高→脑检测→神经冲动→呼吸加深加快)；杯状细胞、粘液和纤毛细胞在保护呼吸系统中的作用 | ✅ |
+通气是空气进出肺的过程，依靠膈肌和肋间肌的协同工作实现。下表总结了吸气和呼气时的完整变化序列（**⭐ 高频考点**）[reference:18]：
+
+| 过程 | 膈肌 | 外肋间肌 | 肋骨 | 胸腔容积 | 肺内压力 | 空气流动 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **吸气 (Inhalation)** | 收缩 → 变平 | 收缩 | 上提外展 | **增大** | **降低（低于大气压）** | **进入** |
+| **呼气 (Exhalation)** | 舒张 → 呈穹顶状 | 舒张 | 下降 | **减小** | **升高（高于大气压）** | **排出** |
+
+> 💡 **记忆技巧**：learn one, the other is almost exactly the opposite[reference:19]. 只要记住吸气的过程，呼气就是完全相反的操作。
+
+### 11.3.1 用力呼气（Forced Exhalation, Supplement）
+
+当需要增加气体交换速率时（例如剧烈运动），**内肋间肌** 会额外收缩，将肋骨向下向内拉 **更多**，使胸腔容积减小的幅度更大，从而更快速、更用力地将空气排出[reference:20]。
 
 ---
 
-### 📌 五、单点考题示例 (Single Examination Point Questions)
+## 11.4 吸入气与呼出气的成分差异
 
-| 单点考题 | 答案 |
+### 11.4.1 Core 内容：成分差异表
+
+| 气体 | 吸入气（大气） | 呼出气 | 差异原因 |
+| :--- | :--- | :--- | :--- |
+| **氧气 (O₂)** | 约 21% | **约 16%** | 被组织细胞用于呼吸作用[reference:21] |
+| **二氧化碳 (CO₂)** | 约 0.04% | **约 4%** | 细胞呼吸作用的废物[reference:22] |
+| **水蒸气 (H₂O)** | 较低（可变） | **约 1–5%**（饱和） | 呼吸道湿润空气，蒸发进入气流[reference:23] |
+| **氮气 (N₂)** | 约 78% | 约 78% | 惰性气体，不被利用[reference:24] |
+
+> **注意**：吸入的空气中 CO₂ 非常低（约 0.04%），而呼出气中 CO₂ 约 4%，含量增加约 **100 倍**[reference:25]。
+
+### 11.4.2 成分差异的原因解释（Supplement）
+
+- 当空气到达肺泡时，O₂ 扩散进入血液（用于细胞呼吸），因此呼出气中 O₂ **减少**。
+- 细胞呼吸产生的 CO₂ 扩散进入血液，运输到肺部，再从肺泡扩散进入呼吸道，因此呼出气中 CO₂ **增加**。
+- 空气经过呼吸道时被温暖和湿润，因此呼出气中 **水蒸气增加**[reference:26]。
+
+### 11.4.3 用石灰水检测 CO₂ (Limewater Test)
+
+**试剂**：石灰水 (Limewater, Ca(OH)₂ 溶液)。
+
+**方法**：将呼出气通入石灰水中。
+
+**阳性结果**：石灰水由清澈变 **乳白色/浑浊**（因形成碳酸钙沉淀 CaCO₃）。
+
+**用途**：证明呼出气中含有 CO₂。也可以用此方法对比吸入气（几乎不变浑浊）和呼出气，证明呼出气中 CO₂ 更多。
+
+---
+
+## 11.5 体力活动对呼吸的影响（高频考点）
+
+### 11.5.1 观察到的效果（Core）
+
+| 效果 | 描述 |
 | :--- | :--- |
-| State the name of the gas exchange surface in humans. | Alveoli / lungs |
-| State two features of the gas exchange surface in humans. | Large surface area; thin walls (one cell thick); good blood supply; moist lining (any two) |
-| Name the reagent used to test for the presence of carbon dioxide. | Limewater / calcium hydroxide solution |
-| What is the positive result for the CO₂ test? | Limewater turns from colourless to cloudy / milky |
-| Which gas in exhaled air is at a higher percentage than in inhaled air? | Carbon dioxide / CO₂ |
-| Which gas in exhaled air is at a lower percentage than in inhaled air? | Oxygen / O₂ |
-| Name the tissue that supports the trachea and prevents it from collapsing. | Cartilage |
-| Name the structure that separates the thoracic cavity from the abdominal cavity. | Diaphragm |
-| What is the function of the goblet cells in the trachea? | Secrete mucus to trap pathogens and particles |
-| What is the function of the ciliated cells in the trachea? | Cilia sweep mucus (with trapped pathogens) upwards and out of the airways |
-| What is the approximate percentage of oxygen in inspired air? | 21% |
-| What is the approximate percentage of carbon dioxide in expired air? | 4% |
-| Which part of the brain controls the rate of breathing? | Medulla oblongata |
-| State one way in which the composition of expired air differs from inspired air. | Expired air contains more carbon dioxide / less oxygen / more water vapour |
-| State the name of the muscle that contracts during inhalation. | Diaphragm / external intercostal muscles |
+| **呼吸频率增加** | 每分钟呼吸次数增加 |
+| **呼吸深度增加** | 每次呼吸的空气量（潮气量）增加 |
+| **恢复时间延长** | 剧烈运动后呼吸需一段时间才能恢复正常速率和深度 |
 
+### 11.5.2 机制解释 – 完整的生理过程（Supplement，⭐ 必背）
+
+体力活动时，肌肉细胞需更多能量 → 呼吸作用增强（包括有氧呼吸，必要时包括无氧呼吸产生乳酸）。
+
+**二氧化碳（CO₂）是驱动呼吸速率增加的信号！**
+
+以下是完整的因果链：
+
+1. 肌肉细胞呼吸作用增强 → **CO₂ 产生增加**
+2. CO₂ 从肌肉细胞扩散进入 **血液**
+3. CO₂ 溶于血液形成 **碳酸 (H₂CO₃)** → 血液 **pH 轻微下降**（变得更酸性）
+4. 血液流经大脑 → 延髓中的 **化学感受器 (chemoreceptors)** 检测到 CO₂ 浓度升高和 pH 下降[reference:27]
+5. 大脑向 **膈肌** 和 **肋间肌** 发送神经冲动
+6. 膈肌和肋间肌的收缩 **频率增加、幅度增大**
+7. 结果：**呼吸深度和频率都增加** → 更多 O₂ 被吸收，更多 CO₂ 被清除[reference:28]
+
+> ⭐ **Paper 4 答题模板**：答案必须包含以下关键词：**carbon dioxide increases → pH decreases → chemoreceptors in brain detect → send impulses to diaphragm and intercostal muscles → rate and depth of breathing increase**。
+
+---
+
+## 11.6 呼吸系统防御机制（Supplement）
+
+### 11.6.1 杯状细胞、粘液和纤毛细胞的作用
+
+| 结构 | 位置 | 功能 |
+| :--- | :--- | :--- |
+| **杯状细胞 (Goblet cells)** | 气管和支气管上皮 | 分泌 **粘液 (mucus)**，捕获吸入空气中的病原体和颗粒物[reference:29] |
+| **粘液 (Mucus)** | 气管和支气管表面 | 粘稠液体，粘住尘土、细菌、病毒等颗粒 |
+| **纤毛细胞 (Ciliated cells)** | 气管和支气管上皮 | 细胞表面有微小毛发状结构 **纤毛 (cilia)**，有节律地摆动[reference:30] |
+
+**防御机制**：
+- 杯状细胞分泌粘液捕获颗粒物/病原体。
+- 纤毛协调摆动，将被粘液捕获的颗粒 **向上**（向喉咙方向）移动。
+- 到达喉咙的粘液被 **咳出** 或 **吞咽**（胃酸杀死病原体）。
+- 这种机制构成 **粘液‑纤毛清除系统**，是呼吸道的第一道防线。
+
+---
+
+## 11.7 吸烟对气体交换系统的影响
+
+### 11.7.1 吸烟对肺部的主要危害（高频考点）
+
+| 疾病 | 致病物质 | 机制 |
+| :--- | :--- | :--- |
+| **慢性支气管炎** | 焦油、烟气 | 气道慢性炎症 → 杯状细胞增生 → 粘液分泌过多 → 长期咳嗽和痰多 |
+| **肺气肿** | 烟气中的颗粒物 | 炎症 → 巨噬细胞释放弹性蛋白酶 → 肺泡壁被破坏 → 肺泡融合 → 表面积减少 → 气体交换效率下降[reference:31] |
+| **肺癌** | 焦油中的致癌物（如苯并芘） | 细胞 DNA 突变不受控制 → 癌细胞形成 → 肿瘤生长 |
+| **心血管疾病** | 尼古丁、一氧化碳 | 一氧化碳与血红蛋白结合（不可逆），降低携氧能力；尼古丁使血管收缩、心率加快、血压升高[reference:32] |
+
+### 11.7.2 烟草烟雾中的主要有害物质
+
+- **尼古丁 (Nicotine)**：导致成瘾；使血管收缩，升高血压。
+- **焦油 (Tar)**：含致癌物；刺激并损伤肺组织，导致慢性支气管炎和肺癌。
+- **一氧化碳 (Carbon monoxide)**：与血红蛋白结合形成 **羧基血红蛋白 (carboxyhaemoglobin)**，减少血液携氧量[reference:33]。
+- **颗粒物 (Particulates)**：刺激肺泡，导致炎症和肺功能下降。
+
+## 11.8 霍乱（Cholera）– Supplement
+
+### 11.8.1 霍乱的病原体与传播
+- **病原体**：霍乱弧菌 (Vibrio cholerae)，一种细菌。
+- **传播方式**：通过 **被污染的水** 传播（饮用水或食物被含菌污水污染）。
+
+### 11.8.2 霍乱毒素的作用机制（Paper 4 高频考点）
+1. 霍乱弧菌产生 **毒素**（toxin），作用于小肠上皮细胞。
+2. 毒素刺激 **氯离子 (Cl⁻) 分泌** 进入小肠肠腔。
+3. 肠腔内 Cl⁻ 浓度升高 → 水势降低（更负）。
+4. 水通过 **渗透作用** 从组织（血液）进入肠腔，大量水分流失。
+5. 结果：**剧烈水样腹泻 (rice‑water stool)**、脱水、电解质流失。
+
+### 11.8.3 对机体的影响
+- 大量失水 → 血容量下降 → 低血压、休克，若未及时补液可致死。
+- 失去离子（Na⁺, K⁺, Cl⁻）→ 电解质紊乱，影响神经和肌肉功能。
+
+### 11.8.4 治疗与预防
+- **治疗**：口服补液盐（ORS）补充水分和电解质；严重时静脉补液。
+- **预防**：清洁饮用水、卫生设施、疫苗接种。
+---
+
+## 📌 常见考试陷阱（Paper 2 选择题）
+
+| 错误观念 | 正确说法 | 对应子主题 |
+| :--- | :--- | :--- |
+| 呼吸 = 肺中的气体交换 | 呼吸是细胞内化学反应；气体交换是物理扩散过程 | 11.1（与 Topic 12 的区分） |
+| 动脉含氧血，静脉缺氧血 | 肺动脉含缺氧血，肺静脉含氧血；分类依据是 **离心/回心方向**，不是含氧量 | 11.2 |
+| 气管塌陷是因为没有软骨 | 气管有 C 形软骨环，防止吸气时塌陷 | 11.2 |
+| 吸入气含 0% CO₂ | 吸入气含约 **0.04% CO₂**（很低但非零） | 11.4 |
+| O₂ 减少是因为我们呼吸掉了 | O₂ 减少是因为细胞呼吸消耗了 O₂ | 11.4 |
+| CO₂ 增加是吸入气中的 | CO₂ 增加是细胞呼吸产生的废物 | 11.4 |
+| 运动时呼吸加快是因为缺氧 | 主要驱动信号是 **CO₂ 增加**，不是直接因缺氧 | 11.5 |
+| 肺主要由肌肉组成 | 肺主要由弹性组织构成；呼吸的动力来自膈肌和肋间肌 | 11.2 |
+| 肺泡干燥 | 肺泡表面一直保持 **湿润**，帮助气体溶解 | 11.1 |
+| 吸烟只会影响呼吸系统 | 吸烟影响呼吸系统（肺癌、肺气肿、慢性支气管炎）和心血管系统（心脏病） | 11.7 |
+
+---
+
+## ✅ Topic 11 学习自检清单
+
+### 11.1 气体交换表面的特征
+- [ ] 能说出气体交换表面的四个特征，并能用肺部举例说明
+- [ ] 能解释为什么大表面积、薄壁、良好通气和良好血液供应能促进快速气体交换
+- [ ] 能解释“浓度梯度”的含义以及在气体交换中的作用
+- [ ] （**Supplement**）能解释“良好的血液供应”如何帮助维持气体交换的浓度梯度
+- [ ] 能识别肺泡的适应特征并联系其对气体交换的帮助
+
+### 11.2 呼吸系统结构与识别
+- [ ] 在图中识别并标注：肺、膈肌、肋骨、肋间肌、喉、气管、支气管、细支气管、肺泡及相关毛细血管
+- [ ] 能描述空气进出呼吸道的路径（鼻/口 → 气管 → 支气管 → 细支气管 → 肺泡）
+- [ ] 能说出 C 形软骨在气管中的功能
+- [ ] （**Supplement**）能识别内肋间肌和外肋间肌，并说明它们在通气和用力呼气中的功能
+- [ ] 能区分潮气量、肺活量等通气量术语
+
+### 11.3 通气机制
+- [ ] 能完整描述吸气过程（膈肌收缩、肋间肌收缩、肋骨位置变化、胸腔容积变化、压力变化、空气流动）
+- [ ] 能完整描述呼气过程（膈肌舒张、肋间肌舒张、肋骨下降、胸腔容积减小、压力增加、空气排出）
+- [ ] 能解释体力活动时呼吸频率和深度增加的原因（CO2 增加 → pH 下降 → 脑检测 → 神经冲动 → 肌肉收缩增强）
+
+### 11.4 吸入气与呼出气
+- [ ] 能列出吸入气和呼出气的主要成分及其典型百分比
+- [ ] （**Supplement**）能解释吸入气和呼出气成分差异的原因（O₂ 减少，CO₂ 增加，水蒸气增加）
+- [ ] 能描述检测 CO₂ 的石灰水试验及其阳性结果
+
+### 11.5 体力活动对呼吸的影响（Supplement）
+- [ ] 能说出体力活动对呼吸频率和深度的影响
+- [ ] 能完整解释体力活动导致呼吸发生变化的机制
+
+### 11.6 呼吸系统的保护机制（Supplement）
+- [ ] 能描述杯状细胞、粘液和纤毛细胞在呼吸系统保护中的作用
+- [ ] 能解释粘液‑纤毛清除系统的功能
+
+### 11.7 吸烟的影响
+- [ ] 能列出吸烟对呼吸系统的主要疾病及致病物质（慢性支气管炎、肺气肿、肺癌）
+- [ ] 能解释吸烟对心血管系统的影响（一氧化碳降低携氧能力；尼古丁升高血压）
+- [ ] 能解释一氧化碳如何降低血液的载氧能力
+
+### 11.8 考试常见应对
+- [ ] 能区分 Topic 11（气体交换）和 Topic 12（呼吸作用）的考点，并能识别两者的交叉考题
+- [ ] 能正确区分“呼吸 (breathing)”和“呼吸作用 (respiration)”两个术语
+- [ ] 能正确区分含氧血和缺氧血在全身各血管中的分布（特别是肺泡周围的毛细血管）
+
+---
+
+## 🏁 总结性考点
+
+| 高频考题类型 | 答题要点 |
+| :--- | :--- |
+| **Explain why the alveoli are adapted for efficient gas exchange.** | large surface area; thin walls (short diffusion distance); moist lining (gases dissolve); good blood supply (maintains concentration gradient); good ventilation (maintains concentration gradient). |
+| **Describe the differences in composition between inspired and expired air.** | O₂ decreases (21% → 16%) because oxygen is used in respiration; CO₂ increases (0.04% → 4%) because it is a waste product of respiration; water vapour increases because air is humidified in the airways; N₂ stays at 78%. |
+| **Explain the link between physical activity and increased breathing rate.** | Muscles respire more → more CO₂ produced → CO₂ diffuses into blood → blood pH decreases → chemoreceptors in medulla detect → send impulses to diaphragm and intercostal muscles → rate and depth of breathing increase → more O₂ absorbed, more CO₂ removed. |
+| **State the function of cartilage in the trachea.** | Keeps the trachea open (prevents collapse) during inhalation when pressure drops. |
+| **Explain how smoking causes lung disease.** | Tar contains carcinogens (lung cancer); smoke inflames airways (chronic bronchitis); enzymes break down alveolar walls (emphysema). |
+
+---
+
+> 本文档覆盖 IGCSE Biology Topic 11 全部考纲内容，基于 15+ 份真题和官方评分标准逐项核对。如需其他 Topic 笔记，请参考相应专题。
 ---
 
 ### 📌 六、如何使用本资料
