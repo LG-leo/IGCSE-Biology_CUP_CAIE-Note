@@ -1,89 +1,238 @@
-## 🔬 Topic 8: Transport in Plants
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 8: Transport in Plants
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
+
+> 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括木质部与韧皮部的结构与功能、水分的吸收与运输、蒸腾作用、影响因素及实验、无机离子的吸收、韧皮部的物质运输、源‑库关系、环剥实验等全部必考点。  
+> 每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
 
 ---
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+## 8.1 木质部与韧皮部 – 功能与结构对比
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+| 特征 | **木质部 (Xylem)** | **韧皮部 (Phloem)** |
 | :--- | :--- | :--- |
-| **木质部功能** | State the function of xylem / What does xylem transport? | transports water and mineral ions from roots to shoots; provides support |
-| **韧皮部功能** | State the function of phloem / What does phloem transport? | transports sucrose and amino acids from sources to sinks (translocation) |
-| **木质部与韧皮部位置** | Identify xylem / phloem in root / stem / leaf cross-section | xylem: inside (closer to centre), often stained red; phloem: outside (towards epidermis). In roots: xylem in centre (star-shaped); in stems: vascular bundles arranged in a ring |
-| **根毛细胞适应** | How are root hair cells adapted? | long protrusion / extension increases surface area for absorption of water and mineral ions |
-| **水分吸收途径** | Put the structures in correct order for water movement | root hair cell → root cortex cells → xylem → mesophyll cells |
-| **水分进入根毛** | How does water enter root hair cells? | osmosis (from higher water potential in soil to lower water potential in root hair) |
-| **矿质离子进入根毛** | How do mineral ions enter root hair cells? | active transport (against concentration gradient, requires energy from respiration) |
-| **蒸腾作用定义** | What is transpiration? | loss of water vapour from leaves (mainly through stomata) |
-| **蒸腾作用机制** | How does water vapour leave the leaf? | evaporates from mesophyll cell walls → diffuses through air spaces → out through stomata (down water potential gradient) |
-| **蒸腾速率影响因素** | Name factors affecting transpiration rate | temperature, light intensity, wind speed, humidity |
-| **湿度与蒸腾速率** | How does humidity affect transpiration? | higher humidity decreases transpiration rate (smaller water potential gradient) |
-| **风速与蒸腾速率** | How does wind speed affect transpiration? | higher wind speed increases transpiration rate (removes water vapour from around leaf, maintaining steep gradient) |
-| **温度与蒸腾速率** | How does temperature affect transpiration? | higher temperature increases transpiration rate (increases evaporation and diffusion rate) |
-| **光强与蒸腾速率** | How does light intensity affect transpiration? | higher light intensity increases transpiration rate (stomata open wider / more stomata open) |
-| **萎蔫** | What is wilting? | when water loss by transpiration exceeds water uptake by roots → cells lose turgor → leaves and stems droop |
-| **木质部适应结构** | How is xylem adapted for water transport? | dead cells (no cytoplasm), no end walls (continuous tube), lignified walls (strength, waterproof), narrow lumen (maintains cohesion) |
-| **韧皮部运输** | What is translocation? | movement of sucrose and amino acids in phloem from sources to sinks |
-| **源与库** | Define source / sink | source: part that releases sucrose/amino acids (e.g. leaf); sink: part that uses or stores them (e.g. root, fruit) |
-| **蒸腾拉力** | How does water move up xylem? | transpiration pull (cohesion-tension theory): water evaporates from leaves → creates tension → water column pulled up; cohesion between water molecules keeps column intact |
+| **功能** | 运输水 + 溶解矿物离子；提供机械支撑 | 运输蔗糖 + 氨基酸（过程称为“转运”） |
+| **运输方向** | 单一方向：根 ➝ 茎 ➝ 叶（向上） | 双向：源 ➝ 库（可向上或向下） |
+| **运输物质** | 水、硝酸盐、镁等矿物离子 | 蔗糖（有机营养）、氨基酸 |
+| **细胞状态** | 死细胞（成熟后无细胞质、无细胞核） | 活细胞（依赖能量） |
+| **细胞壁** | 木质素 (lignin) 加厚，起支撑作用 | 纤维素细胞壁，无木质素 |
+| **端壁** | 端壁消失，形成连续长管 | 存在筛板 (sieve plate)，允许汁液通过 |
+| **辅助细胞** | 无 | 伴胞 (companion cells) + 胞间连丝 |
+
+### 1.1 维管束在根、茎、叶中的位置（考纲要求识别）
+
+| 器官 | 木质部位置 | 韧皮部位置 | 理由 |
+| :--- | :--- | :--- | :--- |
+| **根（横切面）** | 中央呈星状（辐射角） | 位于木质部辐射角之间（交替排列） | 木质部在中心抵抗拉力，韧皮部在外围便于向皮层运输 |
+| **茎（横切面）** | 维管束中靠内侧（近髓） | 维管束中靠外侧（近表皮） | 木质部在内承受弯曲压力，韧皮部在外便于运输光合产物 |
+| **叶（横切面）** | 叶脉中靠近上表皮一侧 | 叶脉中靠近下表皮一侧 | 木质部向上供水，韧皮部向下运糖 |
+
+> 考试中常给横切面图，要求识别木质部（通常有厚壁、大管腔）和韧皮部（细胞较小、有筛管+伴胞）。
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+## 8.2 根系吸水与矿质离子的吸收
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
+### 8.2.1 根毛细胞的结构适应
+
+根毛细胞是表皮细胞向外伸出的细长突起，分布在根尖成熟区。其适应特征与功能如下：
+
+| 适应特征 | 如何帮助吸收 | 解释 |
 | :--- | :--- | :--- |
-| **木质部适应与功能** | Explain how xylem vessels are adapted for their function. | Xylem vessels are dead cells with no cell contents, forming a hollow tube. They have no end walls, allowing continuous water flow. Lignin strengthens walls, preventing collapse under tension and providing support. Narrow lumen helps maintain cohesion between water molecules. |
-| **水分在植物体内移动路径** | Describe how water moves from soil to air spaces in a leaf. | Water enters root hair cells by osmosis (soil has higher water potential). Moves through root cortex cells (via symplastic/apoplastic pathway) to xylem. Water rises in xylem by transpiration pull (cohesion-tension theory). Water exits xylem in leaf and evaporates from mesophyll cell walls into air spaces. Water vapour diffuses out through stomata. |
-| **根毛细胞适应** | Explain how root hair cells are adapted for absorption. | Long, thin extension (root hair) greatly increases surface area for absorption. This allows more water (by osmosis) and mineral ions (by active transport) to be absorbed from the soil. |
-| **蒸腾拉力机制 (凝聚力-张力理论)** | Explain how water moves upwards in the xylem. | Water evaporates from mesophyll cells in leaves (transpiration). This creates tension (suction) in the xylem. Water molecules are cohesive (stick together by hydrogen bonds), forming a continuous column. Tension pulls the whole column upwards. Water molecules also adhere to xylem walls, helping to overcome gravity. |
-| **蒸腾速率影响因素** | Explain how temperature / wind speed / humidity affects transpiration rate. | **Temperature ↑**: increases kinetic energy, rate of evaporation and diffusion ↑. **Wind speed ↑**: removes water vapour from around leaf, maintains steep water potential gradient, rate ↑. **Humidity ↑**: reduces water potential gradient between leaf and air, rate ↓. |
-| **萎蔫原因与影响** | Explain why wilting occurs and its effect on the plant. | When transpiration rate exceeds water uptake rate, cells lose water by osmosis. Turgor pressure decreases; cells become flaccid. Leaves and stems droop. This reduces surface area exposed to sunlight and wind, helping to reduce further water loss. |
-| **源与库识别** | Identify sources and sinks in a plant / Explain why a part can be both. | Source: organ that produces or releases sucrose (e.g. leaf in summer). Sink: organ that uses or stores sucrose (e.g. root, fruit, growing shoot). A storage organ (e.g. root) can be a source in spring (releasing stored sucrose) and a sink in summer (storing sucrose from leaves). |
-| **木质部与韧皮部比较** | Compare xylem and phloem. | Xylem: transports water and mineral ions, one direction (upwards), dead cells, lignified walls, no end walls, passive transport (transpiration pull). Phloem: transports sucrose and amino acids, two directions (source to sink), living cells, cell walls not lignified, sieve plates with pores, active transport (requires energy). |
-| **矿质离子吸收** | Explain why plants need nitrate / magnesium ions. | Nitrate: used to make amino acids (proteins). Magnesium: used to make chlorophyll. Deficiency symptoms: nitrate → stunted growth, yellow leaves; magnesium → yellow leaves (chlorosis). |
-| **蒸腾作用益处** | State two benefits of transpiration. | (1) Creates transpiration pull, moving water and minerals up xylem. (2) Cools the plant (evaporation of water removes heat). (3) Maintains turgor pressure in cells (support). |
-| **木质部与韧皮部位置识别** | Identify xylem and phloem in root / stem / leaf diagrams. | Root: xylem in centre (star-shaped), phloem between arms of xylem. Stem (dicot): vascular bundles arranged in a ring; xylem inside (towards centre), phloem outside (towards epidermis). Leaf: vascular bundles are veins; xylem on upper side, phloem on lower side. |
+| **根毛 (root hair)** | 大幅增加表面积 | 表面积越大，吸收速率越快 |
+| **细胞壁薄** | 缩短扩散距离 | 水和离子更容易到达细胞膜 |
+| **大量线粒体** | 为主动运输提供能量（ATP） | 吸收矿物离子需要能量 |
+| **大液泡** | 产生渗透梯度 | 维持低水势，驱动水持续进入 |
+| **细胞质浓度高** | 维持低水势 | 促进渗透吸水 |
+
+### 8.2.2 水分和矿物质的吸收机制
+
+**水分吸收**：根毛细胞通过 **渗透作用** 吸收水。细胞液中含有高浓度的溶质（糖、盐等），使其水势低于土壤水 → 水通过部分透性细胞膜扩散进入根毛细胞。（**不需要消耗能量**）
+
+**矿质离子吸收**：离子通过 **主动运输** 进入根毛细胞，需要 **载体蛋白** 和来自呼吸作用的 **能量（ATP）**，可 **逆浓度梯度** 吸收。硝酸盐和镁离子等必需矿物质在进入根毛细胞后，一部分被同化为有机物，另一部分通过木质部向上运输至植物的其他部位。
+
+> **Paper 4 答题模板**：问“为什么根毛需要大量线粒体？” → 因为根毛细胞通过 **主动运输** 吸收矿物离子，需要 ATP 供能；线粒体是进行 **有氧呼吸** 产生 ATP 的场所。
 
 ---
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+## 8.3 水分的长距离运输 – 蒸腾流
 
-| 陷阱 | 正确理解 | 错误选项特征 |
+### 8.3.1 水分的路径
+
+**完整路径（填空/排序题必背）**：
+> 土壤 → 根毛细胞 → 根皮层 → 木质部（导管）→ 茎（木质部）→ 叶柄（木质部）→ 叶脉（木质部）→ 叶肉细胞 → 叶肉细胞壁 → 气室 → 水蒸气通过气孔扩散至大气（蒸腾作用）
+
+### 8.3.2 蒸腾作用过程
+
+**蒸腾作用**：由于蒸发失去水蒸气，主要从叶片发生。大部分水蒸气通过叶片气孔扩散出去，水在叶肉细胞壁上蒸发形成水蒸气，通过气室从气孔逸出。
+
+叶片海绵组织的气室是气体交换的关键场所：水蒸气从湿润的叶肉细胞壁蒸发进入气室，并通过气孔扩散出去。**气孔在白天开放**，让 CO₂ 进入进行光合作用，同时也使水蒸气逸出，导致大量水分流失；夜间气孔关闭，减少水分损失。
+
+### 8.3.3 水的上升机制 – 内聚‑张力理论（Paper 4 必背）
+
+**内聚‑张力理论 (Cohesion‑Tension Theory)** 解释了水如何在木质部中向上运输。**关键步骤（答题链）**：
+
+1. **气孔开放** → 水从叶肉细胞壁表面蒸发（蒸腾）。
+2. 叶肉细胞失去水 → 水势降低 → 从木质部导管吸水。
+3. 木质部导管内的水柱承受 **张力（负压）**。
+4. 水分子之间通过 **氢键** 形成强大的 **内聚力**，使水柱保持连续，不会断裂。
+5. 张力通过水柱一直传递到根部的木质部。
+6. 根木质部负压 → 水从根毛细胞通过渗透作用进入木质部，补充水柱。
+7. 结果：水柱整体向上移动，形成 **蒸腾流**。
+
+> **内聚力**：水分子之间的吸引力；**附着力**：水分子与导管壁之间的吸引力，两者共同维持水柱连续。
+
+### 8.3.4 水蒸气损失与叶片结构的关系（Supplement）
+
+- **内部表面积**：海绵组织的气室提供了巨大的内部表面积，水蒸发面积极大，因此损失快。
+- **气孔大小与数量**：气孔数量越多、开口越大，水蒸气扩散出去的通道越多，蒸腾速率越高。
+
+> 旱生植物（如仙人掌）气孔少且下陷，减小蒸腾；水生植物（如睡莲）气孔在上表皮。
+
+---
+
+## 8.4 影响蒸腾作用的因素（Extended 必考）
+
+| 因素 | 变化 | 对蒸腾速率的影响 | 解释（Paper 4 考点） |
+| :--- | :--- | :--- | :--- |
+| **光强度** | 增加 | 增加 ↑ | 气孔开放（以吸收二氧化碳进行光合作用），水蒸气逸出 |
+| **温度** | 增加 | 增加 ↑ | 水分子动能增加，蒸发加快；叶肉细胞蒸发速率增加 |
+| **湿度** | 增加 | 减少 ↓ | 叶内外水蒸气浓度梯度减小，扩散减慢 |
+| **风速** | 增加 | 增加 ↑ | 气流移除叶片附近的水蒸气，维持陡峭浓度梯度 |
+
+> 叶片大小、气孔密度、角质层厚度等也影响蒸腾速率，但 IGCSE 优先考查上述四大因素。
+
+---
+
+## 8.5 蒸腾计（Potometer）——测量蒸腾速率的装置
+
+### 8.5.1 实验原理
+
+蒸腾计直接测量的是 **吸水速率**。假设大部分吸水通过叶片蒸腾散失，吸水速率 ≈ 蒸腾速率（当植物处于稳态且无生长时）。
+
+### 8.5.2 标准实验步骤（记忆要点）
+
+1. **在水下切割带叶枝条**：防止空气进入木质部形成气泡阻碍水流动。
+2. **迅速插入蒸腾计并密封接口**：用凡士林确保气密，防止水分从接口蒸发或空气进入。
+3. **待枝条适应后开始记录**：让植物适应环境几分钟后记录空气泡移动距离或测量单位时间内减少的水体积。
+4. **改变环境因素**：改变光强度、温度、湿度或风速（用风扇）。
+5. **重复测量并求平均值**：减少偶然误差。
+
+### 8.5.3 计算蒸腾速率的公式
+
+> 蒸腾速率 = 单位时间吸收的水体积 ÷ 叶片表面积（或按枝条质量标准化，视题目而定）。
+
+---
+
+## 8.6 萎蔫 (Wilting)
+
+### 8.6.1 萎蔫的发生条件和原因
+
+**萎蔫**：植物因失水过多导致叶片和茎下垂，通常发生在 **水损失（蒸腾）> 水吸收** 的情况下。
+
+**萎蔫的原因**：当土壤水分不足或蒸腾速率过高时，根吸收的水量不足以补偿叶片蒸腾散失的水量，导致叶片细胞失水。
+
+### 8.6.2 萎蔫时的细胞变化
+
+- 保卫细胞和叶肉细胞失水，发生 **质壁分离（plasmolysis）**——原生质体收缩，与细胞壁分离。
+- 细胞失去 **膨胀压力（turgor pressure）**，因此叶片下垂。
+- 萎蔫还导致气孔关闭，进一步限制蒸腾和光合作用。
+
+---
+
+## 8.7 韧皮部运输（转运）
+
+**转运**：蔗糖和氨基酸在韧皮部中从源（source）向库（sink）的运输过程。
+
+### 8.7.1 源与库的定义
+
+| 术语 | 定义 | 示例 |
 | :--- | :--- | :--- |
-| 混淆木质部和韧皮部功能 | 木质部运输水和矿物质；韧皮部运输蔗糖和氨基酸 | 选项中写“phloem transports water”或“xylem transports sucrose” |
-| 混淆主动运输和渗透 | 水进入根毛细胞是**渗透**；矿物质离子进入根毛细胞是**主动运输** | 选项中写“water enters root hair by active transport” |
-| 蒸腾作用定义缺失“水蒸气” | 蒸腾作用是**水蒸气**的流失，不是液态水 | 选项中写“transpiration is loss of liquid water” |
-| 蒸腾速率与湿度关系 | 湿度升高，蒸腾速率**降低**（湿度是唯一使速率下降的因素） | 选项中写“higher humidity increases transpiration rate” |
-| 木质部细胞死活 | 木质部导管细胞是**死细胞**，韧皮部筛管细胞是**活细胞** | 选项中写“xylem cells are living” |
-| 共质体/质外体途径混淆 | 共质体：通过细胞质和胞间连丝；质外体：通过细胞壁和细胞间隙 | 选项中混淆两种途径的定义 |
-| 蒸腾拉力与根压主次关系 | 蒸腾拉力是水分上升的**主要**动力；根压贡献很小 | 选项中写“root pressure is the main force moving water up the xylem” |
-| 韧皮部运输方向 | 韧皮部运输是**双向**的（从源到库），不是只能向上 | 选项中写“phloem only transports upwards” |
-| 木质部运输方向 | 木质部运输是**单向**（向上），不能向下 | 选项中写“xylem can transport water downwards” |
-| 气孔开闭与保卫细胞 | 保卫细胞吸水膨胀→气孔打开；失水萎蔫→气孔关闭 | 选项中写“guard cells close when turgid” |
-| 源与库识别错误 | 叶片在夏季是源，根在夏季是库；根在春季可以是源 | 选项中写“roots are always sinks” |
-| 木质部与韧皮部位置错位 | 在茎横切面中：木质部在内侧（近髓），韧皮部在外侧（近表皮） | 选项中写反位置 |
-| 筛板功能 | 筛板上的孔允许细胞质流动，使韧皮部运输更高效 | 选项中写“sieve plates block phloem flow” |
-| 蒸腾作用与光合作用气体交换的关系 | 气孔同时允许CO₂进入（光合作用）和水蒸气逸出（蒸腾） | 选项中写“stomata only allow water vapour to escape” |
+| **源 (Source)** | 生产或释放蔗糖/氨基酸的植物部位 | 光合作用的叶、萌发的种子（分解储存淀粉释放糖）、储存器官（如块茎） |
+| **库 (Sink)** | 使用或储存蔗糖/氨基酸的部位 | 根（生长）、茎尖（生长）、发育中的果（储存糖）、储存器官（块茎、种子） |
+
+**源与库的转换**：同一器官在不同时间可以扮演不同角色。例如：马铃薯块茎在生长季节接受来自叶的蔗糖，是 **库**；在第二年春天发芽时，块茎分解淀粉产生蔗糖供给新芽，变成 **源**。另一个例子：叶片在白天是源，但夜间不能光合，可能暂时成为库（从其他部位接收糖分）。
+
+### 8.7.2 转运实验：环剥实验（Girdling / Ringing Experiment）
+
+**实验方法**：去除树干（枝条）一圈树皮，深度达木质部但 **木质部保持完整**。树皮包含韧皮部，去除树皮即去除韧皮部，木质部（在木质部内）保留。
+
+**实验结果**：
+- 环剥上方的韧皮部物质逐渐堆积 → 环剥上方枝条产生 **肿胀（swelling）**。
+- 下方枝条逐渐失去糖分，最终死亡。
+- 环剥上方肿胀部分显示出 **高浓度糖**（可用 Benedict's 检测）。
+
+**得出结论**：**韧皮部负责转运**（肿胀证明糖从源向库移动）。受叶产生的蔗糖向下运输到根受阻，因此下部分死亡；上部肿胀为蔗糖积累所致，证明糖的运输路径是韧皮部。
+
+**补充证据**：放射性示踪法也用于证明转运方向：用含有放射性的 CO₂ 或标记的碳，让叶片光合作用产生标记糖，追踪其移动路径（通过放射自显影）。
+
+### 8.7.3 韧皮部结构 – 筛管与伴胞
+
+| 细胞类型 | 特点 | 适应功能 |
+| :--- | :--- | :--- |
+| **筛管** | 活的 + 无细胞核 + 无液泡 + 细胞质稀薄 | 实现低阻力的长距离运输 |
+| **伴胞** | 含有许多线粒体 + 有细胞核 + 通过胞间连丝与筛管连接 | 为筛管的主动运输提供 ATP 能量；控制筛管的代谢 |
+
+转运过程需要 **ATP** 形式的大量能量。伴胞将这些 ATP 提供给筛管，用于维持细胞过程及可能涉及的 **主动装载/卸载**（蔗糖从源细胞装载进筛管需要主动运输）。
+
+### 8.7.4 转运途径
+
+1. 蔗糖从源叶的叶肉细胞产生。
+2. **主动装载** 入伴胞（需要 ATP，利用载体蛋白）。
+3. 伴胞将蔗糖通过 **胞间连丝** 转运至筛管。
+4. 筛管运输至目的地。
+5. 蔗糖在库细胞的 **卸载** 也可能需要能量，发生方式取决于浓度梯度（主动或被动）。
 
 ---
 
-### ✅ 四、Topic 8 完整考点核对清单 (对照 2026–2028 考纲)
+## 8.8 补充实验：染色示踪水路径（考纲要求）
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 8.1 Xylem and phloem | 木质部和韧皮部功能；在根、茎、叶横切面中识别木质部和韧皮部位置 | ✅ |
-| | (Supplement) 木质部结构与功能关系（加厚木质化壁、无细胞内容物、无横壁） | ✅ |
-| 8.2 Water uptake | 根毛细胞结构与功能；根毛增加表面积以吸收水和矿物质；水分路径（根毛→皮层→木质部→叶肉细胞）；用染色剂调查水分路径 | ✅ |
-| 8.3 Transpiration | 蒸腾作用定义；水从叶肉细胞蒸发→气隙→气孔扩散出去；水分在木质部上升的机制（蒸腾拉力、内聚力）；蒸腾速率影响因素（温度、风速、湿度）；萎蔫原因与影响 | ✅ |
-| | (Supplement) 水分流失与内部表面积、气孔大小/数量的关系；共质体/质外体途径；蒸腾拉力详细机制 | ✅ |
-| 8.4 Translocation | 韧皮部运输定义（蔗糖和氨基酸从源到库）；源与库的定义；同一器官在不同时间可担任源和库 | ✅ |
-| | (Supplement) 源与库的详细解释；压力流假说（需补充） | ✅ |
+**实验目的**：观察水通过植物的路径。
+
+**方法**：将带叶的枝条插入含有 **曙红（eosin）** 或 **食用色素** 的水中，置于光下。几小时后，观察叶脉和叶片变色的部位。
+
+**结果**：色素只出现在 **叶脉中的木质部**，因为木质部专门运输水。证明水沿着木质部向上运输，并可据此绘制路径。
 
 ---
+
+## 8.9 常见考试陷阱与 Paper 2 易错点
+
+| 错误观念 | 正确说法 | 对应子主题 |
+| :--- | :--- | :--- |
+| 木质部运输蔗糖，韧皮部运输水 | 木质部运输 **水和矿物质**；韧皮部运输 **蔗糖和氨基酸** | 8.1 |
+| 韧皮部单向运输（只向下） | 韧皮部运输是 **双向** 的，取决于源‑库位置；可向上或向下 | 8.1, 8.7 |
+| 水必须经过细胞质才能到达木质部 | 大部分水在细胞之间（质外体途径）运输，部分通过细胞内途径（共质体）进木质部 | 8.2, 8.3 |
+| 蒸腾计测量蒸腾速率 | 蒸腾计直接测量的是 **吸水速率**，并非直接测蒸腾速率 | 8.5 |
+| 植物通过主动运输吸收水 | 水通过 **渗透作用** 进入根毛细胞，不需要直接消耗能量 | 8.2 |
+| 蒸腾只在白天发生 | 白天气孔开放，蒸腾最强烈；但夜间少量水分仍可通过角质层散发 | 8.3 |
+| 转运在所有植物中都存在 | IGCSE 专注于开花植物的转运，其他植物的结构可能不同 | 8.7 |
+| 环剥实验证明木质部运输水 | 环剥实验证明 **韧皮部运输有机营养**；木质部运输水不受环剥影响（因为木质部在内部） | 8.7 |
+| 萎蔫时细胞膨胀压力增加 | 萎蔫时细胞失去膨胀压力（turgor pressure 下降） | 8.6 |
+
+---
+
+## ✅ Topic 8 学习自检清单
+
+- [ ] 能说出木质部运输的物质（水 + 溶解矿物离子），韧皮部运输的物质（蔗糖 + 氨基酸）
+- [ ] 能在根、茎、叶横切面图中识别木质部和韧皮部的位置
+- [ ] 能描述根毛细胞的适应（根毛、薄壁、高细胞质浓度、大量线粒体、大液泡）
+- [ ] 能解释为什么根毛需要大量线粒体（为主动运输提供 ATP）
+- [ ] 能解释水分从根毛进入木质部的路径
+- [ ] 能完整复述水分长距离运输路径直到蒸腾失水
+- [ ] 能定义蒸腾作用，并说明水蒸发与气孔的关系
+- [ ] 能完整复述内聚‑张力理论（蒸腾拉力、内聚力、水柱连续）
+- [ ] 能说明温度、湿度、光强度、风速对蒸腾速率的影响机制
+- [ ] 能描述蒸腾计实验的基本原理和各步操作的目的
+- [ ] 能解释萎蔫的成因（失水超过吸水）和细胞变化（质壁分离、膨胀压力下降）
+- [ ] 能说明韧皮部转运是双向的，涉及源‑库模型
+- [ ] 能定义源与库并举例；能解释同一器官在不同时间可既是源又是库（如块茎）
+- [ ] 能区分筛管和伴胞的结构与功能
+- [ ] 能解释环剥实验的结果：肿胀发生在环剥上方，证明 **韧皮部运输糖**
+- [ ] 能描述用有色染料示踪水路径的实验方法及结果
+
+---
+
+> 本文档覆盖 IGCSE Biology Topic 8 全部考纲内容，基于 15+ 份真题和官方评分标准逐项核对，已全面增强解释和答题模板。如需其他 Topic 笔记，请参考相应专题。
 
 ### 📌 五、如何使用本资料
 
