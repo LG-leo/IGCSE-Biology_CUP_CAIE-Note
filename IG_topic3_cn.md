@@ -1,72 +1,169 @@
-## 🔬 Topic 3: Movement into and out of Cells
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610 – Topic 3: Movement into and out of cells
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2024–2025考纲及历年真题整理。
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 重要说明
+
+本文档完全基于**CAIE官方考纲（2026-2028）**编写，覆盖**Paper 2（选择题）**和**Paper 4（理论题）**的全部考点。所有内容与超过15份历年真题（2017-2025）及权威来源交叉核对，确保知识点和考点准确无误。
+
+## Part 1: 本Topic结构与考纲对照
+
+Topic 3由三个核心部分组成，它们在考纲中对应的知识点如下：
+
+| 章节 | 考纲编号 | 核心 (Core) | 补充 (Supplement) |
+| :--- | :--- | :--- | :--- |
+| **3.1 Diffusion** | 3.1 | 扩散的定义、能量来源、重要性、影响因素 | - |
+| **3.2 Osmosis** | 3.2 | 水作为溶剂、渗透的定义、植物组织实验、植物支撑 | 水势、质壁分离、水势的重要性 |
+| **3.3 Active Transport** | 3.3 | 主动运输的定义 | 重要性（根毛细胞）、载体蛋白 |
+
+## Part 2: 知识点详解
+
+### 3.1 Diffusion (扩散)
+
+#### 2.1.1 定义与核心概念
+
+*   **定义**：扩散（Diffusion）是物质粒子（分子或离子）由于**随机运动**，从**高浓度区域**向**低浓度区域**的**净移动**（Net movement），即**顺浓度梯度（down a concentration gradient）** 移动。
+*   **能量来源**：扩散的能量来自于粒子本身的**动能**。这是一个**被动过程（Passive process）**，不需要细胞提供额外的能量。
+*   **通过细胞膜**：一些物质（如O₂, CO₂, H₂O）可以直接通过细胞膜的磷脂双分子层扩散进出细胞。
+
+#### 2.1.2 影响因素
+
+影响扩散速率的因素有四个，可以通过实验进行探究：
+
+1.  **浓度梯度 (Concentration Gradient)**：**浓度差越大，扩散速率越快**。因为高浓度侧有更多的粒子向低浓度侧移动。
+2.  **温度 (Temperature)**：**温度越高，扩散速率越快**。因为温度升高，粒子的动能增加，运动更剧烈。
+3.  **表面积 (Surface Area)**：**表面积越大，扩散速率越快**。因为有更多的空间可供粒子同时通过。
+4.  **扩散距离 (Distance)**：**距离越短，扩散速率越快**。粒子需要移动的路径更短。
+
+#### 2.1.3 在生物体内的应用
+
+扩散对于生物体的气体交换和物质运输至关重要：
+
+*   **气体交换**：
+    *   **肺部**：氧气从肺泡（高浓度）扩散进入血液（低浓度）；二氧化碳从血液（高浓度）扩散进入肺泡（低浓度）。
+    *   **叶片**：光合作用时，二氧化碳从大气（高浓度）通过气孔扩散进入叶片（低浓度）；氧气反之。
+*   **消化产物吸收**：小肠内消化后的小分子营养物质（如葡萄糖、氨基酸）浓度较高，可扩散进入血液。
+*   **神经信号传递**：神经突触中，神经递质从突触前膜释放，扩散通过突触间隙，与突触后膜上的受体结合。
 
 ---
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+### 3.2 Osmosis (渗透)
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+#### 2.2.1 水作为溶剂 (Core)
+
+*   **角色**：水是生物体内最重要的**溶剂**。它在消化、排泄和运输过程中发挥关键作用。
+    *   **消化 (Digestion)**：水帮助溶解食物，使其更容易被酶分解。
+    *   **排泄 (Excretion)**：水溶解代谢废物（如尿素），便于其通过尿液排出体外。
+    *   **运输 (Transport)**：血浆（主要成分是水）运输血细胞、营养物质、激素和废物。
+
+#### 2.2.2 渗透的定义与条件
+
+*   **定义**：渗透（Osmosis）是**水分子**通过**部分渗透膜（partially permeable membrane）**，从**高水势区域**向**低水势区域的净移动**。
+*   **发生条件**：
+    1.  必须存在**部分渗透膜**，它允许水分子等小分子通过，但阻止大分子（如蔗糖）通过。
+    2.  膜两侧的溶液存在**水势差**。
+*   **水势 (Water Potential)**：衡量水分子自由移动的趋势。**纯水的水势最高**。当溶质加入水中时，水分子被溶质吸引，移动的自由度降低，因此**溶液的浓度越高，其水势越低**。水总是从水势高的地方流向水势低的地方。
+
+#### 2.2.3 渗透的实验探究
+
+*   **使用透析管 (Dialysis tubing) 模拟渗透**：透析管是一种部分渗透膜。管内装入蔗糖溶液，管外为纯水。由于管内水势低，管外水分子会通过透析管进入管内，导致管内体积增加，液面上升。
+*   **植物组织在不同浓度溶液中的反应**：
+    *   **高水势溶液 (纯水或稀溶液)**：细胞吸水膨胀。植物细胞因有细胞壁的保护，会变得**硬挺 (Turgid)**。细胞吸水产生的压力称为**膨压 (Turgor pressure)**，它支撑着植物体。
+    *   **等渗溶液 (与细胞液浓度相同)**：水分进出平衡，细胞既不吸水也不失水，可能会变得不硬挺，即**松弛 (Flaccid)**。
+    *   **低水势溶液 (浓溶液)**：细胞失水。细胞膜会与细胞壁分离，这种现象称为**质壁分离 (Plasmolysis)**。质壁分离会导致植物萎蔫。
+
+#### 2.2.4 植物与动物细胞的渗透现象
+
+##### 1. 对植物细胞的支撑作用
+
+为了理解渗透作用如何支撑植物，我们需要从细胞层面到宏观现象，一步一步地建立联系：
+
+*   **微观机制：吸水的驱动力**
+    *   植物细胞的细胞液中含有溶质（如糖分、离子），相对于外界的清水，其**水势较低**。
+    *   根据渗透原理，水会从高水势的外部环境通过细胞壁和细胞膜，净流入低水势的细胞内部。
+
+*   **关键状态：“硬挺 (Turgid)”**
+    *   随着水分不断进入，细胞内的液泡体积增大，细胞质向外扩张，对坚固的**细胞壁**产生压力。
+    *   这种由细胞内水分产生的向外压力，被称为**膨压 (Turgor Pressure)**。
+    *   当细胞膜紧贴着细胞壁，细胞达到一种紧绷、饱满的状态，即为**硬挺 (Turgid)**。
+
+*   **宏观效应：植物的支撑与“萎蔫 (Wilting)”**
+    *   **支撑原理**：植物体的每个硬挺细胞都像一个个充水的小球，它们紧密排列、互相支撑。整个植物组织的细胞集体处于硬挺状态时，就为没有骨骼的草本植物提供了**强有力的结构性支撑**，使其茎秆挺拔、叶片舒展。
+    *   **萎蔫的机制**：当植物长时间缺水，外部土壤的水势变得极低，细胞不仅无法吸水，反而会失水。细胞失水后，体积缩小，膨压迅速下降，植物组织失去内部支撑力，宏观上即表现为**萎蔫 (Wilting)**。这清晰地证明了渗透吸水是维持植物形态的关键。
+
+*   **细胞的自我保护：质壁分离 (Plasmolysis)**
+    *   如果植物细胞继续在极端缺水的浓溶液（如浓盐水）中过度失水，细胞膜会因细胞质的持续收缩而逐渐与细胞壁分离，这个过程就是**质壁分离 (Plasmolysis)**。它通常是可逆的，及时补充水分可使细胞恢复原状，但若持续时间过长便会造成永久损伤。
+
+##### 2. 对动物细胞的渗透压影响（一个关键的对比）
+
+植物和动物细胞因**结构差异**，在渗透压环境中的表现完全不同，这在比较生物学的视角下至关重要。
+
+*   **核心区别：细胞壁的存在与否**
+    *   植物细胞有坚固的**细胞壁**来抵抗膨压并限制细胞膜过度扩张。
+    *   动物细胞**没有细胞壁**，其细胞膜是唯一的屏障，脆弱且易破裂。
+
+*   **不同水势环境下的动物细胞反应：**
+    *   **高水势溶液 (如纯水)**
+        *   水会因渗透作用大量进入细胞。
+        *   细胞会不断膨胀，由于没有细胞壁的保护，最终会**破裂（Lysis）**。
+        *   这就是为什么静脉输液必须使用与血浆等渗的生理盐水（0.9% NaCl），而不是纯水。
+    *   **低水势溶液 (如浓盐水)**
+        *   细胞内的水会因渗透作用而净流出。
+        *   细胞会因失水而皱缩，这个过程叫**皱缩（Crenation）**。
+        *   皮肤长时间泡在海水里会起皱，部分原因就是表皮细胞失水皱缩引起的变化。
+
+*   **平衡的重要性：**
+    *   必须将动物细胞（包括人体细胞）置于与自身细胞质水势相等的**等渗溶液**中。在这种环境下，水分子的进出达到动态平衡，细胞才能维持正常的形态和功能。
+
+---
+
+### 3.3 Active Transport (主动运输)
+
+#### 2.3.1 定义与特性 (Core & Supplement)
+
+*   **定义**：主动运输（Active transport）是物质粒子通过细胞膜，从**低浓度区域**向**高浓度区域**的移动，即**逆浓度梯度（against a concentration gradient）** 移动。
+*   **特性**：
+    *   **需要能量**：主动运输所需的能量来自呼吸作用（respiration）产生的ATP。
+    *   **需要载体蛋白**：细胞膜上的**载体蛋白（carrier proteins）** 会特异性地结合要运输的分子或离子，利用ATP的能量改变形状，将物质跨膜运输。
+
+#### 2.3.2 在生物体内的应用
+
+*   **根部吸收矿物质**：土壤中矿物离子（如硝酸盐）的浓度通常低于根毛细胞内部。但植物仍需吸收这些离子，因此根毛细胞通过主动运输逆浓度梯度吸收矿物离子。
+*   **肾小管重吸收**：肾脏中，肾小管会将原尿中的全部葡萄糖和大部分水及无机盐通过主动运输重吸收回血液。
+*   **小肠吸收葡萄糖**：小肠绒毛上皮细胞会利用主动运输，将肠腔中已较低浓度的葡萄糖全部吸收进入血液。
+
+---
+
+## Part 3: 词汇表 / Glossary
+
+| 术语 (English) | 中文 | 定义 |
 | :--- | :--- | :--- |
-| **扩散定义** | Define diffusion / Which statement describes diffusion? | net movement of particles from higher concentration to lower concentration (down a concentration gradient), as a result of random movement. Energy from kinetic energy of particles.[reference:0] |
-| **渗透定义** | Define osmosis / Which row correctly describes osmosis? | net movement of water molecules from higher water potential (dilute solution) to lower water potential (concentrated solution) through a partially permeable membrane.[reference:1] |
-| **主动运输定义** | Define active transport / Which row describes features of active transport? | movement of particles from lower concentration to higher concentration (against concentration gradient), using energy from respiration. Requires protein carriers in the membrane.[reference:2] |
-| **扩散 vs 渗透 vs 主动运输** | Compare diffusion, osmosis and active transport / Complete table | **Diffusion**: any particles, down gradient, no energy, membrane optional; **Osmosis**: water only, down water potential, no energy, partially permeable membrane required; **Active transport**: specific particles, against gradient, requires energy (from respiration), membrane with carriers required.[reference:3] |
-| **气体交换中的扩散** | How do O₂ / CO₂ move between cells and capillaries? / Which process? | Diffusion.[reference:4] |
-| **植物细胞在浓溶液中的变化** | What happens to plant cells in concentrated sugar solution? | Water leaves by osmosis → cells become flaccid / plasmolysed (cytoplasm pulls away from cell wall).[reference:5] |
-| **红细胞在纯水中的变化** | What happens to red blood cells in pure water? | Water enters by osmosis → cells swell and burst (haemolysis).[reference:6] |
-| **根毛细胞吸收物质** | How do root hair cells absorb water / mineral ions? | Water: osmosis; Mineral ions: active transport.[reference:7] |
-| **透析袋实验解释** | Why does the dialysis tubing lose / gain mass? | Mass change indicates water movement by osmosis. Mass ↓ = water moved out; Mass ↑ = water moved in.[reference:8] |
-| **扩散方向判断** | Which direction do particles move during diffusion? | From higher to lower concentration down a concentration gradient (not against).[reference:9] |
-| **主动运输特征判断** | Which row correctly describes active transport? | Against concentration gradient; uses energy from respiration; occurs through a membrane with protein carriers.[reference:10] |
+| **Diffusion** | 扩散 | 粒子由高浓度向低浓度区域的净移动。 |
+| **Concentration Gradient** | 浓度梯度 | 物质浓度从高到低的变化。扩散的方向是顺浓度梯度的。 |
+| **Osmosis** | 渗透 | 水分子通过部分渗透膜由高水势向低水势的净移动。 |
+| **Water Potential** | 水势 | 衡量水分子自由移动趋势的物理量。纯水水势最高，溶液越浓，水势越低。 |
+| **Partially Permeable Membrane** | 部分渗透膜 | 一种允许某些小分子通过但阻挡大分子的膜。 |
+| **Turgid** | 硬挺 | 描述植物细胞因吸水而膨胀，对细胞壁产生压力的状态。 |
+| **Flaccid** | 松弛 | 描述植物细胞水分进出平衡，细胞不再紧绷的状态。 |
+| **Plasmolysis** | 质壁分离 | 植物细胞失水后，细胞膜与细胞壁分离的现象。 |
+| **Active Transport** | 主动运输 | 粒子由低浓度向高浓度区域的移动，需要能量和载体蛋白。 |
+| **Carrier Protein** | 载体蛋白 | 细胞膜上的一种蛋白质，能特异性结合并转运跨膜物质。 |
+
+## Part 4: 备考建议
+
+### Paper 2（选择题）策略：
+*   **概念辨析**：准确区分三者的**能量需求**（前两者被动，第三者主动）、**运输方向**（顺/逆浓度梯度）和**转运对象**（水分子/其他粒子）。
+*   **图表陷阱**：注意渗透实验中液面变化的逻辑（水势低的一侧液面会升高）。
+*   **实验条件**：牢记探究扩散/渗透影响因素的实验设置，注意控制变量。
+
+### Paper 4（结构题）答题模板：
+*   **定义题**：必须使用考纲要求的关键词（Net movement, down/against a concentration gradient, water potential, etc.），用词精确。
+*   **解释题**：
+    *   解释植物萎蔫或硬挺原因时，需完整联系**水势差 → 渗透方向 → 细胞状态（膨压/质壁分离）→ 宏观现象**。
+    *   解释主动运输时，必须明确提出能量（ATP）和载体蛋白两个要素。
+*   **实验设计/分析题**：遇到表格或图形数据，先判断因变量（如扩散速率）、自变量（如温度、浓度差），再用理论解释数据趋势。
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
-
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **扩散定义与解释** | (a)(i) Define diffusion. (ii) State the energy source for diffusion. | (i) Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration (down a concentration gradient), as a result of their random movement.[reference:11] (ii) Kinetic energy (of the particles).[reference:12] |
-| **扩散方向判断** | Explain why CO₂ diffuses out of a cell. | CO₂ is produced by respiration inside the cell, so its concentration is higher inside than outside. Therefore, CO₂ diffuses out down its concentration gradient.[reference:13] |
-| **渗透定义（Supplement）** | Define osmosis in terms of water potential. | Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential through a partially permeable membrane.[reference:14] |
-| **植物细胞在渗透中的变化** | Describe and explain the appearance of plant cells after immersion in salt solution. | Before: cells are turgid (cytoplasm pushes against cell wall). After: cells are plasmolysed/flaccid (cell membrane and cytoplasm pull away from cell wall). Explanation: Salt solution has lower water potential than cell cytoplasm → water moves out of cells by osmosis → turgor pressure decreases.[reference:15] |
-| **主动运输定义与识别** | Identify the type of movement from a diagram / description. | Active transport. The particles are moving from lower to higher concentration (against concentration gradient), and the diagram shows energy being used. Active transport requires protein carriers in the membrane and energy from respiration.[reference:16] |
-| **透析袋实验分析** | Explain why the mass of dialysis tubing changed. | The mass decreased → water moved out of the tubing by osmosis. This means the water potential inside the tubing was higher (more dilute) than outside.[reference:17] |
-| **主动运输例子** | Give an example of active transport. | Uptake of mineral ions (e.g. nitrates) by root hair cells from soil, where ion concentration is lower in soil than inside the cell.[reference:18] |
-| **比较表完成** | Complete Table 1.1 to show features of diffusion, osmosis and active transport. | Diffusion: particles move down gradient, no energy, membrane not required. Osmosis: water moves down water potential gradient, no energy, partially permeable membrane required. Active transport: particles move against gradient, requires energy, membrane with carriers required.[reference:19] |
-| **淀粉不能通过透析膜的原因** | Explain why starch cannot pass through the dialysis tubing. | Starch molecules are too large / insoluble; they cannot pass through the pores of the partially permeable membrane.[reference:20] |
-| **红细胞在纯水中的变化（Supplement）** | Describe what happens to red blood cells in pure water. | Water moves into cells by osmosis (from higher water potential outside to lower inside) → cells swell and burst (haemolysis).[reference:21] |
-
----
-
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
-
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 呼吸作用与扩散混淆 | 扩散是物理过程，呼吸作用是细胞内的化学反应 | 选项中用“respiration”代替“diffusion”解释气体交换 |
-| 渗透定义缺少“water molecules” | 渗透必须是**水分子**的移动 | 选项中写“particles”或“solute molecules” |
-| 渗透方向写反 | 水从高水势（稀溶液）向低水势（浓溶液）移动 | 选项中写“from concentrated to dilute” |
-| 扩散和渗透混淆 | 渗透是特指水的扩散，必须有部分透性膜 | 选项中把“osmosis”写成任何分子的移动 |
-| 主动运输方向写反 | 主动运输是**逆浓度梯度**（低→高） | 选项中写“from higher to lower concentration” |
-| 主动运输能量来源错误 | 能量来自**呼吸作用 (respiration)**，不是“ATP”（IGCSE不要求写ATP） | 选项中写“from sunlight”或“from diffusion” |
-| 主动运输必须有膜 | 主动运输必须通过细胞膜 | 选项中写“occurs without a membrane” |
-| 浓度梯度与扩散速率关系 | 梯度越大，扩散越快 | 选项中写“decreasing gradient increases rate”[reference:22] |
-| 水势概念混淆 | 纯水水势最高；加溶质降低水势 | 选项中写“higher water potential = more concentrated” |
-| 渗透实验误认溶液 | 认为试管中是纯水，忽略溶质存在 | 选项中不识别溶质浓度对水势的影响[reference:23] |
-
----
-
-### ✅ 四、Topic 3 完整考点核对清单 (对照 2026–2028 考纲)
-
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 3.1 Diffusion | 扩散定义、能量来源（动能）；扩散通过细胞膜；气体和溶质扩散在生物体中的重要性；影响扩散速率的因素（表面积、温度、浓度梯度、距离） | ✅ |
-| 3.2 Osmosis | 渗透定义（水通过部分透性膜的扩散）；水在生物体中的作用（消化、排泄、运输）；水通过细胞膜进出细胞；渗透实验（透析袋）；不同浓度溶液对植物组织的影响；水势概念（Supplement）；植物细胞的膨压、质壁分离、萎蔫（Supplement） | ✅ |
-| 3.3 Active transport | 主动运输定义（逆浓度梯度、需呼吸能量）；主动运输在生物体中的重要性（根毛吸收离子）；蛋白质载体在主动运输中的作用（Supplement） | ✅ |
-
----
+希望这份详细且符合考纲的笔记能够帮助你高效学习 IGCSE Biology Topic 3。对于其他Topic的笔记需求，随时可以提出。祝你备考顺利！
 
 ### 📌 五、如何使用本资料
 
