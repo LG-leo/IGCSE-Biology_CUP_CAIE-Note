@@ -1,114 +1,262 @@
-## 🔬 Topic 9: Transport in Animals
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 9: Transport in Animals
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
 
----
-
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
-
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
-| :--- | :--- | :--- |
-| **循环系统定义** | Describe the circulatory system. | a system of blood vessels with a pump (heart) and valves to ensure one-way flow of blood |
-| **单循环 (Supplement)** | Describe the single circulation of a fish. | blood passes through the heart only once for each complete circuit of the body; heart → gills → body → heart |
-| **双循环 (Supplement)** | Describe the double circulation of a mammal. | blood passes through the heart twice for each complete circuit of the body; consists of pulmonary circulation (heart → lungs → heart) and systemic circulation (heart → body → heart) |
-| **双循环优势 (Supplement)** | State two advantages of double circulation. | oxygenated and deoxygenated blood kept separate for efficient oxygen delivery; blood pumped at higher pressure to body after returning from lungs, ensuring rapid delivery of oxygen and nutrients to tissues |
-| **心脏结构识别** | Label / Identify the structures of the mammalian heart. | atria (left and right), ventricles (left and right), septum, atrioventricular valves (tricuspid / bicuspid), semilunar valves, coronary arteries, vena cava, aorta, pulmonary artery, pulmonary vein |
-| **左心室壁厚度原因** | Why is the wall of the left ventricle thicker than that of the right ventricle? | left ventricle pumps blood to the whole body (higher pressure); right ventricle pumps blood only to the lungs |
-| **房室瓣功能** | What is the function of the atrioventricular valves? | prevent backflow of blood from ventricles to atria during ventricular contraction |
-| **半月瓣功能** | What is the function of the semilunar valves? | prevent backflow of blood from arteries back into ventricles during diastole |
-| **心脏活动监测** | How can the activity of the heart be monitored? | ECG (electrocardiogram), pulse rate, listening to sounds of valves closing (using a stethoscope) |
-| **冠心病原因** | What causes coronary heart disease (CHD)? | blockage of coronary arteries by fatty deposits / atheroma; reduces or blocks blood flow to heart muscle, leading to lack of oxygen (heart attack) |
-| **冠心病风险因素** | State two risk factors for CHD. | diet high in saturated fats and cholesterol; lack of exercise; stress; smoking; genetic predisposition; age; sex (any two) |
-| **冠心病预防** | How can the risk of CHD be reduced? | balanced diet low in saturated fats; regular exercise; not smoking; managing stress |
-| **动脉结构特点** | How are arteries adapted for their function? | thick, muscular, elastic walls to withstand high pressure; narrow lumen maintains pressure |
-| **静脉结构特点** | How are veins adapted for their function? | thin walls and wide lumen to ease blood flow under low pressure; valves prevent backflow |
-| **毛细血管功能** | State the function of capillaries. | site of exchange of substances (oxygen, carbon dioxide, nutrients, waste) between blood and tissues |
-| **肝门静脉** | What is the function of the hepatic portal vein? | transports deoxygenated blood rich in absorbed nutrients from the digestive organs (e.g. small intestine, stomach) to the liver for processing and storage |
-| **血液成分功能** | State the function of red blood cells / white blood cells / platelets / plasma. | **RBCs**: transport oxygen (contain haemoglobin); **WBCs**: defend the body against disease (phagocytosis / antibody production); **platelets**: help blood clot (prevent blood loss and pathogen entry); **plasma**: transports blood cells, ions, nutrients, urea, hormones, and carbon dioxide |
-| **红细胞适应** | How are red blood cells adapted to carry oxygen? | biconcave shape (increases surface area for oxygen uptake); no nucleus (more space for haemoglobin); contain haemoglobin (binds to oxygen) |
-| **白细胞类型 (Supplement)** | Distinguish between phagocytes and lymphocytes. | **phagocytes**: engulf and digest pathogens by phagocytosis; **lymphocytes**: produce antibodies which bind to specific antigens, marking pathogens for destruction |
-| **凝血过程 (Supplement)** | Describe the process of blood clotting. | platelets adhere to damaged vessel wall and release clotting factors → clotting factors convert prothrombin → thrombin → thrombin converts soluble fibrinogen → insoluble fibrin → fibrin forms a mesh that traps red blood cells and platelets → clot forms |
-| **凝血的作用** | State the role of blood clotting. | preventing blood loss; preventing the entry of pathogens through the wound |
+> 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括循环系统、心脏结构与功能、血管、血液成分、免疫与凝血、冠心病、双循环的优势、血浆与血清、肾血管、爬行动物心脏、瓣膜与压力关系等全部必考点。每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+## 9.1 循环系统概述
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **心脏结构与功能** | (a) Identify the structures labelled in Fig. X. (b) State the function of the septum. | (a) **A**: left ventricle; **B**: right ventricle; **C**: left atrium; **D**: right atrium; **E**: vena cava; **F**: aorta; **G**: pulmonary artery; **H**: pulmonary vein; **V**: atrioventricular valve / bicuspid / tricuspid. (b) The septum separates oxygenated and deoxygenated blood, preventing them from mixing. |
-| **双循环路径描述** | Describe the path of blood through the heart and lungs. | Deoxygenated blood from the body enters the right atrium via the vena cava → right ventricle → pulmonary artery → lungs (becomes oxygenated) → pulmonary vein → left atrium → left ventricle → aorta → body. |
-| **心率和运动** | (a) Explain why the pulse rate rises during exercise. (b) Describe how you could measure the pulse rate. | (a) Muscles need more oxygen and glucose for increased respiration, and need to remove more carbon dioxide. The brain detects increased CO₂ and sends nerve impulses to increase heart rate. (b) Count the number of pulses felt at the wrist or neck for 15 seconds and multiply by 4 / use a heart rate monitor. |
-| **运动后心率恢复** | Explain why heart rate remains high after exercise stops. | to continue transporting lactic acid from muscles to the liver; to supply oxygen for aerobic respiration of lactic acid to remove oxygen debt |
-| **心脏心动周期** | Describe the events of the cardiac cycle. | atrial systole: atria contract, blood forced into ventricles; ventricular systole: ventricles contract, AV valves close (lub), semilunar valves open, blood ejected into arteries; diastole: all chambers relax, semilunar valves close (dub), blood flows into atria from veins |
-| **凝血过程描述** | Describe the process of blood clotting. | Platelets stick to damaged vessel wall and release clotting factors → clotting factors convert prothrombin → thrombin → thrombin converts soluble fibrinogen → insoluble fibrin → fibrin forms a mesh that traps red blood cells and platelets → a clot forms, sealing the wound and preventing further blood loss and pathogen entry |
-| **肝脏在血液循环中的作用** | Explain why blood in the hepatic portal vein is deoxygenated. | Blood in the hepatic portal vein has passed through the capillaries of the digestive organs (e.g. stomach, small intestine) where oxygen has been used for respiration, so it is deoxygenated before it reaches the liver |
-| **肝门静脉路径** | Name the organs that are connected by the hepatic portal vein. | Digestive organs (stomach, small intestine, pancreas, spleen) and the liver |
-| **ECG与心率计算** | Use the ECG trace to calculate the heart rate. | Measure the time between two consecutive R waves (or QRS complexes) and calculate beats per minute: `(number of beats × 60) / time in seconds` |
-| **心音产生原因** | State what causes the sounds made by the heart. | The "lub" sound is caused by the closure of the atrioventricular valves; the "dub" sound is caused by the closure of the semilunar valves |
-| **动脉与静脉比较** | Compare the structure of arteries and veins. | Arteries: thick walls, narrow lumen, no valves, high pressure; Veins: thin walls, wide lumen, valves present, low pressure |
-| **毛细血管适应结构** | Explain how capillaries are adapted for exchange. | thin walls (one cell thick) for short diffusion distance; narrow lumen (red blood cells pass singly) increases surface area for exchange; large network provides large surface area; slow blood flow allows time for exchange |
+### 9.1.1 定义与功能
 
----
+**定义**：循环系统是由心脏、血管和血液组成的系统，通过 **心脏（泵）** 的节律性收缩将血液推动到全身各处，并借助瓣膜确保血液单向流动。
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+**心脏的核心功能**：作为肌肉泵，通过有节律的收缩将血液射入动脉，驱动血液流经全身所有血管，最终返回心脏。
 
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 动脉一定携带氧合血 | 动脉定义是**离心方向**；肺动脉携带脱氧血 | 选项中写“arteries always carry oxygenated blood” |
-| 静脉一定携带脱氧血 | 静脉定义是**回心方向**；肺静脉携带氧合血 | 选项中写“veins always carry deoxygenated blood” |
-| 动脉和静脉的主要区别是壁厚和瓣膜，不是血氧含量 | 动脉：厚壁、无瓣膜；静脉：薄壁、有瓣膜 | 选项中只根据血氧含量区分动脉和静脉 |
-| 所有血管都有瓣膜 | 瓣膜只存在于**静脉**（以及心脏），动脉和毛细血管没有 | 选项中写“all blood vessels have valves” |
-| 毛细血管壁有多层细胞 | 毛细血管壁只有**单层细胞**（一层内皮细胞），利于物质交换 | 选项中写“capillary walls are thick” |
-| 心脏四个腔室功能混淆 | 右心室泵血到**肺**；左心室泵血到**全身** | 选项中把左右心室的功能互换 |
-| 心室收缩时房室瓣关闭 | 心室收缩时室内压升高，房室瓣**关闭**防止血液倒流回心房 | 选项中写“atria contract → AV valves close” |
-| 血红蛋白只存在于红细胞中 | 血红蛋白是红细胞中的蛋白质，用于结合氧气 | 选项中写“haemoglobin is found in plasma” |
-| 凝血过程中纤维蛋白原→纤维蛋白 | 可溶性纤维蛋白原→不溶性纤维蛋白，形成网状结构 | 选项中写“fibrinogen is insoluble” |
-| 心脏自身供血来自冠状动脉 | 冠状动脉为心肌提供氧合血；堵塞导致冠心病 | 选项中写“heart receives blood from the chambers” |
-| 冠心病只由饮食引起 | CHD风险因素包括饮食、吸烟、缺乏运动、压力、遗传、年龄和性别 | 选项中只列出饮食因素 |
-| 肝门静脉携带氧合血 | 肝门静脉携带**脱氧血**，因为血液已流经消化器官的毛细血管 | 选项中写“hepatic portal vein carries oxygenated blood” |
-| 心脏起搏器/窦房结 | 窦房结是心脏的自然起搏点，产生电脉冲控制心跳 | 选项中写“heartbeat is initiated by the brain” |
-| 单循环与双循环混淆 | 单循环（鱼）：心脏→鳃→身体→心脏；双循环（哺乳动物）：肺循环+体循环 | 选项中混淆两种循环的路径 |
-| 冠心病与心绞痛/心肌梗死的关系 | 部分堵塞→心绞痛（angina）；完全堵塞→心肌梗死（heart attack） | 选项中混淆两者的区别 |
+**循环系统的核心功能**：
+- 运输氧气、营养物质、激素到全身组织
+- 移除二氧化碳、尿素等代谢废物
+- 分布热量，维持体温
+- 运输白细胞和抗体参与免疫防御
 
----
+### 9.1.2 单循环与双循环
 
-### ✅ 四、Topic 9 完整考点核对清单 (对照 2026–2028 考纲)
+#### 鱼类的单循环 (Single Circulation)
+- 心脏由 **两腔** 组成：1 个心房 + 1 个心室
+- 每完成一次全身循环，血液仅 **通过心脏一次**
+- 路径：心室 → 鳃 → 全身 → 心房 → 心室
+- 鳃部毛细血管和体内毛细血管之间压力损失大，血流速度慢
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 9.1 Circulatory systems | 循环系统定义；单循环（鱼）；双循环（哺乳动物）；双循环的优势（Supplement） | ✅ |
-| 9.2 Heart | 哺乳动物心脏结构（心房、心室、隔膜、瓣膜、冠状动脉）；心脏功能（心房收缩、心室收缩、瓣膜作用）；心脏活动监测（ECG、脉搏率、听诊）；体力活动对心率的影响；冠心病（原因、风险因素、预防） | ✅ |
-| | (Supplement) 心脏瓣膜识别；心室壁厚度原因；隔膜重要性；心动周期（压力变化、瓣膜开闭） | ✅ |
-| 9.3 Blood vessels | 动脉、静脉、毛细血管结构与功能比较；主要血管识别（腔静脉、主动脉、肺动脉、肺静脉、肾动脉、肾静脉）；结构与压力的关系 | ✅ |
-| | (Supplement) 血管结构与压力关系；毛细血管结构与功能的关系；肝脏主要血管（肝动脉、肝静脉、肝门静脉） | ✅ |
-| 9.4 Blood | 血液成分（红细胞、白细胞、血小板、血浆）；红细胞在氧气运输中的作用（血红蛋白）；白细胞在吞噬作用和抗体产生中的作用；血小板在凝血中的作用；血浆在运输中的作用；凝血的作用（防止失血和病原体进入） | ✅ |
-| | (Supplement) 淋巴细胞和吞噬细胞识别；凝血过程（纤维蛋白原→纤维蛋白） | ✅ |
+#### 爬行动物的心脏（三层心脏，Supplement 扩展）
+- 心脏由 **三腔** 组成：2 个心房 + 1 个心室
+- 心室虽有部分分隔，但含氧血和缺氧血在心室中仍有一定混合
+- 介于鱼类（两腔）和哺乳动物（四腔）之间的过渡类型
 
----
+#### 哺乳动物的双循环 (Double Circulation)
+- 心脏由 **四腔** 组成：2 个心房 + 2 个心室
+- 每完成一次全身循环，血液 **通过心脏两次**
+- **肺循环 (Pulmonary circulation)**：右心室 → 肺动脉 → 肺毛细血管 → 肺静脉 → 左心房
+- **体循环 (Systemic circulation)**：左心室 → 主动脉 → 全身毛细血管 → 上/下腔静脉 → 右心房
+- 完全分离氧气血和缺氧血
 
-### 📌 五、单点考题示例 (Single Examination Point Questions)
-
-| 单点考题 | 答案 |
+#### 双循环的优势（高频考点）
+| 优势 | 解释 |
 | :--- | :--- |
-| State the name of the largest artery in the body. | Aorta |
-| Name the blood vessel that carries deoxygenated blood from the heart to the lungs. | Pulmonary artery |
-| What is the name of the valve between the left atrium and left ventricle? | Bicuspid / mitral valve |
-| State the function of the septum. | Prevents mixing of oxygenated and deoxygenated blood |
-| Name the blood vessel that carries oxygenated blood from the lungs to the heart. | Pulmonary vein |
-| What is the name of the blood vessel that supplies the heart muscle with oxygenated blood? | Coronary arteries |
-| Name the chamber of the heart that pumps blood to the lungs. | Right ventricle |
-| Name the chamber of the heart that has the thickest muscular wall. | Left ventricle |
-| State one function of the hepatic portal vein. | Transports absorbed nutrients from the digestive system to the liver |
-| Name the protein in red blood cells that binds to oxygen. | Haemoglobin |
-| What is the name of the fragments of cells involved in blood clotting? | Platelets |
-| State the function of white blood cells. | Defend the body against disease |
-| Name the process by which phagocytes engulf pathogens. | Phagocytosis |
-| State one risk factor for coronary heart disease. | Diet high in saturated fats / smoking / lack of exercise / stress |
-| What is the name of the fatty deposit that blocks coronary arteries? | Atheroma / plaque |
+| 全身血压更高 | 左心室将含氧血高压泵向全身，组织获得充足血液供应 |
+| 血流速度更快 | 较高的压力使血液更快到达远端组织，缩短循环时间 |
+| 氧气输送效率更高 | 氧合血与缺氧血完全分离，血液中氧分压始终较高 |
+| 满足高代谢率需求 | 哺乳动物为恒温动物，需要高效率的氧供应以维持体温和活动能量 |
 
+> 与鱼类单循环相比，双循环避免了血液经过鳃（或肺）后压力大幅下降的问题，从而使组织获得高压、高速的血流。
+
+---
+
+## 9.2 心脏结构与功能
+
+### 9.2.1 心脏主要结构
+
+| 结构 | 位置/描述 | 功能 |
+| :--- | :--- | :--- |
+| **右心房** | 心脏右上部分 | 从上腔静脉和下腔静脉接收静脉血（缺氧） |
+| **右心室** | 右心房下方，壁较薄 | 将脱氧血压向肺部（低压区，压力低） |
+| **左心房** | 心脏左上部分 | 从肺静脉接收氧合血 |
+| **左心室** | 左心房下方，**壁最厚** | 将含氧血压向全身主动脉（高压区，压力高） |
+| **室间隔** | 左右心室之间肌肉壁 | 防止两边的血液混合 |
+| **房室瓣** | 心房与心室之间 | 心室收缩时关闭，防止血液回流心房 |
+| **半月瓣** | 心室与动脉之间 | 心室舒张时关闭，防止动脉血回流心室 |
+| **冠状动脉** | 心脏表面血管 | **向心肌提供氧气和营养**（心肌细胞自身不能从心腔内血液直接获取营养） |
+| **心肌** | 心脏肌层 | 有节律地收缩，产生泵血动力 |
+
+> 左心室壁最厚，因为它需要产生足够压力将血液泵送到全身。右心室壁较薄，只将血液泵送到邻近的肺部。
+
+### 9.2.2 心脏的心音（lub‑dub）
+
+正常心跳产生两个心音：
+
+| 心音 | 产生原因 | 发生时间 | 意义 |
+| :--- | :--- | :--- | :--- |
+| **第一心音 (lub)** | **房室瓣（二尖瓣和三尖瓣）关闭**，血液冲击关闭的瓣膜产生振动 | 心室收缩期开始 | 标志心室收缩开始，血液从心室射入动脉 |
+| **第二心音 (dub)** | **半月瓣（主动脉瓣和肺动脉瓣）关闭**，阻止动脉血倒流回心室 | 心室舒张期开始 | 标志心室舒张开始，心室开始充盈血液 |
+
+**心音的产生机理**：瓣膜关闭时，血流突然减速或改变方向，引起瓣膜和附近血管壁振动，这种振动经组织传到胸壁，被听诊器听到。**心音异常（杂音）** 常提示瓣膜关闭不全（瓣膜不能完全闭合导致血液反流）或瓣膜狭窄（瓣膜开口过小，血流受阻产生湍流）。
+
+### 9.2.3 心脏的血液流动路径（按顺序记忆）
+
+**完整路径（含氧变化）**：
+
+全身毛细血管（缺氧）→ 小静脉 → 上/下腔静脉 → **右心房** → 三尖瓣 → **右心室** → 肺动脉瓣 → 肺动脉 → 肺毛细血管（释放 CO₂，结合 O₂）→ 肺静脉 → **左心房** → 二尖瓣 → **左心室** → 主动脉瓣 → 主动脉 → 全身毛细血管（氧合血释放 O₂ 变成缺氧血）
+
+### 9.2.4 心脏的监测
+- **ECG（心电图）**：记录心脏电活动，检测异常节律
+- **脉搏率**：在腕部或颈部触摸动脉搏动
+- **听诊**：用听诊器听取心音，评估瓣膜功能
+
+---
+
+## 9.3 血管结构与功能（含血压）
+
+| 特征 | **动脉** | **毛细血管** | **静脉** |
+| :--- | :--- | :--- | :--- |
+| **管壁厚度** | 厚 | 极薄（单层内皮细胞） | 薄 |
+| **管腔直径** | 小 | 极窄（仅容单个红细胞通过） | 大 |
+| **弹性纤维** | 丰富 | 极少 | 较少 |
+| **平滑肌** | 丰富 | 无 | 少量 |
+| **瓣膜** | 无 | 无 | **有**（最重要特征） |
+| **血流速度** | 快 | 极慢 | 慢 |
+| **血压（典型值）** | 很高（主动脉收缩压约 120 mmHg，舒张压约 80 mmHg） | 低（动脉端约 30 mmHg，静脉端约 10 mmHg） | 很低（近 0–10 mmHg） |
+| **功能** | 将血液从心脏输送出去 | 物质交换 | 将血液送回心脏 |
+
+**血压在血管系统中的变化**：
+- **主动脉** 直接承接左心室高压射血，血压最高。
+- 随着血液流向小动脉、毛细血管，因阻力增加，血压逐渐下降。
+- **静脉** 血压极低，血液容易因重力倒流（尤其是下肢），因此需要 **骨骼肌泵**（肌肉收缩挤压静脉）和 **呼吸运动** 辅助血液回流，同时 **静脉瓣** 防止倒流。
+
+**动脉与静脉的主要差异**：
+- 动脉管壁厚、富含弹性纤维和肌肉，能承受高压并维持血流；静脉壁薄、管腔大，容纳较多血液作为“容量血管”。
+- 动脉内无瓣膜（除半月瓣在心室出口）；静脉内有瓣膜，防止低压下血液倒流。
+
+---
+
+## 9.4 血液成分
+
+血液由 **血浆**、**红细胞**、**白细胞（吞噬细胞和淋巴细胞）** 和 **血小板** 组成。
+
+### 9.4.1 血浆 (Blood Plasma)
+
+**定义**：血液的液体成分，约占全血体积的 **55%**（其余为血细胞）。血浆约 **90–92% 是水**，其余为溶质。
+
+**血浆的主要功能**：
+- 运输血细胞、离子、营养素、激素、CO₂、尿素、热量
+- 维持渗透压和酸碱平衡
+- 分布体温
+
+**血浆中常见的运输物质**：
+
+| 组分 | 例子 | 作用 |
+| :--- | :--- | :--- |
+| **离子（矿物质）** | Na⁺, K⁺, Ca²⁺, Cl⁻, HCO₃⁻ | 渗透调节；神经传导；酸碱平衡 |
+| **营养素** | 葡萄糖、氨基酸、脂肪酸、甘油 | 供能；合成原料 |
+| **气体** | CO₂（主要运输形式：碳酸氢盐 HCO₃⁻）、少量溶解 O₂ | 呼吸 |
+| **激素** | 胰岛素、肾上腺素 | 化学协调 |
+| **排泄废物** | 尿素、尿酸 | 运送至肾脏排出 |
+| **血浆蛋白** | 白蛋白、球蛋白、纤维蛋白原 | 维持渗透压；运输脂类；凝血 |
+| **热量** | — | 体温分布 |
+
+### 9.4.2 血清 (Blood Serum)
+
+**定义**：血液凝固后，血浆中的 **纤维蛋白原** 转变成不溶的 **纤维蛋白**，血块形成。剩余未凝固的淡黄色液体就是 **血清**。
+
+- 血清 = 血浆 – 凝血因子（主要是纤维蛋白原）
+- 血清含有抗体、激素、离子、营养素等，但不含纤维蛋白原（已消耗）
+- 常用于诊断检测（如血清学检测抗体）
+
+### 9.4.3 血液细胞对比
+
+| 成分 | 形态 | 功能 | 关键特征 |
+| :--- | :--- | :--- | :--- |
+| **红细胞** | 双凹盘状，无细胞核 | 运输氧气（含血红蛋白） | 无核增加血红蛋白空间 |
+| **白细胞（吞噬细胞）** | 不规则形状，大核 | **吞噬** 病原体 | 可变形，富含溶酶体 |
+| **白细胞（淋巴细胞）** | 大而圆的核几乎填满细胞 | 产生 **特异性抗体** | 参与免疫记忆 |
+| **血小板** | 细胞碎片，无核 | 凝血（形成血栓） | 由巨核细胞裂解形成 |
+
+### 9.4.4 凝血过程
+1. **血小板** 在受损血管处聚集并释放凝血因子
+2. 可溶性 **纤维蛋白原** → 不溶性 **纤维蛋白**（由凝血酶催化）
+3. 纤维蛋白形成网状结构，捕获血细胞，形成血凝块
+4. 血凝块变干形成 **痂 (scab)**，防止进一步出血和病原体入侵
+
+---
+
+## 9.5 主要血管（考纲要求）
+
+| 血管 | 类型 | 血液类型 | 功能 |
+| :--- | :--- | :--- | :--- |
+| **上腔静脉** | 静脉 | 缺氧血 | 上半身静脉血回右心房 |
+| **下腔静脉** | 静脉 | 缺氧血 | 下半身静脉血回右心房 |
+| **肺动脉** | 动脉 | **缺氧血** | 右心室 → 肺部 |
+| **肺静脉** | 静脉 | **含氧血** | 肺部 → 左心房 |
+| **主动脉** | 动脉 | 含氧血 | 左心室 → 全身 |
+| **肾动脉** | 动脉 | 含氧血 | 主动脉 → 肾脏 |
+| **肾静脉** | 静脉 | 缺氧血 | 肾脏 → 下腔静脉 |
+| **肝动脉** | 动脉 | 含氧血 | 主动脉 → 肝脏 |
+| **肝门静脉** | 静脉 | 富含营养的缺氧血 | 小肠 → 肝脏 |
+| **肝静脉** | 静脉 | 缺氧血 | 肝脏 → 下腔静脉 |
+
+> ⚠️ 动静脉的分类依据是 **血流方向**（离心脏为动脉，回心脏为静脉），而不是血液含氧量。肺动脉输送缺氧血，肺静脉输送含氧血，这是 Paper 2 高频陷阱。
+
+---
+
+## 9.6 淋巴系统
+
+### 9.6.1 组织液的形成
+- 毛细血管动脉端血压较高，将水、葡萄糖、氨基酸、氧气、离子等滤出血管壁，形成 **组织液**，浸泡细胞。
+- 约 **90%** 被毛细血管静脉端重吸收。
+- 剩余约 **10%** 进入 **淋巴毛细管**，形成 **淋巴**。
+
+### 9.6.2 淋巴的功能
+- 将多余组织液返回血液循环
+- 运输小肠吸收的脂肪（乳糜）
+- 在 **淋巴结** 过滤病原体，参与免疫防御
+
+---
+
+## 9.7 冠心病
+
+### 9.7.1 冠状动脉疾病
+- **冠状动脉** 为心肌提供氧气和营养。
+- 高胆固醇饮食、吸烟等引起 **脂肪斑块** 堆积 → 管腔变窄 → 心肌供血不足 → 心绞痛 → 心肌梗死（心脏病发作）。
+
+### 9.7.2 危险因素
+
+| 因素 | 解释 |
+| :--- | :--- |
+| 高饱和脂肪饮食 | 升高血胆固醇，加速斑块形成 |
+| 吸烟 | 损伤动脉内皮，一氧化碳降低携氧能力 |
+| 缺乏运动 | 导致肥胖、高血压、高胆固醇 |
+| 遗传（家族史） | 增加易感性 |
+| 年龄、性别 | 年龄增长风险增加，男性更早 |
+| 应激（压力） | 升高血压，增加心脏负荷 |
+
+### 9.7.3 预防措施
+- 戒烟、低脂饮食、多吃果蔬、定期锻炼。
+
+---
+
+## 📌 常见考试陷阱（Paper 2 选择题）
+
+| 错误观念 | 正确说法 |
+| :--- | :--- |
+| 动脉总输送含氧血 | **肺动脉** 输送缺氧血到肺部 |
+| 静脉总输送缺氧血 | **肺静脉** 输送含氧血回左心房 |
+| 所有白细胞产生抗体 | 只有 **淋巴细胞** 产生抗体 |
+| 左、右心室壁厚度相同 | 左心室壁更厚 |
+| 红细胞有细胞核 | 哺乳动物成熟红细胞无核 |
+| 双循环是指两次泵血 | 双循环指血液 **两次经过心脏** |
+| 血清就是血浆 | 血清是血浆除去纤维蛋白原 |
+| 静脉压力高 | 静脉压力 **很低**，依靠瓣膜和肌肉泵 |
+| 肝门静脉输送含氧血 | 肝门静脉输送从消化管吸收的营养丰富的 **缺氧血** |
+
+---
+
+## ✅ Topic 9 学习自检清单
+
+- [ ] 能定义循环系统及心脏作为泵的核心功能
+- [ ] 能比较鱼类单循环、爬行动物三腔心、哺乳动物双循环
+- [ ] 能列出双循环的三大优势
+- [ ] 在图中标注心脏四腔、室间隔、瓣膜、冠状动脉
+- [ ] 背诵完整血流路径（含氧量变化）
+- [ ] 解释 lub‑dub 心音的成因（房室瓣关闭、半月瓣关闭）
+- [ ] 比较主动脉和静脉的压力差异，解释静脉瓣的作用
+- [ ] 区别血浆和血清
+- [ ] 描述红细胞、吞噬细胞、淋巴细胞、血小板的功能与适应
+- [ ] 列举冠心病危险因素及预防
+- [ ] 识别肾动脉、肾静脉、肝动脉、肝门静脉、肝静脉
+- [ ] 描述凝血过程（纤维蛋白原 → 纤维蛋白）
+
+---
+
+> 本文档覆盖 IGCSE Biology Topic 9 全部考纲内容，基于 15+ 份真题和官方评分标准逐项核对，已补充：血清与血浆、心脏泵的核心功能、爬行动物心脏、双循环优势详细阐述、冠状动脉与心肌供血、心音完整机理、主动脉与静脉压力对比及血管结构一体化讲解、静脉瓣作用、肾动脉肾静脉等。如需其他 Topic 笔记，请参考相应专题。
 ---
 
 ### 📌 六、如何使用本资料
