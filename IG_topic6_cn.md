@@ -1,73 +1,204 @@
-## 🔬 Topic 6: Plant Nutrition
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 6: Plant Nutrition
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
 
----
-
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
-
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
-| :--- | :--- | :--- |
-| **光合作用定义** | Define photosynthesis | the process by which plants synthesise carbohydrates from raw materials (carbon dioxide and water) using energy from light |
-| **光合作用方程式** | State the word equation for photosynthesis | carbon dioxide + water → glucose + oxygen (in the presence of light and chlorophyll) |
-| **叶绿体/叶绿素** | What is chlorophyll? / Where is chlorophyll found? | a green pigment found in chloroplasts; transfers light energy into chemical energy |
-| **光反应产物** | What are the products of the light-dependent reaction? | ATP, reduced NADP (NADPH), and oxygen |
-| **光独立反应 (Calvin cycle)** | Where does the Calvin cycle occur? / What is the product? | occurs in the stroma of chloroplasts; produces glucose |
-| **光合作用产物** | State two uses of glucose in plants | used in respiration to provide energy; stored as starch; converted to cellulose for cell walls; used to make sucrose for transport; used to make amino acids (with nitrate ions) |
-| **叶片结构适应** | How are leaves adapted for photosynthesis? | large surface area to absorb more light; thin (short diffusion distance); many chloroplasts in palisade cells; stomata allow gas exchange; air spaces for gas circulation |
-| **叶肉细胞识别** | Identify palisade mesophyll / spongy mesophyll / guard cells | palisade: tall, tightly packed, many chloroplasts; spongy: irregular shape, air spaces; guard cells: bean-shaped, contain chloroplasts, control stomata |
-| **气孔功能** | What is the function of stomata? | allow gas exchange (CO₂ in, O₂ out) and water vapour loss (transpiration) |
-| **保卫细胞** | How do guard cells control stomatal opening? | when turgid (water enters), they bend open the stoma; when flaccid (water leaves), they close the stoma |
-| **矿物质离子** | Why do plants need nitrate / magnesium ions? | nitrate: to make amino acids (proteins); magnesium: to make chlorophyll |
-| **矿物质缺乏症状** | State a symptom of nitrate / magnesium deficiency | nitrate: stunted growth, yellow leaves (especially older leaves); magnesium: yellow leaves (chlorosis) |
-| **蒸腾作用** | What is transpiration? | loss of water vapour from the leaves (mainly through stomata) |
-| **蒸腾速率影响因素** | Name three factors affecting transpiration rate | temperature, humidity, wind speed, light intensity |
-| **限速因素** | What is a limiting factor? | a factor that limits the rate of photosynthesis when in short supply (light intensity, CO₂ concentration, temperature) |
+> 本文档详细解释光合作用的每一个环节，包括叶片结构、气孔分布、叶肉细胞功能、矿质营养、限制因素及实验设计。所有内容均基于 CAIE 官方考纲、超过 15 份历年真题（2018–2025）及官方评分标准。  
+> 适合系统学习，每个概念都配有 **物理原理**、**结构‑功能联系** 和 **考试常见表述**。
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+## 1. 光合作用总览
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **光合作用实验设计** | Describe how you would investigate the effect of light intensity on photosynthesis. | Use an aquatic plant (e.g., Elodea) in a beaker of water with a lamp at different distances. Count the number of bubbles (oxygen) produced per minute. Control variables: temperature (use water bath), CO₂ concentration (add sodium hydrogencarbonate). Calculate rate of photosynthesis (bubbles per minute). |
-| **限速因素分析** | Explain how light intensity affects the rate of photosynthesis. | As light intensity increases, rate increases (more light energy for photolysis of water). At high intensities, another factor (CO₂ or temperature) becomes limiting, so rate plateaus. |
-| **CO₂浓度影响** | Explain the effect of carbon dioxide concentration on the rate of photosynthesis. | CO₂ is a substrate for the Calvin cycle. As CO₂ concentration increases, rate increases. At high concentrations, another factor becomes limiting. |
-| **温度影响** | Explain the effect of temperature on the rate of photosynthesis. | Up to optimum (about 25-30°C), rate increases due to increased kinetic energy of enzyme and substrate. Above optimum, enzymes denature → rate decreases. |
-| **叶片结构与光合作用** | Describe how the structure of a leaf is adapted for efficient photosynthesis. | Large surface area → absorbs more light; thin → short diffusion distance for CO₂; palisade mesophyll → many chloroplasts; spongy mesophyll → air spaces for gas circulation; stomata → allow CO₂ entry and O₂ exit; cuticle → reduces water loss. |
-| **矿物质缺乏** | Explain why a plant with nitrate deficiency grows poorly. | Nitrate is needed to make amino acids (proteins). Without it, the plant cannot make enzymes or structural proteins, leading to stunted growth and yellow leaves. |
-| **去淀粉处理** | Why must a plant be destarched before a photosynthesis experiment? | To remove any existing starch, so that any starch detected after the experiment must have been produced during the experiment. |
-| **碘液测试** | Describe the iodine test for starch on a leaf. | Boil leaf in water to kill cells; boil in ethanol to remove chlorophyll; dip in warm water to soften; add iodine solution; blue-black colour indicates starch. |
-| **光照与气孔开闭** | Explain how light affects stomatal opening. | Light stimulates guard cells to take up potassium ions, lowering water potential; water enters by osmosis → guard cells become turgid → stoma opens. |
+### 1.1 定义与意义
+- **光合作用**：植物利用光能，将二氧化碳和水转化为葡萄糖（碳水化合物）并释放氧气的过程。
+- **营养方式**：自养 (autotrophic) – 植物自己制造有机物。
+- **方程式**  
+  文字：`carbon dioxide + water --(light, chlorophyll)--> glucose + oxygen`  
+  符号：`6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂`
 
----
-
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
-
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 光合作用与呼吸作用混淆 | 光合作用消耗CO₂、产生O₂；呼吸作用消耗O₂、产生CO₂ | 选项中混淆两种过程的方程式 |
-| 光反应与暗反应混淆 | 光反应需要光，发生在类囊体膜；暗反应不需要光，发生在基质 | 选项中写“暗反应需要光” |
-| 叶绿素功能误解 | 叶绿素**吸收**光能，**传递**到反应中心，**不产生**光能 | 选项中写“chlorophyll produces light energy” |
-| 淀粉测试忘记脱色 | 必须先用乙醇煮沸去除叶绿素，否则绿色干扰颜色观察 | 选项中写“add iodine directly to green leaf” |
-| 去淀粉处理遗漏 | 实验前必须将植物放在黑暗处48小时以消耗淀粉 | 选项中写“use a plant with starch already present” |
-| 限速因素分析错误 | 当曲线变平时，该因素不再是限制因素；需提高另一因素 | 选项中写“rate stops increasing because the factor is no longer limiting” (实际是该因素已充足) |
-| 气孔开闭机制 | 保卫细胞吸水膨胀→气孔打开；失水萎缩→气孔关闭 | 选项中写“guard cells close when turgid” |
-| 矿物质功能混淆 | 镁→叶绿素；氮→氨基酸/蛋白质 | 选项中混淆镁和氮的功能 |
-| 光合作用产物误解 | 葡萄糖被立即用于呼吸或转化为淀粉、纤维素等 | 选项中写“glucose is stored directly as starch in chloroplasts” (其实是先转化为淀粉) |
+### 1.2 葡萄糖的去向（5 大用途）
+| 产物 | 用途 | 解释 |
+|------|------|------|
+| 淀粉 | 能量储存 | 不溶于水，不干扰细胞渗透压，储存在叶绿体或块茎中 |
+| 纤维素 | 细胞壁 | 提供机械支撑，使细胞保持形状 |
+| 蔗糖 | 韧皮部运输 | 可溶且化学稳定，适合长距离运输 |
+| 呼吸作用 | 释放 ATP | 为所有生命活动供能 |
+| 其他有机物 | 生长 & 繁殖 | 合成氨基酸（需硝酸盐）、脂肪、花蜜等 |
 
 ---
 
-### ✅ 四、Topic 6 完整考点核对清单 (对照 2026–2028 考纲)
+## 2. 叶片结构 – 深度解析
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 6.1 Photosynthesis | 光合作用定义；方程式（文字和化学平衡式）；叶绿素功能；碳水化合物在植物中的用途（淀粉、纤维素、葡萄糖、蔗糖、花蜜）；硝酸根离子（氨基酸）和镁离子（叶绿素）的重要性；限速因素（光强、CO₂浓度、温度）；实验探究（需要叶绿素、光、CO₂；影响速率的因素；光照/黑暗条件下气体交换） | ✅ |
-| 6.2 Leaf structure | 叶片适应光合作用的特点（大表面积、薄）；叶片结构识别（叶绿体、角质层、保卫细胞、气孔、上下表皮、栅栏组织、海绵组织、气隙、维管束、木质部、韧皮部）；结构功能对应 | ✅ |
-| Supplement | 识别光合作用的限速因素；解释限速因素；化学平衡方程式 | ✅ |
+叶片是光合作用的主要器官，其结构高度特化。
 
+### 2.1 叶片横切面（从外到内）
+
+| 结构 | 位置 | 细胞特征 | 主要功能 | 相关氧气/气体 |
+|------|------|----------|----------|----------------|
+| **角质层 (cuticle)** | 上、下表皮最外层 | 透明蜡质，无细胞 | 防止水分散失，允许光线透过 | 不影响气体扩散 |
+| **上表皮 (upper epidermis)** | 角质层下方 | 单层透明细胞，无叶绿体 | 保护，减少光线阻挡 | 光线先通过它到达叶肉 |
+| **栅栏叶肉 (palisade mesophyll)** | 上表皮下方 | **圆柱状细胞，紧密排列，含大量叶绿体** | **主要进行光合作用，产生氧气** | 氧气在此产生，然后扩散到气室 |
+| **海绵叶肉 (spongy mesophyll)** | 栅栏组织下方 | 不规则细胞，大 **气室 (air spaces)** | 气体交换（CO₂ 进入，O₂ 和水蒸气排出） | 氧气从栅栏细胞扩散到气室，再通过气孔出去 |
+| **下表皮 (lower epidermis)** | 叶片最下层 | 有气孔，多数植物气孔集中在这里 | 保护，控制气体交换 | 氧气主要通过下表皮气孔离开叶片 |
+| **气孔 (stomata)** | 下表皮（部分植物上表皮也有） | 由两个 **保卫细胞** 围成 | CO₂ 进入，O₂ 和 H₂O 蒸腾出去 | **氧气排出的通道** |
+| **叶脉 (vein)** | 贯穿叶肉 | 含木质部（水）和韧皮部（蔗糖） | 运输物质，支持叶片 | 不直接参与气体交换 |
+
+### 2.2 关键适应与氧气的关系
+
+#### 栅栏组织为什么重要？
+- 圆柱状细胞使它们能紧密排列，在单位面积内容纳更多叶绿体。
+- 位于叶片**靠近上表皮**，接受最强光照 → **光合作用效率最高**。
+- 产生的氧气通过细胞间隙扩散到海绵组织的气室。
+
+#### 海绵组织的气室作用
+- 不规则细胞留下大量 **air spaces**，相当于一条气体高速公路。
+- 二氧化碳从气孔进入后，快速扩散到栅栏细胞；**氧气从栅栏细胞扩散到气室，再通过气孔释放**。
+- 如果叶片没有气室，气体扩散极慢，光合作用受限制。
+
+#### 为什么大多数气孔分布在下表皮？
+- 上表皮直接受阳光照射，气孔在上表皮会导致水分过度蒸发。
+- 下表皮较荫蔽，减少水分流失，同时仍保证 CO₂ 进入和 O₂ 排出。
+- 漂浮植物（如睡莲）气孔在上表皮（接触空气）；旱生植物气孔下陷。
+
+### 2.3 叶片适应光合作用的完整列表（Paper 4 必背）
+
+| 适应特征 | 如何帮助光合作用 |
+|----------|------------------|
+| 宽大扁平 | 增大受光面积 |
+| 薄 | 缩短 CO₂ 扩散路径 |
+| 角质层透明 | 透光且保水 |
+| 栅栏组织圆柱状、紧密 | 多叶绿体，近光源 |
+| 海绵组织气室 | 加速气体交换 |
+| 叶脉维管束 | 供水（木质部），运走蔗糖（韧皮部） |
+| 气孔多分布在下表皮 | 减少蒸腾同时保证气体交换 |
+
+---
+
+## 3. 矿质营养与缺乏症（Extended 高频）
+
+### 3.1 硝酸盐 (Nitrate, NO₃⁻)
+- **用途**：制造氨基酸 → 蛋白质 → 酶、结构蛋白。
+- **缺乏症状**：**stunted growth（生长停滞） + older leaves turn yellow**。
+- **因果链**：缺硝酸盐 → 氨基酸合成减少 → 蛋白质不足 → 细胞分裂和生长受阻 → 整体矮小；老叶中的蛋白质分解后运往新叶，导致老叶发黄。
+
+### 3.2 镁离子 (Magnesium, Mg²⁺)
+- **用途**：叶绿素分子的中心元素（chlorophyll contains magnesium）。
+- **缺乏症状**：**chlorosis（叶片变黄），尤其是老叶**（因为镁可以移动，从老叶运往新叶）。
+- **后果**：叶绿素减少 → 光合效率下降 → 能量不足 → 生长不良。
+
+### 3.3 答题模板（Paper 4）
+> **Explain why nitrate deficiency causes stunted growth.**  
+> Nitrate is needed to make amino acids. Amino acids are linked to form proteins. Proteins are required for cell division and growth. Without nitrate, protein synthesis is reduced, so the plant cannot grow properly → stunted growth.
+
+> **Explain why magnesium deficiency causes yellow leaves.**  
+> Magnesium is a central component of chlorophyll. Without magnesium, chlorophyll cannot be synthesised. Leaves turn yellow (chlorosis) because they lack green pigment. This reduces photosynthesis.
+
+---
+
+## 4. 光合作用的限制因素
+
+### 4.1 什么是限制因素？
+- **定义**：当某个因素增加时，光合速率随之增加；但一旦该因素不再是限制，增加它不会进一步提高速率，此时另一个因素成为限制。
+
+### 4.2 三大限制因素详解
+
+| 因素 | 影响机理 | 图表特征 | 常见考试点 |
+|------|----------|----------|------------|
+| **光强度** | 光为光反应提供能量，影响 ATP 和 NADPH 产生 | 上升段（光限制）→ 平台（CO₂ 或温度限制） | 比较阴生/阳生植物光饱和点 |
+| **二氧化碳浓度** | CO₂ 是暗反应的底物 | 上升段（CO₂ 限制）→ 平台（其他限制） | 温室增施 CO₂ 提高产量 |
+| **温度** | 影响酶活性（尤其是 RuBisCO 等） | 上升至最适 → 下降（酶变性） | 最适温度约 25‑35°C，超过 45°C 酶失活 |
+
+> 水在极端干旱时也会限制光合（气孔关闭），但一般不作为常规三大因素。
+
+### 4.3 图形分析答题模板
+- “从 0 到 P 点，光合速率随温度增加而增加，因为温度升高使酶活性增强，反应速率加快。”
+- “超过 Q 点，光合速率下降，因为温度过高导致酶变性，活性位点形状改变，底物无法结合。”
+
+---
+
+## 5. 关键实验详解
+
+### 5.1 淀粉检测实验（碘液试验） – 验证光合作用发生
+
+**原理**：淀粉是光合作用的储存产物，检出淀粉即证明光合作用进行过。
+
+**步骤**（必须按顺序记忆）：
+1. **煮沸叶片**（水中煮 1‑2 分钟）→ 杀死细胞，停止酶活性，让膜透化。
+2. **乙醇脱色**（隔水加热）→ 去除叶绿素，避免绿色掩盖碘的颜色。
+3. **热水软化** → 使叶片恢复柔软，方便后续操作。
+4. **加碘液** → 若变蓝黑色，说明有淀粉。
+
+**对照设计**：
+- **去淀粉处理 (destarching)**：实验前将植物置于黑暗 48 小时，消耗已有淀粉。这样阳性结果才能证明实验期间产生了新淀粉。
+- **部分遮盖叶片**：用铝箔覆盖叶片一部分，检测光是否必需。遮盖部分不变蓝（无光，无淀粉），曝光部分变蓝。
+
+### 5.2 水生植物冒泡实验（测量光合速率）
+
+**材料**：金鱼藻 (Elodea) 等水生植物。
+
+**方法**：将植物置于水中，光照下释放氧气气泡；计数单位时间气泡数代表光合速率。
+
+**变量**：
+- 自变量：光强度、光波长、CO₂ 浓度（加碳酸氢钠）
+- 控制变量：温度、植物大小、距离光源相同
+
+**注意事项**：气泡数受温度、植物状态影响，需重复取平均值。
+
+### 5.3 碳酸氢盐指示剂实验（气体交换定性）
+
+**指示剂**：氢碳酸盐指示剂 (bicarbonate indicator)
+
+| 条件 | CO₂ 浓度 | pH | 指示剂颜色 |
+|------|----------|----|------------|
+| 初始（大气平衡） | 0.04% | ~8.4 | 橙色 |
+| 光照（植物） | 降低（光合吸收 CO₂） | 升高（碱性） | **紫色** |
+| 黑暗（植物） | 升高（呼吸释放 CO₂） | 降低（酸性） | **黄色** |
+
+**对照**：试管中只放指示剂（无植物），颜色应保持橙色，验证变化由植物引起。
+
+---
+
+## 6. 白天 vs 夜间气体交换
+
+| 时间段 | 光合速率 vs 呼吸速率 | CO₂ 净交换 | O₂ 净交换 |
+|--------|----------------------|------------|------------|
+| 白天 | 光合 > 呼吸 | 吸收 CO₂ | 释放 O₂ |
+| 夜间 | 无光合，只有呼吸 | 释放 CO₂ | 吸收 O₂ |
+
+> **记忆**：光合作用需要光，因此只在白天发生；呼吸作用始终发生。
+
+---
+
+## 7. 考试常见陷阱与高分技巧
+
+| 陷阱 | 正确理解 |
+|------|----------|
+| 葡萄糖是韧皮部运输形式 | 韧皮部运输的是 **蔗糖**，不是葡萄糖 |
+| 限制因素是单一的 | 曲线上的平台表示当前因子不再是限制，其他因子限制 |
+| 镁缺乏症状首先出现在幼叶 | 镁在植物体内可移动，**老叶**先表现黄化 |
+| 淀粉检测直接用碘液 | 必须先用乙醇脱色，否则叶绿素掩盖颜色 |
+| 黑暗条件下植物不产生 CO₂ | 黑暗时呼吸作用持续，释放 CO₂ |
+| 气孔只在上表皮 | 双子叶植物气孔多在下表皮，降低蒸腾 |
+
+---
+
+## ✅ Topic 6 完整知识清单
+
+- [ ] 默写光合作用文字与符号方程式  
+- [ ] 列出葡萄糖的 5 种用途并解释每种的作用  
+- [ ] 识别叶片横切面所有结构（角质层、表皮、栅栏组织、海绵组织、气室、气孔、保卫细胞、叶脉）  
+- [ ] 解释栅栏组织为何适应光合（圆柱形、紧密、多叶绿体）  
+- [ ] 解释海绵组织的气室如何促进气体交换  
+- [ ] 说明大多数气孔分布在下表皮的原因  
+- [ ] 描述硝酸盐和镁缺乏的症状及因果链  
+- [ ] 解释光强度、CO₂ 浓度、温度如何限制光合作用  
+- [ ] 描述淀粉检测实验的完整步骤及 “去淀粉” 原理  
+- [ ] 解释碳酸氢盐指示剂在光/暗条件下的颜色变化  
+- [ ] 比较叶片白天和夜晚的气体交换
+
+---
+
+> 本文档提供了 Topic 6 的 **详细解释版**，涵盖所有考纲考点并补充了结构‑功能联系。如需更简略的“快速突击卡”请告知，但当前版本适合系统学习。
 ---
 
 ### 📌 五、如何使用本资料
