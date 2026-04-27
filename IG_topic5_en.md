@@ -14,7 +14,8 @@ This document is written strictly according to the **CAIE 2026–2028 syllabus**
 | | 4. Describe lock‑and‑key model: active site complementary to substrate; products formed. | 9. Explain pH effects using shape and fit, denaturation. |
 | | 5. Investigate and describe the effect of temperature and pH on enzyme activity, with reference to optimum temperature/pH and denaturation. | |
 
-### Breakdown of what "explain" means in Supplement
+### Syllabus Requirements for "Explain" in the Supplement
+
 - For **temperature effects**: you must mention **kinetic energy** of particles, **frequency of effective collisions**, **shape and fit** at the active site, and the irreversible change known as **denaturation**.
 - For **pH effects**: you must mention how changes in pH alter the **bonds** that hold the enzyme's 3D shape, therefore changing the **shape and fit** of the active site, leading to **denaturation** at extremes.
 
@@ -47,9 +48,23 @@ This document is written strictly according to the **CAIE 2026–2028 syllabus**
 - Enzymes are proteins. A protein is a long chain of amino acids that has been folded into a precise three‑dimensional shape. This shape is held together by many weak bonds (such as hydrogen bonds, ionic bonds and disulfide bridges).
 - The active site's exact shape is utterly dependent on the overall 3D shape of the protein. If this shape is altered, the active site loses its precise complementary shape, and the substrate can no longer fit. This is the fundamental reason why enzymes are so sensitive to their environment.
 
-### 5.2 Factors Affecting Enzyme Activity
+### 5.2 Common Enzymes and Their Actions
 
-#### 5.2.1 Effect of Temperature
+Although the syllabus does not require an exhaustive list of enzyme names solely within the "Enzymes" topic, the following enzymes appear repeatedly throughout the syllabus and in past papers. You are expected to know their substrates, products, and sites of action for Paper 2 and Paper 4.
+
+| Enzyme | Substrate | Product(s) | Where it is found / Site of action |
+| :--- | :--- | :--- | :--- |
+| **Amylase** | Starch | Maltose (and simple reducing sugars) | Saliva (salivary glands), pancreas, small intestine |
+| **Maltase** | Maltose | Glucose | Epithelium of the small intestine (Supplement) |
+| **Protease** (general term) | Protein | Amino acids | Stomach (pepsin), pancreas, small intestine (trypsin) |
+| **Pepsin** | Protein | Polypeptides / amino acids | Stomach (works best at pH 2) |
+| **Trypsin** | Protein | Polypeptides / amino acids | Small intestine (works best at pH 8) |
+| **Lipase** | Fats and oils (lipids) | Fatty acids and glycerol | Pancreas, small intestine |
+| **Catalase** | Hydrogen peroxide (H₂O₂) | Water (H₂O) and oxygen (O₂) | Many cells (e.g. potato, liver) – used commonly in practical investigations |
+
+### 5.3 Factors Affecting Enzyme Activity
+
+#### 5.3.1 Effect of Temperature
 _Temperature is the most frequently examined factor in Paper 2 and Paper 4._
 
 - **As temperature increases (from low to optimum)**:
@@ -68,7 +83,7 @@ _Temperature is the most frequently examined factor in Paper 2 and Paper 4._
     - **Key point**: Denaturation is **irreversible**. Once an enzyme has been denatured by high temperature, cooling it back down will NOT restore its activity. (This is a very common exam trap.)
 - **Typical graph shape**: Rate of reaction rises steadily → reaches a sharp peak at the optimum temperature → then falls steeply as denaturation occurs.
 
-#### 5.2.2 Effect of pH
+#### 5.3.2 Effect of pH
 _pH is also a very common examination topic, often compared with temperature._
 
 - Every enzyme has an **optimum pH** at which it works best. Different enzymes have different optimum pH values depending on where in the body they function.
@@ -83,7 +98,7 @@ _pH is also a very common examination topic, often compared with temperature._
     - The active site loses its complementary shape (denatures), and the substrate can no longer fit.
 - **Graph shape**: The "rate vs. pH" graph is bell‑shaped. The curve rises to a peak at the optimum pH and then falls off on both sides as the enzyme denatures at extremes of acidity or alkalinity. Unlike temperature, where denaturation is only at high temperatures, pH denaturation can occur at both extremes of the scale.
 
-### 5.3 Investigating Enzyme Activity (Practical Considerations)
+### 5.4 Investigating Enzyme Activity (Practical Considerations)
 
 The syllabus requires you to **"investigate and describe the effect of changes in temperature and pH on enzyme activity"** . (Syllabus Core 5) This means you need to be able to suggest a suitable investigation and explain the variables.
 
@@ -106,7 +121,7 @@ The syllabus requires you to **"investigate and describe the effect of changes i
 
 - **Important**: Boiled (cooked) potato is sometimes used as a control to show that denatured catalase will not produce any oxygen. This is a common P2/P4 question: "Explain why no foam was produced when cooked potato was used." The answer is that the high temperature during cooking caused the catalase enzyme to denature (the active site shape was permanently destroyed).
 
-### 5.4 Exam Traps and Key Distinctions
+### 5.5 Exam Traps and Key Distinctions
 
 - **Trap 1: “Killed” vs. “Denatured”**
     - Enzymes are **denatured**, NOT "killed". They were never alive. (Enzymes are proteins, not organisms).
@@ -161,7 +176,7 @@ The syllabus requires you to **"investigate and describe the effect of changes i
     2. Mention the optimum temperature where rate is highest (you can say "around 37°C for most human enzymes").
     3. Explain that above optimum, the high temperature breaks bonds holding the enzyme's 3D shape, causing denaturation – the active site loses its complementary shape, so substrate no longer binds, and rate falls sharply.
     4. State that denaturation is permanent.
-- **Practical-based questions**: You could be asked to plan an investigation into the effect of temperature or pH on enzyme activity. Always specify:
+- **Practical‑based questions**: You could be asked to plan an investigation into the effect of temperature or pH on enzyme activity. Always specify:
     - The enzyme and substrate you would use (e.g., catalase + hydrogen peroxide).
     - How you will change and measure the independent variable (e.g., water baths at 20°C, 30°C, 40°C, 50°C, 60°C using a thermometer).
     - How you will measure the dependent variable (e.g., height of foam in mm after 2 minutes).
@@ -173,5 +188,3 @@ The syllabus requires you to **"investigate and describe the effect of changes i
 ---
 
 **This document fully covers the Topic 5 syllabus requirements for CAIE IGCSE Biology 0610 (2026–2028). It is designed for deep first‑time learning and provides all the theoretical knowledge and practical skills needed to answer exam questions confidently.**
-
-For additional notes on other topics, please feel free to ask.
