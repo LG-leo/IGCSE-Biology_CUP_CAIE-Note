@@ -19,48 +19,249 @@
 | **19.4 Populations (Supplement)** | 解释S形曲线各阶段的成因（参考限制因素） | ✅ |
 
 ---
-
-### 📌 二、Paper 2 – 高频考点与答题关键词 (选择题)
-
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
-| :--- | :--- | :--- |
-| **能量来源** | 生态系统的主要能量来源是什么？ | The Sun (太阳)。 |
-| **能量流动** | 能量在食物链中如何流动？ | 从生产者（producer）流向各级消费者（consumers），最终以热能形式散失到环境中。 |
-| **种群定义** | 以下哪个选项是对种群 (population) 的正确描述？ | A group of organisms of the same species living in the same area at the same time. |
-| **群落定义** | 以下哪个选项是对群落 (community) 的正确描述？ | All the populations of different species in an ecosystem. |
-| **生态系统定义** | 生态系统 (ecosystem) 包括什么？ | The community of organisms and their environment interacting together. |
-| **食物链方向** | 食物链中的箭头代表什么？ | 能量流动方向 (flow of energy)，而不是“谁吃了谁”。 |
-| **生产者识别** | 在食物网中，哪个生物是生产者 (producer)？ | 能够进行光合作用的生物（如 grass, alga, phytoplankton）。 |
-| **消费者级别判断** | 在食物网中，吃初级消费者的生物是什么？ | Secondary consumer (二级消费者)。 |
-| **营养级数量限制原因** | 为什么大多数食物链不超过5个营养级？ | 能量在传递过程中大量损失，不足以支持更高营养级。 |
-| **能量损失原因识别** | 能量在营养级之间损失的主要原因是什么？ | 呼吸作用释放热量、未食用部分、排泄物。 |
-| **数量金字塔形状** | 一棵大树 (producer) → 蚜虫 (primary consumer) → 瓢虫 (secondary consumer) 的数量金字塔形状是？ | 倒置（inverted），因为一个生产者可以被许多初级消费者取食。 |
-| **生物量金字塔特征** | 生物量金字塔 (pyramid of biomass) 通常是什么形状？ | 通常是正金字塔形，因为生物量随营养级增加而减少。 |
-| **碳循环过程识别** | 以下哪个过程将碳从大气转移到生物体？ | 光合作用 (Photosynthesis)。 |
-| **碳循环过程识别** | 以下哪个过程将碳从生物体释放回大气？ | 呼吸作用 (Respiration)、燃烧 (Combustion)、分解 (Decomposition)。 |
-| **固氮作用识别** | 豆科植物根部与哪种微生物共生进行固氮？ | Rhizobium (根瘤菌)。 |
-| **硝化作用识别** | 将氨 (NH₃) 转化为硝酸盐 (NO₃⁻) 的过程叫什么？ | Nitrification (硝化作用)。 |
-| **反硝化作用识别** | 将硝酸盐 (NO₃⁻) 转化为氮气 (N₂) 的过程叫什么？ | Denitrification (反硝化作用)。 |
-| **氮循环中微生物的作用** | 以下哪种细菌能将大气中的氮气转化为植物可利用的形式？ | Nitrogen-fixing bacteria (固氮细菌)。 |
-| **种群增长曲线阶段识别** | 种群数量急剧增长的阶段叫什么？ | Exponential (log) phase (指数期)。 |
-| **种群增长曲线阶段识别** | 种群数量达到环境承载力 (carrying capacity) 后趋于稳定的阶段叫什么？ | Stationary phase (稳定期)。 |
-| **影响种群增长的因素** | 以下哪项会限制种群增长？ | 食物供应 (food supply)、空间 (space)、疾病 (disease)、捕食 (predation)。 |
+好的，我来从教学大纲中提取 Topic 19 (Organisms and their Environment) 的全部内容。
 
 ---
 
-### 📝 三、Paper 4 – 典型题目与答题模板 (理论题)
+## 📘 Topic 19: Organisms and Their Environment — 笔记总结
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **能量流动** | 解释为什么食物链中只有约10%的能量从一级传递到下一级。 | Energy is lost through **respiration** (as heat), in **uneaten parts**, and in **waste products** (faeces and excretory products). |
-| **能量流动** | 解释为什么大多数食物链不超过5个营养级。 | After 4–5 trophic levels, the energy transferred is insufficient to support another trophic level due to cumulative energy losses. |
-| **生物量金字塔** | 解释为什么生物量金字塔通常比数量金字塔更可靠。 | Pyramid of biomass accounts for the **mass of organisms** at each level, while pyramid of numbers does not consider size (e.g., one tree supports many insects). |
-| **碳循环** | 描述碳循环中的关键过程。 | **Photosynthesis**: plants absorb CO₂ from atmosphere. **Feeding**: carbon moves through food chains. **Respiration**: CO₂ returned to atmosphere. **Decomposition**: decomposers break down dead matter, releasing CO₂. **Combustion**: burning fossil fuels releases CO₂. |
-| **氮循环 (Supplement)** | 描述氮循环中的关键过程。 | **Nitrogen fixation**: bacteria (e.g., *Rhizobium*, *Azotobacter*) convert N₂ into NH₃/NH₄⁺. **Decomposition (ammonification)**: decomposers break down proteins to NH₄⁺. **Nitrification**: bacteria (e.g., *Nitrosomonas*, *Nitrobacter*) convert NH₄⁺ → NO₂⁻ → NO₃⁻. **Denitrification**: bacteria convert NO₃⁻ back to N₂ gas. **Absorption**: plants absorb NO₃⁻ to make amino acids and proteins. |
-| **种群增长曲线** | 描述种群增长S形曲线的阶段。 | **Lag phase**: slow growth as population adapts. **Exponential (log) phase**: rapid growth due to abundant resources. **Stationary phase**: growth slows/stops when carrying capacity is reached (birth rate = death rate). **Death phase**: population declines if resources are depleted. |
-| **人类影响 (食物链/网)** | 解释过度捕捞如何影响海洋生态系统。 | Removing a large number of fish reduces food availability for predators and may cause population increase in prey species, disrupting the balance of the food web. |
-| **人类影响 (食物链/网)** | 解释引入外来物种如何影响本地生态系统。 | Invasive species may outcompete native species for resources, have no natural predators, and disrupt food webs, leading to decline or extinction of native species. |
-| **生态效率** | 解释为什么人类吃作物比吃牲畜更节能。 | Eating plants (producers) means fewer trophic levels, so **less energy is lost** between levels. Eating meat involves an extra trophic level, resulting in greater energy loss (~90% per level). |
+---
+
+### 19.1 Energy Flow (能量流动)
+
+#### 🔹 核心概念
+
+- **太阳** 是生物系统的主要能量输入来源。
+- 能量通过生物体流动：
+  - **光能** 来自太阳
+  - 被生产者通过 **光合作用** 转化为 **化学能**
+  - 化学能通过 **食物链** 在生物体之间传递
+  - 能量最终以 **热能** 的形式 **传递到环境中**（通过呼吸作用散失）
+
+#### 🔹 能量流动的特点
+
+- 能量流动是 **单向的**（不能循环利用）
+- 每个营养级都有能量损失，因此能量沿食物链 **逐级递减**
+
+---
+
+### 19.2 Food Chains and Food Webs (食物链与食物网)
+
+#### 🔹 基本定义
+
+| 术语 | 定义 |
+|------|------|
+| **食物链 (Food chain)** | 显示能量从一个生物体传递到下一个生物体的序列，**从生产者开始** |
+| **食物网 (Food web)** | 由 **相互连接的食物链** 组成的网络 |
+| **营养级 (Trophic level)** | 一个生物体在食物链、食物网或生态金字塔中的 **位置** |
+
+#### 🔹 生物的分类
+
+| 术语 | 定义 |
+|------|------|
+| **生产者 (Producer)** | 制造自身有机营养物的生物体，通常利用 **阳光能量** 通过 **光合作用** 完成 |
+| **消费者 (Consumer)** | 通过 **摄食其他生物体** 获取能量的生物体 |
+| **初级消费者 (Primary consumer)** | 直接吃生产者的动物 |
+| **次级消费者 (Secondary consumer)** | 吃初级消费者的动物 |
+| **三级消费者 (Tertiary consumer)** | 吃次级消费者的动物 |
+| **四级消费者 (Quaternary consumer)** | 吃三级消费者的动物 |
+| **草食动物 (Herbivore)** | 通过 **吃植物** 获取能量的动物 |
+| **肉食动物 (Carnivore)** | 通过 **吃其他动物** 获取能量的动物 |
+| **分解者 (Decomposer)** | 从 **死亡或废弃的有机物质** 中获取能量的生物体（如细菌、真菌） |
+
+#### 🔹 人类活动对食物链/网的影响
+
+| 人类活动 | 影响 |
+|---------|------|
+| **过度捕捞 (Overharvesting)** | 过度捕捞某个食物物种会破坏食物链/网的平衡，可能导致某些物种数量暴增或灭绝 |
+| **引入外来物种 (Introducing foreign species)** | 外来物种可能成为新的捕食者或竞争者，破坏原有的食物网结构，导致本地物种数量下降甚至灭绝 |
+
+#### 🔹 生态金字塔
+
+##### 1️⃣ 数量金字塔 (Pyramid of Numbers)
+
+- 显示每个营养级中 **生物体的数量**。
+- **缺点**：有时形状会 **倒置**（例如一棵大树上有许多昆虫——生产者数量少，消费者数量多），不能准确反映能量关系。
+
+##### 2️⃣ 生物量金字塔 (Pyramid of Biomass)
+
+- 显示每个营养级中 **生物体的总干质量**。
+- **优点**：比数量金字塔 **更准确**，因为生物量反映了实际存在的有机物质总量，通常不会倒置。
+
+##### 3️⃣ 能量金字塔 (Pyramid of Energy) — 补充
+
+- 显示每个营养级中 **单位面积/单位时间内储存的能量**。
+- **优点**：**最准确** 的表示方式，因为：
+  - 能量金字塔 **永远不会倒置**
+  - 它直接显示能量流动，不受生物体大小或数量的影响
+
+#### 🔹 能量传递效率（补充）
+
+##### 为什么能量从一个营养级到下一个营养级的传递效率不高？
+
+能量在营养级之间损失的原因：
+
+| 能量损失原因 | 解释 |
+|-------------|------|
+| **呼吸作用 (Respiration)** | 生物体通过呼吸作用将化学能转化为热能，释放到环境中 |
+| **未被消化/吸收** | 一些食物以粪便形式排出，未被生物体吸收 |
+| **运动和生长** | 能量用于运动、维持体温等生命活动 |
+| **未被吃掉** | 一些生物体在未被捕食者吃掉之前就死亡了 |
+
+##### 为什么食物链通常不超过 5 个营养级？
+
+- 因为每个营养级之间都有 **大量能量损失**（通常只有约 **10%** 的能量传递到下一级）。
+- 经过 4-5 次传递后，剩余的能量 **太少**，不足以维持更高营养级的生物种群。
+
+##### 为什么人类吃作物比吃牲畜更节能？
+
+- 如果人类 **直接吃作物**（生产者），能量只经过 **1 个营养级** 的传递。
+- 如果人类 **吃牲畜**（初级消费者），能量经过了 **2 个营养级** 的传递，中间损失了大量能量。
+- 因此，从能量利用效率来看，**吃植物比吃动物更高效**。
+
+> 例如：1000 kJ 的植物能量 → 牛只吸收约 100 kJ → 人吃牛肉只获得约 10 kJ。而人直接吃植物可获得约 100 kJ。
+
+---
+
+### 19.3 Nutrient Cycles (物质循环)
+
+#### 🔹 碳循环 (Carbon Cycle) — 核心
+
+碳循环描述了碳在生物体和非生物环境之间的流动。关键过程包括：
+
+| 过程 | 方向 | 说明 |
+|------|------|------|
+| **光合作用 (Photosynthesis)** | 大气 CO₂ → 植物 | 植物利用 CO₂ 和光能制造有机物 |
+| **呼吸作用 (Respiration)** | 生物体 → 大气 CO₂ | 所有生物体通过呼吸释放 CO₂ |
+| **摄食 (Feeding)** | 一个生物体 → 另一个生物体 | 碳通过食物链传递 |
+| **分解 (Decomposition)** | 死亡生物体 → 大气 CO₂ | 分解者分解有机物，释放 CO₂ |
+| **化石燃料形成 (Formation of fossil fuels)** | 有机物 → 化石燃料 | 古代生物体在缺氧条件下被埋藏，经过数百万年形成煤、石油、天然气 |
+| **燃烧 (Combustion)** | 化石燃料 → 大气 CO₂ | 燃烧化石燃料释放 CO₂ |
+
+**碳循环示意图（文字版）：**
+
+```
+大气中的 CO₂
+    ↑  ↓
+呼吸作用  光合作用
+    ↑  ↓
+   生物体（有机物）
+    ↑  ↓
+   摄食 → 死亡 → 分解
+    ↑
+   化石燃料 → 燃烧
+```
+
+#### 🔹 氮循环 (Nitrogen Cycle) — 补充
+
+氮循环描述了氮在环境中的转化过程。关键过程包括：
+
+| 过程 | 说明 | 涉及的微生物 |
+|------|------|-------------|
+| **分解 (Decomposition)** | 动植物蛋白质分解 → 释放 **铵离子 (NH₄⁺)** | 分解者（细菌、真菌） |
+| **硝化作用 (Nitrification)** | 铵离子 (NH₄⁺) → **亚硝酸盐 (NO₂⁻)** → **硝酸盐 (NO₃⁻)** | 硝化细菌 |
+| **固氮作用 (Nitrogen fixation)** | 大气中的氮气 (N₂) → **含氮化合物**（如氨/硝酸盐） | 固氮细菌（如根瘤菌） |
+| **闪电固氮 (Nitrogen fixation by lightning)** | 闪电的高能量使 N₂ 与 O₂ 反应，形成氮氧化物，溶于雨水成为硝酸盐 | 不需要微生物 |
+| **吸收 (Absorption)** | 植物通过根系 **吸收硝酸盐离子 (NO₃⁻)** | — |
+| **蛋白质合成** | 植物利用硝酸盐制造 **氨基酸和蛋白质** | — |
+| **摄食与消化** | 动物通过吃植物获得蛋白质，消化后用于自身蛋白质合成 | — |
+| **脱氨基作用 (Deamination)** | 动物分解多余氨基酸 → 产生含氮废物（如尿素） | — |
+| **反硝化作用 (Denitrification)** | 硝酸盐 (NO₃⁻) → 氮气 (N₂) 释放回大气 | 反硝化细菌 |
+
+**微生物在氮循环中的角色总结：**
+
+| 微生物作用 | 转化过程 |
+|-----------|---------|
+| **分解 (Decomposition)** | 有机物 → 铵离子 (NH₄⁺) |
+| **硝化作用 (Nitrification)** | 铵离子 → 亚硝酸盐 → 硝酸盐 |
+| **固氮作用 (Nitrogen fixation)** | 氮气 (N₂) → 含氮化合物 |
+| **反硝化作用 (Denitrification)** | 硝酸盐 → 氮气 (N₂) |
+
+> ⚠️ 不需要记住具体细菌的名称（如 Rhizobium）。
+
+---
+
+### 19.4 Populations (种群)
+
+#### 🔹 基本定义
+
+| 术语 | 定义 |
+|------|------|
+| **种群 (Population)** | 同一物种、生活在 **同一区域、同一时间** 的一组生物体 |
+| **群落 (Community)** | 一个生态系统中 **所有不同物种的种群** 的总和 |
+| **生态系统 (Ecosystem)** | 包含 **生物群落** 及其 **非生物环境**，两者相互作用的一个单位 |
+
+#### 🔹 影响种群增长率的因素
+
+| 因素 | 说明 |
+|------|------|
+| **食物供应 (Food supply)** | 食物充足 → 种群增长；食物短缺 → 种群增长减慢或下降 |
+| **竞争 (Competition)** | 同种或不同种个体之间争夺有限资源（食物、水、空间、配偶） |
+| **捕食 (Predation)** | 捕食者数量增加 → 猎物数量减少；猎物减少 → 捕食者数量随之减少 |
+| **疾病 (Disease)** | 疾病爆发可导致种群数量急剧下降 |
+
+#### 🔹 S 形增长曲线 (Sigmoid Curve)
+
+当一个种群在 **资源有限的环境** 中生长时，其增长曲线呈 **S 形**。曲线分为四个阶段：
+
+| 阶段 | 名称 | 特征 | 原因 |
+|------|------|------|------|
+| **1** | **滞后期 (Lag phase)** | 种群增长缓慢 | 个体数量少，繁殖速度慢；生物体正在适应环境 |
+| **2** | **指数期 / 对数期 (Exponential/Log phase)** | 种群数量 **快速增长** | 资源充足，没有限制因素；繁殖速度达到最大 |
+| **3** | **稳定期 (Stationary phase)** | 种群数量 **保持稳定** | **限制因素** 发挥作用（食物短缺、空间不足、废物积累等）；出生率 ≈ 死亡率 |
+| **4** | **死亡期 (Death phase)** | 种群数量 **下降** | 资源耗尽或环境恶化，死亡率 > 出生率 |
+
+**S 形曲线示意图（文字版）：**
+
+```
+种群数量
+  ↑
+  |          ___________ 稳定期
+  |         /           \
+  |        /             死亡期
+  |       /  指数期
+  |      /
+  |_____/ 滞后期
+  |
+  └────────────────────────→ 时间
+```
+
+#### 🔹 限制因素 (Limiting Factors) — 补充
+
+- **限制因素**：限制种群继续增长的环境因素。
+- 在指数期结束时，限制因素开始发挥作用，导致种群增长放缓并最终进入稳定期。
+- 常见的限制因素包括：
+  - 食物供应有限
+  - 栖息地空间不足
+  - 废物积累（有毒物质）
+  - 疾病传播加快
+  - 捕食者数量增加
+  - 竞争加剧
+
+---
+
+### 📌 Topic 19 — 知识框架速览
+
+```
+生物与环境 (Organisms and Their Environment)
+├── 19.1 能量流动 (Energy Flow)
+│   ├── 太阳 → 光能 → 生产者（光合作用）→ 化学能
+│   ├── 能量沿食物链单向流动，逐级递减
+│   └── 最终以热能形式散失到环境中
+├── 19.2 食物链与食物网 (Food Chains & Food Webs)
+│   ├── 生产者 → 初级消费者 → 次级 → 三级 → 四级
+│   ├── 草食动物 / 肉食动物 / 分解者
+│   ├── 人类影响：过度捕捞、引入外来物种
+│   ├── 数量金字塔 / 生物量金字塔 / 能量金字塔
+│   └── 能量传递效率低（~10%），食物链通常 ≤ 5 级
+├── 19.3 物质循环 (Nutrient Cycles)
+│   ├── 碳循环：光合作用、呼吸、摄食、分解、化石燃料、燃烧
+│   └── 氮循环：分解→硝化→固氮→吸收→脱氨基→反硝化
+└── 19.4 种群 (Populations)
+    ├── 种群 / 群落 / 生态系统
+    ├── 影响因素：食物、竞争、捕食、疾病
+    └── S 形曲线：滞后期 → 指数期 → 稳定期 → 死亡期
+```
 
 ---
 
