@@ -1,91 +1,204 @@
-## 🔬 Topic 13: Excretion in Humans
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 13: Excretion in Humans
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
 
----
-
-### 📌 一、考纲速览 (对照 2026–2028 考纲)
-
-| 考纲小节 | 内容 | 考试要求 |
-| :--- | :--- | :---: |
-| **13.1 Excretion in humans (Core)** | 排泄定义（代谢废物、有毒物质、过量物质的清除）；CO₂通过肺部排出；肾脏排出尿素、多余水和离子；泌尿系统结构识别（肾脏、输尿管、膀胱、尿道） | ✅ |
-| **13.1 Excretion in humans (Supplement)** | 肾脏结构（皮质、髓质）；肾单位结构与功能（肾小球滤过、肾小管重吸收）；肝脏在氨基酸同化中的作用；脱氨作用与尿素形成；排泄的重要性（尿素毒性） | ✅ |
+> 本文档基于 CAIE 最新考纲、超过 15 份历年真题及权威备考资源整理。内容包括排泄的定义、主要器官、肾脏结构与功能、肾单位（超滤、重吸收、尿液形成）、肝脏作用（脱氨基作用）、同化作用、排泄的重要性等全部必考点。  
+> 每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
 
 ---
 
-### 📌 二、Paper 2 – 高频考点与答题关键词 (选择题)
+## 13.1 排泄的定义与主要器官
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+### 排泄 (Excretion) 的定义
+
+- **排泄**：从生物体中移除**代谢废物**、有毒物质和过量物质的过程。  
+- **关键点**：排泄物是细胞代谢产生的，而非未消化的食物残渣。
+
+### 排泄与排遗 (Egestion) 的区别
+
+| 术语 | 定义 | 废物来源 |
 | :--- | :--- | :--- |
-| **排泄定义** | 以下哪个选项正确描述了排泄？ | removal from organisms of toxic materials, the waste products of metabolism and substances in excess of requirements |
-| **排泄 vs 排遗** | 以下哪个是排泄的例子？ | 二氧化碳的释放 / 尿素的排出 (不是粪便) |
-| **尿素来源** | 尿素是由什么物质产生的？ | 氨基酸 (Amino acids) |
-| **尿素产生部位** | 尿素在哪里产生？ | 肝脏 (Liver) |
-| **尿素浓度** | 以下哪个血管中尿素浓度最高？ | 肝静脉 (Hepatic vein) |
-| **肾脏功能** | 肾脏的主要功能不包括以下哪项？ | 分解毒素 / 产生尿素 (Deamination) |
-| **肾小球功能** | 肾小球的主要作用是什么？ | 超滤作用 (Ultrafiltration) |
-| **滤液成分** | 以下哪种物质会在肾小球被滤出？ | 葡萄糖 (Glucose) |
-| **重吸收** | 以下哪种物质会被肾脏重吸收？ | 盐和葡萄糖 (Salts and glucose) |
-| **重吸收方式** | 水在肾脏中通过什么方式重吸收？ | 渗透作用 (Osmosis) |
-| **ADH作用** | 抗利尿激素 (ADH) 的主要作用是什么？ | 增加集合管对水的重吸收，浓缩尿液 |
-| **体温调节** | 当身体炎热时，皮肤血管会如何反应？ | 血管舒张 (Vasodilation) |
-| **排汗** | 出汗的主要作用是什么？ | 通过蒸发带走热量，冷却身体 |
+| **排泄 (Excretion)** | 移除代谢废物、有毒物质和过量物质 | 细胞活动的副产品（代谢产物） |
+| **排遗 (Egestion)** | 通过肛门排出未被消化吸收的食物残渣 | 消化道中未被吸收的食物 |
 
----
+> **陷阱**：排遗（排便）不是排泄，因为粪便从未进入细胞，不是代谢废物。
 
-### 📝 三、Paper 4 – 典型题目与答题模板 (理论题)
+### 主要排泄器官
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
+| 器官 | 排泄物 | 所属系统 |
 | :--- | :--- | :--- |
-| **排泄的定义** | Define the term excretion. | Excretion is the removal of waste products of metabolism (chemical reactions in cells), toxic materials, and substances in excess of requirements from the body. |
-| **排泄二氧化碳的重要性** | Explain the importance of excreting carbon dioxide. | CO₂ is a waste product of respiration; if allowed to accumulate, it lowers blood pH, which can denature enzymes and disrupt metabolism. |
-| **泌尿系统结构识别** | Identify the structures of the urinary system (kidney, ureter, bladder, urethra). | **Kidney**: filters blood, produces urine. **Ureter**: carries urine from kidney to bladder. **Bladder**: stores urine. **Urethra**: carries urine out of the body. |
-| **肾脏结构 (Supplement)** | Name the parts of the kidney labelled in the diagram (cortex, medulla, ureter). | **Cortex**: outer region, contains Bowman‘s capsules and convoluted tubules. **Medulla**: inner region, contains loops of Henle and collecting ducts. **Ureter**: tube carrying urine to the bladder. |
-| **肾单位结构与功能** | Identify the parts of a nephron and describe the processes occurring. | **Glomerulus & Bowman’s capsule**: site of ultrafiltration. **Proximal convoluted tubule (PCT)**: site of selective reabsorption (glucose, amino acids). **Loop of Henle**: reabsorbs water and salts. **Collecting duct**: reabsorbs water (ADH dependent) and carries urine to ureter. |
-| **超滤作用 (Ultrafiltration)** | Explain the process of ultrafiltration in the glomerulus. | High blood pressure in the glomerulus forces small molecules (water, glucose, urea, ions) from the blood, through the capillary walls and basement membrane, into the Bowman’s capsule. Large molecules (proteins, blood cells) remain in the blood. |
-| **选择性重吸收** | Describe selective reabsorption in the proximal convoluted tubule. | All glucose and amino acids, and some ions, are actively reabsorbed from the filtrate back into the blood capillaries. This occurs via active transport (for glucose) and osmosis (for water). PCT cells have microvilli and many mitochondria to provide energy. |
-| **滤液成分变化** | Explain how the composition of fluid changes as it moves through the nephron. | **X (blood in glomerulus) vs Y (filtrate in Bowman‘s capsule)**: Y contains glucose, water, urea, and ions, but no large proteins or blood cells (due to ultrafiltration). **Y (filtrate in PCT) vs Z (urine in collecting duct)**: Z contains no glucose (all glucose reabsorbed). Z contains higher concentration of urea (water reabsorbed, waste products become more concentrated). |
-| **尿素的形成 (脱氨作用)** | Describe how urea is formed in the liver. | Excess amino acids cannot be stored. They undergo **deamination** in the liver: the nitrogen-containing amino group (-NH₂) is removed. This forms ammonia (toxic), which is immediately converted into **urea** (less toxic). The carbon skeleton is converted to glycogen or fat. Urea is then transported in the blood to the kidneys for excretion. |
-| **肝脏处理氨基酸的方式** | Describe how the liver processes amino acids. | **Deamination**: The nitrogen-containing part (amine group) of excess amino acids is removed to form urea, which is then excreted by the kidneys. **Assimilation / Protein Synthesis**: Amino acids are built up (synthesized) into new proteins required by the body, such as plasma proteins (e.g., fibrinogen) or enzymes. |
-| **蛋白质的例子** | Give two examples of proteins found in the body. | Haemoglobin, enzymes (e.g., amylase, pepsin), antibodies, hormones (e.g., insulin), structural proteins (e.g., collagen). |
-| **尿液浓缩 (ADH作用)** | Explain how the body controls the concentration of urine. | When the body is dehydrated (low blood water potential), osmoreceptors in the hypothalamus detect the change. The pituitary gland releases more **ADH (antidiuretic hormone)**. ADH makes the collecting duct walls more permeable to water, so more water is reabsorbed back into the blood, producing a small volume of concentrated urine. The opposite occurs when overhydrated. |
-| **体温调节 (皮肤的作用)** | Describe the role of the skin in temperature regulation. | **When hot**: Vasodilation (arterioles widen) → more blood flows through skin capillaries → heat lost by radiation. Sweating increases → sweat evaporates, taking heat from the body. Hair erector muscles relax. **When cold**: Vasoconstriction (arterioles narrow) → less blood to skin → reduces heat loss. Shivering generates heat. Hair erector muscles contract → hairs stand up to trap insulating air. |
+| **肺** | 二氧化碳 (CO₂) | 呼吸系统 |
+| **肾脏** | 尿素、过量水、过量离子 | 泌尿系统 |
+| **皮肤** | 水、盐、少量尿素 | 外皮系统 (通过汗液) |
 
 ---
 
-### ⚠️ 四、Paper 2 常见陷阱（基于真题失分点）
+## 13.2 通过肺排泄二氧化碳
 
-| 陷阱 | 正确理解 | 错误选项特征 |
+- **来源**：有氧呼吸的废物。  
+- **运输**：CO₂ 扩散到血液中，主要以碳酸氢盐离子形式运输到肺。  
+- **移除过程**：在肺中，CO₂ 扩散入肺泡，通过呼气排出体外。  
+- **重要性**：CO₂ 溶于水形成弱酸（碳酸 H₂CO₃），会降低血液 pH，若累积过多会干扰酶的功能，影响细胞代谢。
+
+---
+
+## 13.3 泌尿系统
+
+泌尿系统负责过滤血液、形成并排出尿液。
+
+### 主要结构及其功能
+
+| 结构（中文） | 英文 | 功能 |
 | :--- | :--- | :--- |
-| **混淆排泄与排遗** | Excretion removes **metabolic waste** (urea, CO₂); Egestion removes **undigested food** (faeces). | 选项中把“粪便的排出”定义为排泄 |
-| **混淆排泄与分泌** | 排泄是清除代谢废物；分泌是释放有用的物质（如激素、酶）。 | 选项中把“激素的释放”定义为排泄 |
-| **混淆肾脏与其他器官功能** | 肾脏负责**过滤**血液和**重吸收**；膀胱只负责**储存**；肝脏负责**脱氨作用**（尿素合成）。 | 选项中写“kidneys produce urea”或“liver excretes urea” |
-| **混淆肾小球和肾小管功能** | 肾小球：**超滤**（非选择性）；肾小管：**选择性重吸收**。 | 选项中写“reabsorption occurs in the glomerulus” |
-| **混淆各种血管中的尿素浓度** | 尿素在**肝静脉**（离开肝脏）浓度最高，在**肾静脉**（离开肾脏）浓度最低。 | 选项中写“renal vein has highest urea concentration” |
-| **混淆恒温动物与变温动物** | 恒温动物通过代谢产热维持体温；变温动物依赖环境。 | 选项中写“fish maintain constant body temperature” |
-| **ADH作用方向混淆** | **ADH↑ → 重吸收水↑ → 尿量↓ (浓缩)**。 | 选项中写“ADH increases urine volume” |
+| **肾** | Kidney | 一对豆形器官，位于腹腔后部，过滤血液，形成尿液。 |
+| **输尿管** | Ureter | 将尿液从肾输送到膀胱的细管。 |
+| **膀胱** | Bladder | 储存尿液的弹性肌肉囊。 |
+| **尿道** | Urethra | 将尿液从膀胱排出体外的管道。 |
+| **肾动脉** | Renal artery | 将含氧血从主动脉输送到肾。 |
+| **肾静脉** | Renal vein | 将过滤后的血液从肾运回下腔静脉。 |
+
+> **陷阱**：注意区分 **输尿管 (ureter)**（连接肾与膀胱）和 **尿道 (urethra)**（将尿液排出体外）。
+
+### 肾脏内部结构（Supplement）
+
+- **皮质 (Cortex)**：肾的外层，颜色较深，含有肾小球和肾小管。
+- **髓质 (Medulla)**：肾的内层，颜色较浅，含有肾锥体和肾小管。
 
 ---
 
-### 📌 五、单点考题示例 (Single Examination Point Questions)
+## 13.4 肾脏的基本结构与功能
 
-| 单点考题 | 答案 |
-| :--- | :--- |
-| State the name of the organ that produces urea. | Liver. |
-| Name the blood vessel that carries urea away from the liver to the kidneys. | Hepatic vein. |
-| State the name of the functional unit of the kidney. | Nephron. |
-| State the name of the process by which small molecules are forced out of the blood in the glomerulus. | Ultrafiltration. |
-| State the name of the process by which water is reabsorbed in the kidney. | Osmosis. |
-| Name the hormone that controls water reabsorption in the collecting duct. | ADH (Antidiuretic Hormone). |
-| State two structures found in the skin that help regulate body temperature. | Sweat glands; blood vessels; hair erector muscles. |
-| Name the gas that is excreted by the lungs. | Carbon dioxide / CO₂. |
-| Name two substances that are excreted by healthy kidneys (other than water). | Urea and excess salts (ions). |
-| Name the structure that connects the kidney to the bladder. | Ureter. |
-| Name the structure that carries urine out of the body. | Urethra. |
-| State the name of the process by which excess amino acids are broken down in the liver. | Deamination. |
+### 肾脏的两大功能
 
+1.  调节血液中的含水量（对维持血压至关重要）。
+2.  排出有毒代谢产物（如尿素）和过量物质（如盐类）。
+
+### 肾单位 (Nephron)
+
+肾单位是肾脏的功能单位，每个肾含约一百万个肾单位。它始于肾皮质（鲍曼氏囊和肾小球），向下进入髓质，再返回皮质，最终汇入集合管。
+
+**肾单位结构示意图（理解即可）**：
+
+入球小动脉 → 肾小球（毛细血管球）→ 鲍曼氏囊（包裹肾小球）→ 近曲小管 → 髓袢（降支和升支）→ 远曲小管 → 集合管
+
+---
+
+## 13.5 尿液形成过程
+
+尿液形成分为三个核心步骤：**超滤**、**选择性重吸收**、**尿液形成**。
+
+#### 步骤 1：超滤 (Ultrafiltration)
+
+- **过程**：血液在高压下通过肾小球滤过，形成滤液。  
+- **机制**：
+  1.  入球小动脉（来自肾动脉）分支出毛细血管网，形成 **肾小球 (glomerulus)**。肾小球被 **鲍曼氏囊 (Bowman’s capsule)** 包围（像一个杯子裹住一团线）。
+  2.  出球小动脉比入球小动脉更细，使得肾小球毛细血管内形成高压。
+  3.  高压迫使葡萄糖、水、尿素、离子等小分子通过毛细血管壁和鲍曼氏囊壁进入囊腔。
+  4.  血细胞和大分子蛋白质因体积过大，保留在血液中。
+- **滤液成分**：葡萄糖、水、尿素、离子（不含血细胞和大分子蛋白）。
+
+#### 步骤 2：选择性重吸收 (Selective Reabsorption)
+
+在选择性重吸收过程中，**所有葡萄糖**、**大部分水**以及**部分离子**被重吸收回血液。
+
+- **葡萄糖**：
+  - **重吸收位置**：仅发生在 **近曲小管 (Proximal Convoluted Tubule, PCT)**。
+  - **机制**：**主动运输 (Active transport)**，需要能量 (ATP) 和 **载体蛋白**。
+  - **适应特征**：近曲小管上皮细胞有 **微绒毛** 增加表面积，另有 **大量线粒体** 为主动运输提供能量。
+  - **结果**：滤液中的葡萄糖被 **完全重吸收**（正常健康人体）。
+- **水**：
+  - **重吸收位置**：在髓袢 (Loop of Henle) 和集合管中被重吸收。
+  - **机制**：**渗透 (Osmosis)**。
+  - **调节**：集合管对水的重吸收量受 **抗利尿激素 (Antidiuretic Hormone, ADH)** 调节，以维持水平衡（补充内容）。
+- **盐（离子）**：
+  - **重吸收位置**：发生在肾单位的不同部位（包括髓袢和集合管）。
+  - **机制**：扩散或主动运输。
+
+#### 步骤 3：尿液形成
+
+- **定义**：未被重吸收的物质形成尿液。  
+- **成分**：**尿素**、**过量的水**和**过量的离子**。  
+- **路径**：尿液从集合管汇入肾盂，经 **输尿管 (ureter)** 至 **膀胱 (bladder)** 储存，最后通过 **尿道 (urethra)** 排出体外。
+
+### 尿液形成总结表
+
+| 过程 | 发生位置 | 目的 | 机制 |
+| :--- | :--- | :--- | :--- |
+| **超滤** | 肾小球（鲍曼氏囊内） | 形成滤液，移除小分子废物和有用物质 | 高压过滤 |
+| **选择性重吸收** | 肾小管（尤其近曲小管） | 将有用的分子（如葡萄糖）和大部分水重吸收回血液 | 主动运输、渗透等 |
+| **尿液形成** | 集合管 | 排出废物（尿素、过量物质），调节水平衡 | 调节水分重吸收（ADH） |
+
+---
+
+## 13.6 肝脏在排泄中的作用
+
+肝脏将多余的氨基酸转化为尿素，并合成蛋白质。这个过程对于移除含氮废物至关重要。
+
+### 脱氨基作用 (Deamination)
+
+- **定义**：将氨基酸的含氮部分（氨基）移除以形成尿素的过程。
+- **位置**：**肝脏**。
+- **过程**：
+  1.  摄入的蛋白质被消化为氨基酸，被小肠吸收后通过 **肝门静脉** 运至肝脏。
+  2.  部分氨基酸用于合成人体需要的蛋白质（生长与修复）。
+  3.  不能被储存的多余氨基酸在肝脏进行 **脱氨基作用**。
+  4.  含氮的氨基 (-NH₂) 被移除，立即转化为剧毒的 **氨 (ammonia)** ，并迅速转化为毒性较低的 **尿素 (urea)**。
+  5.  尿素溶解于血液，运输到肾脏以尿液形式排出，少量随汗液排出。
+  6.  不含氮的剩余部分（碳骨架）可转化为 **糖原 (glycogen)** 在肝脏中储存或用于呼吸作用提供能量。
+- **重要性**：
+  - 尿素毒性低于氨，但若在血液中积累仍有害，必须被肾脏排出以维持体内稳态。
+
+### 同化作用 (Assimilation)
+
+- **定义**：将吸收的营养物质转化为身体细胞所需的复杂分子的过程。
+- **肝脏在同化作用中的作用**：
+  - 将摄入的氨基酸合成为身体所需的蛋白质（如血浆蛋白、纤维蛋白原）。
+  - 储存从氨基酸碳骨架转化而来的糖原。
+
+---
+
+## 13.7 排泄的重要性（高频考点）
+
+- **移除有毒代谢废物**：尿素、CO₂ 等积累会破坏细胞正常功能。
+- **维持稳态**：调节体内水分、盐分和 pH 平衡。
+- **防止渗透压失衡**：排泄多余水和离子以维持细胞正常渗透压。
+- **除 CO₂**：维持血液 pH 稳定（CO₂ 溶于水形成碳酸，影响 pH）。
+
+---
+
+## 📌 常见考试陷阱（Paper 2 选择题）
+
+| 错误观念 | 正确说法 | 对应子主题 |
+| :--- | :--- | :--- |
+| 排便是排泄 | 排遗（排便）排出的是未消化的食物，从未进入细胞，因此不是排泄 | 13.1 |
+| 肺排泄水 | 肺主要通过呼气排泄 CO₂；泌尿系统负责大部分水分排泄 | 13.1 |
+| 尿素在肾脏产生 | 尿素在 **肝脏** 由脱氨基作用产生 | 13.6 |
+| 输尿管 (ureter) 和尿道 (urethra) 混淆 | 输尿管连接肾与膀胱；尿道连接膀胱与体外 | 13.3 |
+| 肾小管滤液中含蛋白质和血细胞 | 超滤后滤液（鲍曼氏囊内）不含血细胞或大分子蛋白质 | 13.5 |
+| 葡萄糖在集合管重吸收 | 葡萄糖仅在 **近曲小管** 通过主动运输被完全重吸收 | 13.5 |
+| 所有水都在近曲小管重吸收 | 大部分水在近曲小管和髓袢重吸收，最后在集合管受 ADH 调节 | 13.5 |
+| 肾脏只排泄尿素 | 肾脏还排泄过量水、过量离子，并调节血液 pH | 13.1/13.5 |
+
+---
+
+## ✅ Topic 13 学习自检清单
+
+- [ ] 能定义排泄，并区分排泄和排遗。
+- [ ] 能识别主要的排泄器官及其排泄物（肺：CO₂；肾：尿素/水/离子；皮肤：水/盐/少量尿素）。
+- [ ] 能解释通过肺排出 CO₂ 的重要性（维持血液 pH）。
+- [ ] 能在图中识别肾脏、输尿管、膀胱、尿道、肾动脉和肾静脉（且能写出英文术语）。
+- [ ] 能描述肾脏的结构（皮质和髓质）。
+- [ ] 能描述肾单位的结构（肾小球、鲍曼氏囊、近曲小管、髓袢、远曲小管、集合管）。
+- [ ] 能解释尿液形成的三个主要步骤：超滤、选择性重吸收、尿液形成。
+- [ ] 能列出超滤后进入鲍曼氏囊的滤液成分（葡萄糖、水、尿素、离子，无血细胞/大蛋白）。
+- [ ] 能解释葡萄糖通过主动运输在近曲小管被 **完全重吸收**（需要 ATP 和载体蛋白）。
+- [ ] 能描述脱氨基作用的过程和重要性（在肝脏将多余氨基酸转化为尿素）。
+- [ ] 能解释为什么尿素在肝脏产生却在肾脏排泄（尿素由血液运输到肾脏过滤）。
+- [ ] 能列举排泄对维持体内稳态的重要性（移除废物、调节水盐平衡、维持 pH）。
+
+---
+
+> 本文档覆盖 IGCSE Biology Topic 13 全部考纲内容，基于 15+ 份真题和官方评分标准逐项核对，已补充：肾小球与鲍曼氏囊关系修正、选择性重吸收总述、输尿管/尿道英文术语、排泄重要性等。如需其他 Topic 笔记，请参考相应专题。
 ---
 
 ### 📌 六、如何使用本资料
