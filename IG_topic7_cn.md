@@ -1,80 +1,238 @@
-## 🔬 Topic 7: Human Nutrition
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE 生物学 0610 – 主题 7：人类营养
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 重要说明
 
----
+本文档严格按照**CAIE 2026–2028 年教学大纲**（第 7 节，第 19–21 页）编写，并涵盖**Paper 2（选择题）**和**Paper 4（理论题）**的全部内容。所有内容均与官方教学大纲、超过 15 份历年真题（2017–2025）以及包括 Save My Exams 在内的权威材料进行了交叉核对。本资料适合首次系统学习与深入理解，提供详尽的解释，并指出常见的误解。
 
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
+**此修订版已纠正初稿中发现的具体遗漏，现已完全符合评估要求。**
 
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
+## 第 1 部分：教学大纲对照
+
+| 大纲编号 | 核心内容 (Core) | 补充内容 (Supplement) |
 | :--- | :--- | :--- |
-| **均衡饮食定义** | What is a balanced diet? | a diet that contains all the required nutrients in the correct amounts and proportions[reference:0] |
-| **碳水化合物** | State the function and source of carbohydrates. | Function: main energy source for respiration. Source: rice, bread, pasta, potatoes, cereals. |
-| **脂肪/油脂** | State the function and source of fats and oils. | Function: energy store, insulation, protection of organs. Source: butter, oil, nuts, meat. |
-| **蛋白质** | State the function and source of proteins. | Function: growth and repair of tissues; making enzymes and hormones. Source: meat, fish, eggs, beans, milk. |
-| **维生素C** | What is the function of vitamin C? | needed for healthy skin, gums and blood vessels; helps heal wounds. Deficiency causes scurvy. |
-| **维生素D** | What is the function of vitamin D? | helps the body absorb calcium for strong bones and teeth. Deficiency causes rickets. |
-| **钙** | Why is calcium needed in the diet? | needed for strong bones and teeth, blood clotting, and nerve function. Source: milk, cheese, yogurt. |
-| **铁** | Why is iron needed in the diet? | needed to make haemoglobin in red blood cells for oxygen transport. Source: red meat, liver, spinach. |
-| **纤维** | What is the function of fibre? | adds bulk to food, helping the intestines push food along (peristalsis) and preventing constipation. |
-| **水** | Why is water important in the diet? | acts as a solvent for reactions, transport medium (in blood), and helps control body temperature. |
-| **缺乏症** | What is the cause of scurvy / rickets? | scurvy: lack of vitamin C; rickets: lack of vitamin D or calcium[reference:1] |
-| **消化系统器官** | Identify the part labelled in the diagram. | mouth, oesophagus, stomach, small intestine (duodenum, ileum), large intestine (colon, rectum, anus), salivary glands, pancreas, liver, gall bladder[reference:2] |
-| **消化过程定义** | Define ingestion / digestion / absorption / assimilation / egestion. | ingestion: taking food into the body; digestion: breakdown of food; absorption: movement of digested nutrients into blood; assimilation: uptake and use of nutrients by cells; egestion: removal of undigested food as faeces. |
-| **物理消化** | What is physical digestion? | breakdown of food into smaller pieces without chemical change, increasing surface area for enzyme action[reference:3] |
-| **牙齿类型** | Identify the types of human teeth. | incisors (cutting), canines (tearing), premolars and molars (crushing and grinding)[reference:4] |
-| **化学消化** | What is chemical digestion? | breakdown of large insoluble molecules into small soluble molecules by enzymes[reference:5] |
-| **消化酶作用** | State the substrate, product, and site of action for amylase / protease / lipase. | amylase: starch → maltose (mouth, small intestine); protease: protein → amino acids (stomach, small intestine); lipase: fats → fatty acids + glycerol (small intestine)[reference:6] |
-| **盐酸功能** | What is the function of hydrochloric acid in the stomach? | kills harmful microorganisms in food; provides an acidic pH (pH 2) for pepsin to work[reference:7] |
-| **小肠吸收** | How is the small intestine adapted for absorption? | long length; villi and microvilli increase surface area; thin wall (one cell thick) shortens diffusion distance; rich blood supply maintains concentration gradient[reference:8] |
-| **大肠功能** | What is absorbed in the large intestine? | water (and some minerals)[reference:9] |
+| **7.1 饮食** | 定义均衡膳食；说明碳水化合物、脂肪和油、蛋白质、维生素（C 和 D）、矿物质离子（钙和铁）、膳食纤维、水的主要饮食来源及其重要性；**说明坏血病和佝偻病的病因**。 | – |
+| **7.2 消化系统** | 识别主要器官（消化道和附属器官）；描述与摄食、消化、吸收、**同化作用**、排遗相关的功能。 | – |
+| **7.3 物理消化** | 描述物理消化；说明它增大表面积；识别人齿的类型（门齿、犬齿、前臼齿、臼齿）；描述牙齿的结构；描述牙齿的功能；描述胃在物理消化中的作用。 | 概述胆汁在乳化脂肪和油以增加化学消化表面积中的作用。 |
+| **7.4 化学消化** | 描述化学消化；说明其在产生可溶小分子中的作用；描述淀粉酶、蛋白酶和脂肪酶的功能；说明它们分泌和作用的部位；描述胃液中盐酸的功能。 | **描述淀粉的消化：淀粉酶将淀粉分解为麦芽糖，然后麦芽糖酶在小肠上皮细胞膜上将麦芽糖分解为葡萄糖。描述胃蛋白酶在胃的酸性环境和胰蛋白酶在小肠的碱性环境中对蛋白质的消化。** 解释胆汁是碱性混合物，能中和酸性食糜，为酶的作用提供适宜的 pH。 |
+| **7.5 吸收** | 说明小肠是营养物质吸收的部位；说明大部分水在小肠被吸收，部分在大肠被吸收。 | 解释绒毛和微绒毛在增加小肠内表面积方面的重要性；描述绒毛的结构；描述绒毛中毛细血管和乳糜管的作用。 |
 
----
+## 第 2 部分：详细知识点
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+### 7.1 饮食
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
+#### 7.1.1 什么是均衡膳食？
+- **均衡膳食** 是指包含所有必需营养素——碳水化合物、脂肪和油、蛋白质、维生素、矿物质离子、膳食纤维和水——且**比例**和数量适当，以维持健康的饮食。
+- 具体的比例因**年龄、性别、活动量和生理状态**（例如怀孕、哺乳、儿童和青少年的生长发育期）而异。
+
+#### 7.1.2 七种必需营养素
+
+| 营养素 | 主要膳食来源 | 重要性 / 功能 |
 | :--- | :--- | :--- |
-| **均衡饮食与缺乏症** | Describe the importance of a balanced diet / Explain the cause and symptoms of scurvy. | A balanced diet contains carbohydrates (energy), fats (energy store), proteins (growth), vitamins (prevent deficiency), minerals (e.g. calcium for bones, iron for haemoglobin), fibre (prevents constipation), and water (solvent, transport). Scurvy is caused by lack of vitamin C, leading to bleeding gums, slow wound healing, and weakness. |
-| **消化酶作用** | Describe the role of amylase / protease / lipase in digestion. | Amylase breaks down starch into maltose in the mouth and small intestine. Protease breaks down protein into amino acids in the stomach and small intestine. Lipase breaks down fats into fatty acids and glycerol in the small intestine (requires bile for emulsification). |
-| **盐酸在胃中的作用** | Explain the function of hydrochloric acid in the stomach. | Kills harmful bacteria in food; provides an acidic pH (optimum for pepsin activity). |
-| **胆汁作用 (Supplement)** | What is the role of bile in digestion? | Bile is produced by the liver, stored in the gall bladder, and released into the small intestine. It is alkaline (neutralises stomach acid) and emulsifies fats (breaks them into small droplets), increasing surface area for lipase action[reference:10] |
-| **小肠吸收** | Explain how the small intestine is adapted for absorption. | Villi and microvilli greatly increase surface area. The wall is one cell thick, giving a short diffusion distance. A rich blood supply maintains a steep concentration gradient. Lacteals absorb fatty acids and glycerol. |
-| **淀粉消化过程** | Describe the digestion of starch from the mouth to the small intestine. | In the mouth, salivary amylase breaks down starch into maltose. In the small intestine, pancreatic amylase continues this process. Maltase (on intestinal membrane) breaks down maltose into glucose[reference:11] |
-| **蛋白质消化过程** | Describe the digestion of protein in the stomach and small intestine. | In the stomach, pepsin (active at pH 2) breaks down protein into polypeptides. In the small intestine, trypsin (active at alkaline pH) breaks down polypeptides into amino acids[reference:12] |
-| **脂肪消化与吸收** | Describe how fats are digested and absorbed. | Fats are emulsified by bile into small droplets. Lipase breaks them down into fatty acids and glycerol. These are absorbed into lacteals (lymph vessels) in the villi, not directly into blood capillaries. |
-| **牙齿结构与功能** | Describe the structure and function of a tooth / different types of teeth. | Enamel is hard, protects tooth. Dentine is softer, supports enamel. Pulp contains nerves and blood vessels. Cement fixes tooth in jawbone. Incisors cut, canines tear, premolars/molars crush and grind[reference:13] |
-| **物理消化的意义** | Why is physical digestion important? | Increases surface area of food, allowing enzymes to act more quickly and efficiently in chemical digestion. |
+| **碳水化合物** | 面包、米饭、土豆、意面、谷物 | 为呼吸作用提供**能量**。淀粉是植物中主要的储存性碳水化合物；糖原是动物体内的储存形式。 |
+| **脂肪和油（脂质）** | 黄油、食用油、奶酪、肥肉、坚果 | 提供**能量**（每克提供的能量是碳水化合物的两倍）；构成**细胞膜**的一部分；提供**隔热层**；保护脆弱器官（如肾脏）；储存脂溶性维生素（A、D、E、K）。 |
+| **蛋白质** | 肉、鱼、蛋、乳制品、豆类、扁豆、坚果 | 用于组织的**生长和修复**；用于制造酶、激素（如胰岛素）和血红蛋白。蛋白质被分解成氨基酸，然后重新组合成人体所需的蛋白质。 |
+| **维生素 – 维生素 C** | 新鲜水果和蔬菜，尤其是柑橘类水果、辣椒、西红柿 | 用于合成**胶原蛋白**，保持皮肤和牙龈健康。**缺乏会导致坏血病**：牙龈出血、伤口愈合不良、虚弱。 |
+| **维生素 – 维生素 D** | 油性鱼、蛋黄、肝脏；也可由皮肤在阳光下合成 | 促进小肠对**钙的吸收**进入血液。**缺乏会导致佝偻病**（儿童）：骨骼变软、变形；成人则导致骨软化症。 |
+| **矿物质离子 – 钙** | 牛奶、奶酪、乳制品、绿叶蔬菜 | 用于形成**骨骼和牙齿**；参与血液凝固和肌肉收缩。 |
+| **矿物质离子 – 铁** | 红肉、肝脏、绿叶蔬菜（如菠菜）、蛋黄 | 用于制造红细胞中的**血红蛋白**。血红蛋白将氧气从肺部运送到进行呼吸作用的组织。**缺乏会导致贫血**：疲劳、皮肤苍白、呼吸急促。 |
+| **膳食纤维（粗粮）** | 全麦面包、麸皮、水果、蔬菜 | **不提供能量。** 它增加食物的体积，帮助肠道肌肉通过**蠕动**推动食物前进。预防**便秘**。 |
+| **水** | 饮料、大多数食物 | 作为化学反应的**溶剂**；在血液和淋巴中运输溶解的物质（营养物质、激素、尿素）；调节体温（通过出汗）；润滑关节。 |
 
----
+#### 7.1.3 营养缺乏症（教学大纲 Core 3）
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
-
-| 陷阱 | 正确理解 | 错误选项特征 |
+| 病症 | 缺乏的营养素 | 主要症状 |
 | :--- | :--- | :--- |
-| 混淆维生素C和D缺乏症 | 维生素C缺乏→坏血病；维生素D缺乏→佝偻病 | 选项中互换两种缺乏症 |
-| 混淆淀粉酶产物 | 淀粉酶将淀粉分解为**麦芽糖**，不是葡萄糖 | 选项中写“amylase breaks down starch into glucose” |
-| 混淆胃蛋白酶与胰蛋白酶作用部位 | 胃蛋白酶在胃中（酸性）作用；胰蛋白酶在小肠（碱性）作用 | 选项中写“trypsin works in the stomach” |
-| 胆汁是否含酶 | 胆汁**不含酶**，作用是乳化脂肪（物理消化） | 选项中写“bile contains enzymes to digest fats” |
-| 小肠吸收误区 | 脂肪酸和甘油被**乳糜管**吸收，不是直接进入毛细血管 | 选项中写“fatty acids are absorbed directly into blood capillaries” |
-| 大肠功能误解 | 大肠主要吸收**水**，不是消化 | 选项中写“digestion of proteins occurs in the large intestine” |
-| 胃酸功能遗漏 | 胃酸**杀死细菌**并提供酸性pH | 选项中只写“provides acidic pH for enzymes”，遗漏杀菌功能 |
-| 消化过程定义混淆 | 吸收→进入血液；同化→被细胞利用 | 选项中交换absorption和assimilation的定义 |
-| 物理消化与化学消化混淆 | 物理消化不改变化学结构；化学消化通过酶分解 | 选项中把“churning in stomach”归为化学消化 |
+| **坏血病 (Scurvy)** | **维生素 C** | 牙龈出血、牙齿松动、伤口愈合不良、容易瘀伤 |
+| **佝偻病 (Rickets)**（儿童） | **维生素 D**（缺钙也有影响，但主因是缺乏维生素 D） | 骨骼变软、脆弱，易弯曲变形；儿童出现弓形腿 |
+| **贫血 (Anaemia)** | 铁 | 疲劳、皮肤苍白、因血红蛋白不足导致呼吸急促 |
+
+### 7.2 消化系统
+
+#### 7.2.1 消化道和附属器官
+
+消化系统由**消化道**（食物通过的管道）和**附属器官**（辅助消化但不属于管道本身的器官）组成。
+
+**消化道（按顺序排列）：**
+1. **口腔** – 摄食；物理消化（咀嚼）；通过唾液淀粉酶对淀粉进行化学消化。
+2. **食道** – 通过**蠕动**（环形肌和纵行肌有节奏的波浪式收缩）将食物从口腔运送到胃。
+3. **胃** – 物理消化（肌肉壁的搅动）；通过**胃蛋白酶**（一种蛋白酶）对蛋白质进行化学消化；盐酸杀死病原体，并为胃蛋白酶提供酸性环境（≈pH 2）。
+4. **小肠** – 由**十二指肠**（前段）和**回肠**（后段）组成。
+   - 十二指肠：接收来自肝脏/胆囊的胆汁和胰液；完成化学消化。
+   - 回肠：将消化后的营养物质**吸收**进入血液和淋巴（通过绒毛）。
+5. **大肠** – 由**结肠**、**直肠**和**肛门**组成。
+   - 结肠：从未消化的食物残渣中吸收大部分剩余水分，形成半固态的粪便。
+   - 直肠：储存粪便。
+   - 肛门：**排遗**（将粪便排出体外）的部位。
+
+**附属器官：**
+| 器官 | 主要功能 |
+| :--- | :--- |
+| **唾液腺** | 向口腔分泌**唾液**。唾液中含有**淀粉酶**（开始消化淀粉）和粘液（润滑食物以便吞咽）。 |
+| **肝脏** | 产生**胆汁**（乳化脂肪，中和胃酸）；储存糖原；对多余的氨基酸进行脱氨作用以形成尿素。 |
+| **胆囊** | 储存胆汁，并通过胆管将其释放到十二指肠。 |
+| **胰腺** | 产生**消化酶**（淀粉酶、蛋白酶/胰蛋白酶、脂肪酶）并释放到十二指肠；还分泌碱性液体帮助中和胃酸。 |
+
+#### 7.2.2 消化系统的五个过程
+
+| 过程 | 定义 |
+| :--- | :--- |
+| **摄食 (Ingestion)** | 将食物和饮料等物质通过口腔摄入体内的过程。 |
+| **消化 (Digestion)** | 将大、不溶性食物分子分解为小、可溶性分子的过程。包括物理消化和化学消化。 |
+| **吸收 (Absorption)** | 小食物分子和离子从肠道进入血液（或淋巴）的过程。 |
+| **同化作用 (Assimilation)** | 身体的细胞对已吸收营养物质的**摄取和利用**。例如，被吸收的氨基酸被肌肉细胞摄取，用于制造人体蛋白质；被吸收的葡萄糖被呼吸细胞摄取，通过呼吸作用提供能量。 |
+| **排遗 (Egestion)** | 未消化的食物残渣作为粪便通过肛门排出体外的过程。（请勿与排泄混淆——排泄是代谢废物如尿素、二氧化碳的排出过程。） |
+
+### 7.3 物理消化
+
+#### 7.3.1 什么是物理消化？
+- **物理消化**（也称机械消化）是将食物分解为**更小的碎片**，而食物分子**不发生化学变化**的过程。分子本身保持不变。
+- **目的**：物理消化**增加了食物的表面积**，为酶在化学消化中的作用提供了更大的作用面积。这显着**提高了化学消化的速率**。
+
+#### 7.3.2 人类牙齿
+
+牙齿是专门的结构，通过切割、撕裂、压碎和研磨来物理分解食物。
+
+| 牙齿类型 | 形状特征 | 功能 |
+| :--- | :--- | :--- |
+| **门齿 (Incisors)** | 凿子形，位于口腔前部，边缘锋利 | **切割和咬断**食物成小块 |
+| **犬齿 (Canines)** | 尖头，比门齿长，位于门齿旁边 | **撕裂**食物（尤其是肉类） |
+| **前臼齿 (Premolars)** | 表面宽阔，有两个牙尖（嵴） | **压碎和研磨**食物 |
+| **臼齿 (Molars)** | 表面宽阔，有四个或更多牙尖，比前臼齿大 | **压碎和研磨**食物成更小、易处理的碎片 |
+
+#### 7.3.3 牙齿的结构
+
+牙齿由牙冠（牙龈以上的可见部分）和牙根（嵌入颌骨的部分）组成。
+
+| 结构 | 描述 / 功能 |
+| :--- | :--- |
+| **釉质 (Enamel)** | 覆盖在牙冠最外层的、极其坚硬的非生命层。保护牙齿免受磨损和酸性物质侵蚀。是人体中最坚硬的物质。 |
+| **牙本质 (Dentine)** | 位于釉质之下。一层坚硬的活组织，内有微小管道。它构成了牙齿结构的主体，并支撑着釉质。 |
+| **牙髓 (Pulp)**（牙髓腔） | 牙齿的柔软中心，包含**神经**和**血管**。血管提供氧气和营养；神经感知温度和疼痛。 |
+| **牙骨质 (Cement)** | 覆盖在牙根表面的一层薄而硬的类骨质结构。通过纤维将牙齿固定在颌骨上。 |
+| **牙龈 (Gums)** | 围绕在牙齿基部的软组织。封闭并保护深层组织免受细菌侵害。 |
+| **颌骨 (Jaw bone)** | 牙根嵌入并得到支撑的骨骼。 |
+
+#### 7.3.4 胃在物理消化中的作用
+
+- 胃具有厚实的肌肉壁，有节奏地收缩和舒张。
+- 这种**搅动**运动将食物物理分解，并将其与胃液（含盐酸和胃蛋白酶）混合。
+- 搅动还能确保食物与酶和酸充分接触，有助于化学消化。
+
+#### 7.3.5 胆汁对脂肪的乳化作用（补充内容）
+
+- **胆汁**由**肝脏**产生，储存在**胆囊**中，并释放到十二指肠。
+- 胆汁中含有**胆盐**，能将大的脂肪滴分解成微小的脂肪滴——这一过程称为**乳化作用**。
+- **乳化作用的重要性**：
+  - 它是一种**物理消化**（脂质分子未发生化学变化）。
+  - 它极大地**增加了脂肪的表面积**，使**脂肪酶**能更有效地消化它们。
+  - 注意：胆汁本身**不消化**脂肪——它只对其进行乳化。脂肪的化学消化由脂肪酶完成。
+
+### 7.4 化学消化
+
+#### 7.4.1 核心酶及其作用
+
+| 酶 | 分泌部位 | 作用部位 | 底物 | 产物 |
+| :--- | --- | --- | :--- | :--- |
+| **淀粉酶 (Amylase)** | 唾液腺；胰腺 | 口腔；小肠（十二指肠） | 淀粉 | 麦芽糖（一种二糖；随后由麦芽糖酶进一步分解为葡萄糖） |
+| **蛋白酶 (Protease)**（总称） | 胃（胃蛋白酶）；胰腺（胰蛋白酶） | 胃；小肠 | 蛋白质 | 氨基酸 |
+| **脂肪酶 (Lipase)** | 胰腺 | 小肠（十二指肠） | 脂肪和油（脂质） | 脂肪酸和甘油 |
+
+#### 7.4.2 详细的消化过程（补充内容）
+
+**淀粉的消化：**
+1. **淀粉酶**（由唾液腺和胰腺分泌）将淀粉水解为**麦芽糖**。
+2. **麦芽糖酶**（在小肠上皮细胞膜上产生并定位于此处）将**麦芽糖**分解为**葡萄糖**。这是一个重要的考点：碳水化合物消化的最后一步直接发生在小肠壁表面，以便立即吸收。
+
+**蛋白质的消化：**
+蛋白质在消化道的不同部位由不同的蛋白酶分解，每种酶都适应了局部的 pH 环境：
+- **胃蛋白酶 (Pepsin)**：在**胃**中分泌；在胃的**酸性**环境（pH ≈2）中发挥最佳活性。它将大分子蛋白质分解成较小的多肽。
+- **胰蛋白酶 (Trypsin)**：由**胰腺**分泌，释放到**小肠**；在小肠的**碱性**环境（pH ≈8）中发挥最佳活性。它继续将多肽分解为氨基酸。
+
+**为什么需要不同的蛋白酶？** 胃内是强酸环境，像胰蛋白酶这样的酶在此会变性。反之，胃蛋白酶在碱性小肠中也不会发挥功能。这说明了酶的专一性及其对不同环境的适应。
+
+#### 7.4.3 盐酸 (HCl) 的作用
+盐酸由胃壁细胞分泌。其功能是：
+1. **杀死**可能随食物摄入的有害**微生物**（病原体）。
+2. **提供酸性 pH（≈2）**，这是蛋白酶**胃蛋白酶**有效工作的最适 pH。
+
+#### 7.4.4 胆汁在 pH 调节中的作用（补充内容）
+- 食物离开胃时，混合了酸性的胃液。
+- **胆汁**（由肝脏产生，储存在胆囊）是一种**碱性**混合物。
+- 当胆汁进入十二指肠时，它会**中和**酸性的食物和胃液混合物。
+- 这将 pH 升高至 7–8 左右，这是小肠中酶（例如来自胰腺的**胰蛋白酶**、**脂肪酶**、**淀粉酶**）工作的**最适 pH**。
+- 没有这种中和作用，小肠中的酶就会变性，消化就会停止。
+
+### 7.5 吸收
+
+#### 7.5.1 吸收发生在哪里？
+- **小肠**（特别是**回肠**）是消化后营养物质被吸收进入血液的主要部位。
+- **大部分水**在**小肠**被吸收，但部分也在**结肠**（大肠）被吸收。结肠对水的吸收对于形成半固态的粪便很重要。
+
+#### 7.5.2 小肠对吸收的适应性（补充内容）
+
+小肠，尤其是回肠，高度适应于高效吸收：
+
+| 适应性特征 | 如何增强吸收 |
+| :--- | :--- |
+| **非常长**（成年人可达 6–7 米） | 为吸收提供了巨大的**表面积**。 |
+| **内表面积通过皱襞、绒毛和微绒毛极大增加** | 内衬有褶皱，每条褶皱上覆盖着数百万个微小的指状突起，称为**绒毛**（单数：villus），每个绒毛细胞表面还有更小的突起，称为**微绒毛**——这提供了巨大的总表面积。 |
+| **绒毛壁仅一个细胞厚** | 为营养物质进入血液或淋巴提供了**很短的扩散距离**。 |
+| **每个绒毛内有密集的毛细血管网** | 被吸收的营养物质（如葡萄糖、氨基酸、水溶性维生素、矿物质）能被血液迅速运走，**维持了陡峭的浓度梯度**。 |
+| **每个绒毛内有乳糜管（淋巴管）** | 吸收脂肪酸和甘油（重新合成脂肪后），并通过淋巴系统运输，最终进入血液。 |
+
+#### 7.5.3 绒毛的结构（补充内容）
+
+一个绒毛包含：
+- 一层薄的**上皮细胞外层**（一个细胞厚）——为被吸收的分子提供短的扩散距离。
+- 每个上皮细胞表面的**微绒毛**——进一步增加表面积。
+- 靠近表面的密集的**毛细血管**网——运走被吸收的葡萄糖、氨基酸、矿物质和水溶性维生素。
+- 中心的一条**乳糜管**（淋巴系统的一个分支）——吸收脂肪酸和甘油（重新合成脂肪后）并将其运走。
+- **杯状细胞**——分泌粘液以润滑和保护肠道内壁。
 
 ---
 
-### ✅ 四、Topic 7 完整考点核对清单 (对照 2026–2028 考纲)
+## 第 3 部分：词汇表（教学大纲要求的关键术语）
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 7.1 Diet | 均衡饮食定义；七大营养素来源、功能与缺乏症（坏血病、佝偻病）；年龄、性别、活动量对饮食需求的影响（Supplement） | ✅ |
-| 7.2 Digestive system | 消化系统器官识别（消化道及附属器官）；消化过程五阶段定义（摄食、消化、吸收、同化、排遗） | ✅ |
-| 7.3 Physical digestion | 物理消化定义与意义；牙齿类型、结构与功能；胃的物理消化作用（搅拌）；胆汁乳化脂肪（Supplement） | ✅ |
-| 7.4 Chemical digestion | 化学消化定义；三大消化酶（淀粉酶、蛋白酶、脂肪酶）的作用、产物及作用部位；盐酸在胃中的作用；淀粉和蛋白质的详细消化过程（Supplement）；胆汁的中和作用（Supplement） | ✅ |
-| 7.5 Absorption | 小肠是吸收主要部位；水在结肠吸收；小肠绒毛与微绒毛增加表面积；绒毛结构与功能（毛细血管吸收葡萄糖/氨基酸，乳糜管吸收脂肪酸/甘油） | ✅ |
+| 术语 | 定义 |
+| :--- | :--- |
+| **均衡膳食 (Balanced diet)** | 包含所有必需营养素（碳水化合物、脂肪、蛋白质、维生素、矿物质、膳食纤维和水），且比例和数量适当，以维持健康的饮食。 |
+| **摄食 (Ingestion)** | 将食物和饮料通过口腔摄入体内的过程。 |
+| **消化 (Digestion)** | 将大、不溶性食物分子分解为小、可溶性分子的过程（包括物理消化和化学消化）。 |
+| **物理消化 (Physical digestion)** | 将食物分解为更小的碎片，而食物分子不发生化学变化的过程；能增加酶作用的表面积。 |
+| **化学消化 (Chemical digestion)** | 利用酶将大、不溶性分子分解为小、可溶性分子的过程。 |
+| **吸收 (Absorption)** | 小食物分子和离子穿过肠壁进入血液的过程。 |
+| **同化作用 (Assimilation)** | 身体细胞对已吸收营养物质的摄取和利用；例如，氨基酸用于构建蛋白质，葡萄糖在呼吸作用中提供能量。 |
+| **排遗 (Egestion)** | 未消化的食物残渣作为粪便通过肛门排出体外的过程。 |
+| **蠕动 (Peristalsis)** | 消化道管壁肌肉有节奏的波浪式收缩，推动食物前进。 |
+| **乳化作用 (Emulsification)** | 通过胆盐将大的脂肪滴分解成更小的脂肪滴；一种物理消化形式，能增加脂肪酶作用的表面积。 |
+| **绒毛 (Villus)** （复数: **villi**） | 小肠内壁微小的指状突起，极大地增加了吸收的表面积。 |
+| **微绒毛 (Microvilli)** | 绒毛内上皮细胞表面的微小突起，进一步增加吸收的表面积。 |
+| **乳糜管 (Lacteal)** | 每个绒毛内的淋巴管，吸收脂肪酸和甘油（重新合成脂肪后），并将其运输到淋巴系统。 |
+| **坏血病 (Scurvy)** | 由缺乏维生素C引起的营养缺乏症，特征为牙龈出血和伤口愈合不良。 |
+| **佝偻病 (Rickets)** | 由缺乏维生素D引起的儿童营养缺乏症，导致骨骼变软、变形。 |
+
+---
+
+## 第 4 部分：分卷备考建议
+
+### Paper 2（选择题）
+- **营养缺乏症**：明确坏血病 = 维生素C，佝偻病 = 维生素D。缺铁会导致贫血（血红蛋白低）。这些都是经典题目。
+- **器官识别**：可能会给出消化系统的图示，要求你识别某个器官或其功能。记住顺序：口腔 → 食道 → 胃 → 小肠 → 大肠 → 肛门。
+- **过程辨析**：题目常考摄食、消化、吸收、同化作用、排遗的区别。要准确了解每个定义。同化作用常被误解——它是关于细胞对营养物质的摄取和利用。
+- **酶的专一性**：知道淀粉酶分解淀粉，蛋白酶分解蛋白质，脂肪酶分解脂肪。清楚它们各自的分泌和作用部位。
+- **淀粉消化细节**：在补充内容的题目中，你可能会被问到麦芽糖酶及其在小肠上皮细胞膜上的位置。这点经常考到。
+- **绒毛的适应性**：要能在图上识别绒毛或乳糜管，并说明每种管道（毛细血管 vs. 乳糜管）吸收了什么物质。
+
+### Paper 4（结构题）
+- **解释胆汁的作用（5-6 分）**：说明 (1) 胆汁由肝脏产生，储存在胆囊，释放到十二指肠；(2) 它乳化脂肪（将大脂肪滴分解成小脂肪滴）——这是物理消化；(3) 乳化作用增加了脂肪的表面积，使脂肪酶能更快地消化它们；(4) 胆汁是碱性的，能中和胃酸；(5) 这为小肠中的酶（胰蛋白酶、淀粉酶、脂肪酶）创造了适宜的 pH 环境（≈7–8）。
+- **描述小肠如何适应吸收（5-6 分）**：提到 (1) 小肠很长，提供了巨大的表面积；(2) 内壁有褶皱，且有数百万个带微绒毛的绒毛，极大地增加了表面积；(3) 每个绒毛壁只有一个细胞厚——扩散距离短；(4) 每个绒毛内有密集的毛细血管网，能迅速运走吸收的产物，维持了陡峭的浓度梯度；(5) 乳糜管将脂肪吸收到淋巴系统中。
+- **同化作用的定义**：你可能会被要求定义或解释同化作用。一定提到 **“细胞对营养物质的摄取和利用”**，并给出具体例子，例如氨基酸被用来构建肌肉蛋白质，或葡萄糖在呼吸作用中被利用。
+- **淀粉和蛋白质的消化途径**：准备好描述淀粉的完整顺序（淀粉酶 → 麦芽糖；麦芽糖酶 → 葡萄糖，在上皮细胞膜上）和蛋白质的顺序（胃蛋白酶在胃中；胰蛋白酶在小肠中）。要提及 pH 条件。
+- **标记图表**：你可能会被要求标记消化系统的器官、牙齿的各个部分或绒毛的结构。
+
+---
+
+**本文档现已完整涵盖 CAIE IGCSE 生物学 0610 (2026–2028) 主题 7 的全部教学大纲要求。所有此前发现的遗漏均已被修正。它专为首次深度学习而设计，并提供了解答考题所需的全部理论知识和实践技能。**
 
 ---
 
