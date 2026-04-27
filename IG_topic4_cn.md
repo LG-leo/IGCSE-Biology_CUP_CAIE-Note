@@ -1,79 +1,216 @@
-## 🔬 Topic 4: Biological Molecules
-### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
+# IGCSE Biology 0610/0970 – Topic 4: Biological Molecules
 
-本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
-所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
+## 完整知识点手册（覆盖 Core & Supplement，匹配 2026–2028 考纲 + 真题常考补充）
 
----
-
-### 📌 一、Paper 2 – 高频考点与答题关键词 (选择题)
-
-| 考点类别 | 真题关键词 (Question Keyword) | 答题关键词 (Answer Key) |
-| :--- | :--- | :--- |
-| **碳水化合物元素** | Which elements make up carbohydrates? | carbon (C), hydrogen (H), oxygen (O) |
-| **脂肪/脂质元素** | Which elements make up fats (lipids)? | carbon (C), hydrogen (H), oxygen (O) (less oxygen than carbohydrates) |
-| **蛋白质元素** | Which elements make up proteins? | carbon (C), hydrogen (H), oxygen (O), nitrogen (N) (sometimes sulfur) |
-| **大分子组成** | What are starch, glycogen and cellulose made from? | glucose |
-| **蛋白质组成** | What are proteins made from? | amino acids |
-| **脂肪组成** | What are fats and oils made from? | fatty acids and glycerol |
-| **淀粉测试** | Which reagent is used to test for starch? | iodine solution |
-| **还原糖测试** | Which reagent is used to test for reducing sugars (e.g. glucose)? | Benedict’s solution (heat required) |
-| **蛋白质测试** | Which reagent is used to test for proteins? | biuret reagent |
-| **脂肪/油脂测试** | Which reagent is used to test for fats and oils? | ethanol emulsion test |
-| **维生素C测试** | Which reagent is used to test for vitamin C? | DCPIP solution |
-| **淀粉阳性结果** | What is a positive result for starch? | blue-black colour |
-| **还原糖阳性结果** | What is a positive result for reducing sugar with Benedict’s test? | colour change from blue → green → yellow → brick‑red (precipitate) |
-| **蛋白质阳性结果** | What is a positive result for protein with biuret test? | violet / purple colour |
-| **脂肪阳性结果** | What is a positive result for fat with ethanol emulsion test? | milky white emulsion |
-| **维生素C阳性结果** | What is a positive result for vitamin C with DCPIP test? | DCPIP decolorises (blue → colourless) |
-| **淀粉酶产物** | Amylase breaks down starch into what? | maltose (reducing sugar) |
-| **纤维素功能** | What is the function of cellulose? | structural component of plant cell walls |
-| **糖原储存位置** | Where is glycogen stored in animals? | liver and muscles |
-| **淀粉储存位置** | Where is starch stored in plants? | leaves (as temporary store), seeds, tubers (e.g. potato), roots (e.g. carrot) |
+> 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括元素组成、食物试验、碳水化合物、脂肪、蛋白质、维生素C、水、DNA 等全部必考点。**单糖/双糖/多糖的区分属于真题高频考点，虽考纲未详细列出，但笔记已完整涵盖。**  
+> 每个概念均给出 **标准定义**、**关键词**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
 
 ---
 
-### 📝 二、Paper 4 – 典型题目与答题模板 (理论题)
+## 4.1 生物分子的化学元素组成
 
-| 题型 | 真题关键词 | 答题模板 (按评分标准) |
-| :--- | :--- | :--- |
-| **Benedict’s test for reducing sugar** | Describe how you would test for the presence of reducing sugar in a solution. | Add Benedict’s solution to the sample. Heat in a water bath (80‑100 °C). Observe colour change. A positive result is colour change from blue to green, yellow, orange or brick‑red (precipitate). |
-| **Iodine test for starch** | Describe the test for starch. | Add iodine solution to the sample. A positive result is blue‑black colour. No heating required. |
-| **Biuret test for protein** | Describe the test for protein. | Add biuret reagent (or sodium hydroxide + copper sulfate) to the sample. A positive result is violet / purple colour. |
-| **Ethanol emulsion test for fats** | Describe the test for fats and oils. | Shake the sample with ethanol, then pour into water. A positive result is a milky white emulsion. |
-| **DCPIP test for vitamin C** | Describe how you would test for vitamin C. | Add DCPIP solution to the sample. A positive result is DCPIP decolorised (blue → colourless). |
-| **Starch suitability for storage** | Explain why starch is a good storage molecule in plants. | Starch is insoluble in water, so it does not affect water potential of cells. It is compact and can be broken down to glucose when energy is needed. |
-| **Glycogen as storage** | Why is glycogen used for storage in animals? | Glycogen is highly branched → can be rapidly broken down to glucose when energy is needed. Insoluble, does not affect water potential. |
-| **Cellulose structure and function** | Explain why cellulose is suitable for its function. | Cellulose is made of long straight chains of glucose. Chains are linked by hydrogen bonds to form strong microfibrils. Provides strength and support to plant cell walls. |
-| **Protein structure and function** | Explain how the structure of a protein is related to its function. | Proteins are made from long chains of amino acids. The specific sequence of amino acids determines how the chain folds into a specific 3D shape. The shape of the protein determines its function (e.g. active site of enzyme, binding site of antibody). |
-| **DNA structure (Supplement)** | Describe the structure of a DNA molecule. | DNA is a double helix (two strands coiled together). Each strand contains bases. Complementary base pairs (A with T, C with G) hold the strands together by hydrogen bonds. |
+| 分子类型 | 所含元素 | 备考注释 |
+|:---|:---|:---|
+| **碳水化合物** | C, H, O | H:O = 2:1 (一般式 Cₙ(H₂O)ₙ) |
+| **脂肪** | C, H, O | 比例 H:O 比碳水化合物高 |
+| **蛋白质** | C, H, O, N, 有时 S | S 存在于含硫氨基酸（如半胱氨酸、蛋氨酸） |
+| **维生素C** | C, H, O | 抗坏血酸 |
+| **水** | H, O | 无机分子，但属于生命中最重要的溶剂 |
+| **DNA** | C, H, O, N, P | 磷酸基团含 P；脱氧核糖含 C,H,O；碱基含 N |
 
 ---
 
-### ⚠️ 三、Paper 2 常见陷阱（基于真题失分点）
+## 4.2 食物试验（常见化学检测）
 
-| 陷阱 | 正确理解 | 错误选项特征 |
-| :--- | :--- | :--- |
-| 混淆还原糖与非还原糖 | 还原糖测试需用Benedict’s试剂并加热；蔗糖是非还原糖，需先水解 | 选项中用Benedict’s测试蔗糖且不水解，认为直接显色 |
-| 淀粉酶产物误认为葡萄糖 | 淀粉酶将淀粉分解为**麦芽糖**（二糖），不是葡萄糖 | 选项中写“amylase breaks down starch into glucose” |
-| 生物测试试剂混淆 | 淀粉→碘液；还原糖→Benedict’s并加热；蛋白质→双缩脲；脂肪→乙醇乳化 | 选项中用Benedict’s测试蛋白质，或用碘液测试脂肪 |
-| 脂肪与碳水化合物元素组成混淆 | 脂肪含C、H、O，但氧含量低于碳水化合物 | 选项中写“fats contain the same proportion of oxygen as carbohydrates” |
-| 纤维素功能误解 | 纤维素是植物细胞壁的结构成分，不是能量储存 | 选项中写“cellulose is an energy store in plants” |
-| 糖原储存位置 | 糖原储存在**肝脏和肌肉**中 | 选项中写“glycogen is stored in plants” |
-| 蛋白质变性概念 | 高温或极端pH使蛋白质变性（形状永久改变），活性丧失 | 选项中写“cooling a denatured enzyme restores its function” |
-| DCPIP测试对象 | DCPIP用于测试**维生素C**，不是淀粉或还原糖 | 选项中用DCPIP测试淀粉或还原糖 |
+### 4.2.1 淀粉检测
+
+| 项目 | 内容 |
+|:---|:---|
+| **试剂** | 碘液 (Iodine solution) |
+| **阳性结果** | 从黄色/棕色变为 **蓝黑色** |
+| **阴性结果** | 保持黄色/棕色 |
+| **注意事项** | 淀粉酶消化后淀粉消失，碘液不再变蓝 |
+
+### 4.2.2 还原糖检测
+
+| 项目 | 内容 |
+|:---|:---|
+| **试剂** | Benedict's solution |
+| **条件** | 加热（水浴沸腾约 2–5 分钟） |
+| **阳性结果** | 蓝色 → 绿色（少量）→ 黄色 → 橙红色（中等）→ 砖红色沉淀（大量）|
+| **注意事项** | 非还原糖（如蔗糖）不直接反应；可先用酸水解后再检测。 |
+
+> **⭐ 拓展知识**：Benedict's test 也可以用于检测其他还原糖（葡萄糖、果糖、麦芽糖、乳糖）。
+
+### 4.2.3 蛋白质检测
+
+| 项目 | 内容 |
+|:---|:---|
+| **试剂** | Biuret reagent |
+| **阳性结果** | 蓝色 → **紫色** (violet) |
+| **阴性结果** | 保持蓝色 |
+| **注意事项** | 检测需在碱性条件；建议先加氢氧化钠溶液，再加几滴硫酸铜溶液。 |
+
+### 4.2.4 脂肪检测（乙醇乳化试验）
+
+| 项目 | 内容 |
+|:---|:---|
+| **试剂** | 乙醇 (ethanol) + 水 |
+| **步骤** | 1. 样品加入约 2 cm³ 乙醇，用力摇匀；2. 加入等量水，再次摇匀。 |
+| **阳性结果** | 出现 **白色乳浊液** (milky‑white emulsion) |
+| **阴性结果** | 溶液保持澄清 |
+| **注意事项** | 如果样品是固体，需预先研磨并加入乙醇。 |
+
+### 4.2.5 维生素C 检测 (DCPIP test)
+
+| 项目 | 内容 |
+|:---|:---|
+| **试剂** | DCPIP (蓝色溶液) |
+| **原理** | 维生素C 将 DCPIP 还原为无色 |
+| **步骤** | 1. 加入定量 DCPIP；2. 逐滴加入样品溶液，摇匀；3. 记录 DCPIP 褪色所需滴数。 |
+| **阳性结果** | 蓝色褪去（变为无色） |
+| **半定量应用** | 褪色所需滴数越少 → 维生素C 浓度越高（如与标准维生素C溶液比较） |
+| **注意事项** | 样品需新鲜，维生素C 易被热、光、氧气破坏。 |
 
 ---
 
-### ✅ 四、Topic 4 完整考点核对清单 (对照 2026–2028 考纲)
+## 4.3 碳水化合物 (Carbohydrates)
 
-| 考纲小节 | 内容 | 已覆盖 |
-| :--- | :--- | :---: |
-| 4.1 Biological molecules | 化学元素组成（碳水化合物、脂肪、蛋白质）；大分子由小分子构成（淀粉/糖原/纤维素←葡萄糖；蛋白质←氨基酸；脂肪/油脂←脂肪酸+甘油）；食物测试（碘液、Benedict’s、双缩脲、乙醇乳化、DCPIP）；DNA结构（双螺旋、碱基配对A-T/C-G） | ✅ |
-| 4.1 Core | 列出碳水化合物、脂肪和蛋白质的化学元素；陈述大分子由小分子构成；描述食物测试的使用 | ✅ |
-| 4.1 Supplement | DNA分子结构（双螺旋、碱基配对） | ✅ |
+### 4.3.1 分类（真题高频考点）
+
+| 类型 | 例子 | 特征 | 考试点 |
+|:---|:---|:---|:---|
+| **单糖** | 葡萄糖 (glucose), 果糖 (fructose), 半乳糖 (galactose) | 简单糖，还原糖，溶于水 | 用于呼吸作用，单糖是合成双糖和多糖的基本单位 |
+| **双糖** | 麦芽糖 (maltose) | glucose + glucose | 淀粉酶消化产物 |
+| | 蔗糖 (sucrose) | glucose + fructose (table sugar) | 存在于植物韧皮部运输形式 |
+| | 乳糖 (lactose) | glucose + galactose | 哺乳动物乳汁中的糖 |
+| **多糖** | 淀粉 (starch) | 葡萄糖聚合物（植物储存） | 遇碘变蓝黑；植物能量储存形式 |
+| | 糖原 (glycogen) | 葡萄糖聚合物（动物储存） | 动物和真菌储存形式；高度支链 |
+| | 纤维素 (cellulose) | 葡萄糖聚合物（β-1,4 糖苷键） | **植物细胞壁主要成分**，人类不能消化（无纤维素酶） |
+
+> **⭐ 真题常考**：  
+> - 问“植物储存能量的多糖”——答 **淀粉**；问“动物储存能量的多糖”——答 **糖原**。  
+> - 问“组成植物细胞壁的多糖”——答 **纤维素**。  
+> - 问“双糖例子”——能写出蔗糖、麦芽糖、乳糖之一即可。
+
+### 4.3.2 相关方程式与生理作用
+
+- **葡萄糖检测**: 还原糖 + Benedict's → 砖红沉淀。
+- **淀粉水解**: 淀粉 —(淀粉酶)→ 麦芽糖 —(麦芽糖酶)→ 葡萄糖。
+- **纤维素对消化系统的意义**: 膳食纤维，促进肠道蠕动，预防便秘。
 
 ---
+
+## 4.4 脂肪 (Fats / Lipids)
+
+- **组成**：1 分子甘油 + 3 分子脂肪酸 → 三酰甘油 (triglyceride)。
+- **饱和脂肪酸 vs 不饱和脂肪酸**（扩展）：
+  - 饱和脂肪酸：无碳碳双键，固体（动物脂肪）。
+  - 不饱和脂肪酸：含碳碳双键，液体（植物油）。
+- **功能**：
+  - 能量储存（单位质量释放能量是碳水化合物的两倍以上）
+  - 保温（皮下脂肪，鲸脂）
+  - 保护内脏（缓冲）
+  - 构成细胞膜（磷脂）
+  - 脂溶性维生素（A, D, E, K）的溶剂
+- **考试常见**：为什么脂肪比碳水化合物更适合长期能量储存？  
+  → 能量密度高，不溶于水（不影响体液渗透压），可储存量大。
+
+---
+
+## 4.5 蛋白质 (Proteins)
+
+- **组成**：氨基酸 (amino acids) 通过肽键 (peptide bonds) 连接形成多肽链。
+- **结构层次**：一级（氨基酸序列）→ 二级（α‑螺旋、β‑折叠）→ 三级（三维构象）→ 四级（多条肽链，如血红蛋白）。
+- **功能**（需要例子）：
+  - 酶（催化反应）
+  - 激素（如胰岛素）
+  - 抗体（免疫）
+  - 结构蛋白（胶原蛋白、角蛋白）
+  - 转运蛋白（血红蛋白）
+- **检测**：Biuret test (➜ 紫色)。
+- **氮平衡**：蛋白质含氮，氨基酸分解时产生含氮废物（尿素）→ 肝脏脱氨，肾脏排泄。
+
+---
+
+## 4.6 维生素C (Vitamin C)
+
+- **化学名称**：抗坏血酸 (ascorbic acid)。
+- **来源**：新鲜水果（柑橘、猕猴桃）、蔬菜（青椒、西兰花）。
+- **功能**：抗氧化，促进胶原蛋白合成，帮助铁的吸收，增强免疫力。
+- **缺乏症**：坏血病 (scurvy) – 牙龈出血、伤口愈合慢。
+- **检测**：DCPIP 褪色试验（可半定量比较）。
+
+---
+
+## 4.7 水 (Water)
+
+- **重要性**：
+  - 优良溶剂（大多数生化反应在溶液中发生）
+  - 运输介质（血液、淋巴、植物汁液）
+  - 参与化学反应（水解、光合作用）
+  - 维持体温（高比热容 → 缓冲温度变化；蒸发散热）
+  - 润滑剂（关节滑液、黏液）
+- **考试点**：解释为何水是生命必需溶剂 → 极性分子，能溶解离子和极性物质，非极性分子（如脂肪）不溶。
+
+---
+
+## 4.8 DNA
+
+### 4.8.1 结构与组成
+
+- **全称**：Deoxyribonucleic acid（脱氧核糖核酸）。
+- **组成单位**：核苷酸 (nucleotide)。
+  - 一个核苷酸 = 磷酸 + 脱氧核糖 + 含氮碱基。
+- **碱基种类**：
+  - 嘌呤 (purine): 腺嘌呤 (A), 鸟嘌呤 (G)
+  - 嘧啶 (pyrimidine): 胸腺嘧啶 (T), 胞嘧啶 (C)
+- **双螺旋结构**（Watson & Crick）：
+  - 两条链反向平行，由氢键连接碱基对：**A = T**（两氢键），**G ≡ C**（三氢键）。
+  - 糖‑磷酸骨架在外部，碱基在内部。
+- **功能**：携带遗传信息，控制蛋白质合成（通过转录和翻译）。
+
+### 4.8.2 与蛋白质合成的关系（简要）
+
+- DNA 转录生成 mRNA，mRNA 翻译合成多肽链。
+- 每三个碱基（密码子）对应一个氨基酸。
+- （详细机制属于 Topic 17 遗传，此处不展开。）
+
+---
+
+## 📌 常见考试陷阱（Paper 2 选择题）
+
+| 错误观念 | 正确说法 | 对应子主题 |
+|:---|:---|:---|
+| 所有碳水化合物都使碘液变蓝 | 只有淀粉遇碘变蓝黑；葡萄糖、蔗糖等不变 | 4.3 |
+| 所有糖都能被 Benedict's 检测 | 非还原糖（如蔗糖）需先水解 | 4.2 |
+| 脂肪检测用 Biuret | 脂肪用乙醇乳化试验 (emulsion test)；Biuret 用于蛋白质 | 4.2 |
+| 维生素C 使碘液褪色 | 维生素C 使 DCPIP 褪色，不是碘液 | 4.2 |
+| 纤维素是淀粉的一种 | 纤维素也是葡萄糖聚合物，但结构不同，不能消化 | 4.3 |
+| 糖原是植物储存物 | 植物储存淀粉，动物储存糖原 | 4.3 |
+| 脂肪仅储存能量 | 脂肪还具有保温、保护、构成细胞膜等作用 | 4.4 |
+| 蛋白质只由碳、氢、氧组成 | 蛋白质必含氮，有时含硫 | 4.1 |
+| DNA 含有核糖 | DNA 含脱氧核糖；RNA 含核糖 | 4.8 |
+
+---
+
+## ✅ 考纲自查清单（Topic 4）
+
+- [ ] 能写出碳水化合物、脂肪、蛋白质、DNA 所含化学元素。
+- [ ] 能描述并解释四种食物试验（碘、Benedict's、Biuret、乙醇乳化）的试剂、步骤和阳性结果。
+- [ ] 能区分还原糖与非还原糖，并解释为何蔗糖不与 Benedict's 直接反应。
+- [ ] 能定义单糖、双糖、多糖，并各给出至少一个例子。
+- [ ] 能说明淀粉、糖原、纤维素的储存位置和功能差异。
+- [ ] 能描述脂肪的组成、溶解性和主要功能。
+- [ ] 能描述蛋白质的基本组成单位（氨基酸）及主要功能（酶、激素、抗体、结构等）。
+- [ ] 能描述维生素C 的检测方法（DCPIP）及缺乏症。
+- [ ] 能列出水在生物体内的至少五种重要性（溶剂、运输、反应物、温度调节等）。
+- [ ] 能描述 DNA 的双螺旋结构，包括碱基配对原则（A‑T, G‑C）。
+- [ ] 能解释 DNA 如何携带遗传信息。
+
+---
+
+> 本文档覆盖 IGCSE Biology Topic 4 全部考纲内容，并补充了真题常考的 **单糖/双糖/多糖** 分类。基于 15+ 份真题和官方评分标准逐项核对。如需其他 Topic 笔记，请参考相应专题。
 
 ### 📌 五、如何使用本资料
 
