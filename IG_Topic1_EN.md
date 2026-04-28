@@ -5,6 +5,7 @@
 > Compiled using CAIE syllabus, 15+ past papers (2018–2025), and official mark schemes. All definitions are exam‑ready.
 
 ---
+Metabolism is the word used to describe all the chemical reactions that happen within a cell or organism[reference:0]. Some reactions join smaller molecules together to make bigger ones (anabolism), while others break larger molecules into smaller ones (catabolism) to release energy.
 
 ## 1.1 Characteristics of Living Organisms (MRS GREN)
 
