@@ -5,7 +5,9 @@
 > 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括气体交换表面的特征、呼吸系统结构、通气机制、吸入气与呼出气差异、运动对呼吸的影响、吸烟的危害及肺部防御机制等全部必考点。每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
 
 > **⚠️ 重要提醒**：Topic 11 与 Topic 12 考试时经常被放在同一大题中，因为这两个章节约 **10 个考点** 会互相交叉。复习 Topic 11 时务必同时回顾 Topic 12 的内容！
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ## 11.1 气体交换表面
