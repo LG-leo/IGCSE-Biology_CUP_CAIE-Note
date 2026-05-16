@@ -1,5 +1,7 @@
 # IGCSE Biology 0610/0970 – Topic 6: Plant Nutrition
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
 
 > 本文档详细解释光合作用的每一个环节，包括叶片结构、气孔分布、叶肉细胞功能、矿质营养、限制因素及实验设计。所有内容均基于 CAIE 官方考纲、超过 15 份历年真题（2018–2025）及官方评分标准。  
