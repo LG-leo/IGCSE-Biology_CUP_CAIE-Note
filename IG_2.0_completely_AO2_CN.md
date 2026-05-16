@@ -3,6 +3,9 @@
 ## 📘 AO2 (Analysis) — IGCSE Biology Cross-Topic Combinations 1~30
 
 **AO2 (Analysis)** 要求你能够 **将不同 topic 的知识联系起来**，分析复杂场景。以下是前 30 个跨主题组合的详细解析：
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 
 ---
 
