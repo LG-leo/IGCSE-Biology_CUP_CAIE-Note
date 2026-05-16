@@ -3,7 +3,9 @@
 ## 🔬 完整学习笔记（覆盖 Core & Supplement，匹配 2026–2028 考纲）
 
 > 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括循环系统、心脏结构与功能、血管、血液成分、免疫与凝血、冠心病、双循环的优势、血浆与血清、肾血管、爬行动物心脏、瓣膜与压力关系等全部必考点。每个概念均给出 **标准定义**、**关键词**、**结构‑功能联系**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ## 9.1 循环系统概述
