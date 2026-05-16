@@ -3,7 +3,9 @@
 ## 重要说明
 
 本文档严格对照 **CAIE 2026–2028 考纲** 编写，聚焦于 Topic 12 **纯知识点的完整、详细描述与解释**。所有内容均与官方大纲及超过 15 份历年真题交叉核对，不包含任何试题或答题模板，只用于全面、透彻地理解呼吸作用的每一个方面。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ## 1. 呼吸作用的本质
