@@ -1,5 +1,7 @@
 # IGCSE Biology 0610/0970 – Topic 4: Biological Molecules
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 🔬 Complete Notes (Core & Supplement, 2026–2028 Syllabus + Exam‑Style Additions)
 
 > Compiled using the latest CAIE syllabus, over 15 past papers (2018–2025) and official mark schemes. Includes element composition, food tests, carbohydrates, fats, proteins, vitamin C, water, DNA. **Monosaccharides / disaccharides / polysaccharides are high‑frequency exam topics – fully covered even though not explicitly listed in the syllabus.**  
