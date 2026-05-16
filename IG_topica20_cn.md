@@ -1,6 +1,8 @@
 ## 🔬 Topic 20: Human Influences on Ecosystems
 ### Paper 2 & Paper 4 – 真题考点与答题要点 (Cambridge CAIE IGCSE Biology 0610/0970)
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 本资料基于Cambridge IGCSE Biology (0610/0970) 2026–2028考纲及历年真题整理。  
 所有答案均按 **CAIE官方评分标准 (Mark Scheme)** 提炼，可直接用于备考。
 
