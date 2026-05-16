@@ -1,9 +1,11 @@
 ---
 
-## 📘 AO2 (Analysis) — IGCSE Biology Cross-Topic Combinations 1~30
+## AO2 (Analysis) — IGCSE Biology Cross-Topic Combinations 1~30
 
 **AO2 (Analysis)** requires you to **connect knowledge from different topics** to analyse complex scenarios. Below is a detailed breakdown of the first 30 cross-topic combinations:
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ### 1️⃣ Topic 7 + 3 + 9 — Absorption of glucose/amino acids from small intestine into blood
