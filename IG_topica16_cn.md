@@ -3,7 +3,9 @@
 ## 重要说明
 
 本文档严格依据 **CAIE 2026–2028 年教学大纲**（第 16 节，第 33–36 页）编写，涵盖 **Paper 2（选择题）** 和 **Paper 4（理论题）** 的全部内容。所有内容均已与官方大纲、IGCSE 生物学 2026–2028 年大纲主题 16 核对清单、超过 15 份历年真题（2017–2025）以及权威复习资料（包括 IITian Academy、Save My Exams、Tutopiya、TES 和 chem‑bio.info）进行交叉核对。本资料专为首次系统学习与深入理解而设计，提供详尽的解释、常见误解辨析以及与现实生活的联系。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 第 1 部分：教学大纲对照
 
 | 大纲编号 | 核心内容 (Core) | 补充内容 (Supplement) |
