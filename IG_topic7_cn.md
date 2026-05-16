@@ -1,5 +1,7 @@
 # IGCSE 生物学 0610 – 主题 7：人类营养
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 重要说明
 
 本文档严格按照**CAIE 2026–2028 年教学大纲**（第 7 节，第 19–21 页）编写，并涵盖**Paper 2（选择题）**和**Paper 4（理论题）**的全部内容。所有内容均与官方教学大纲、超过 15 份历年真题（2017–2025）以及包括 Save My Exams 在内的权威材料进行了交叉核对。本资料适合首次系统学习与深入理解，提供详尽的解释，并指出常见的误解。
