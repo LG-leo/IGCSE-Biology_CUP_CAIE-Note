@@ -3,7 +3,9 @@
 ## Important Notes
 
 This document is written strictly according to the **CAIE 2026–2028 syllabus** (Section 16, pages 33–36) and covers all content for **Paper 2 (Multiple Choice)** and **Paper 4 (Theory)**. All content has been cross‑checked with the official syllabus, the IGCSE Biology 2026–2028 Syllabus Checklist for Topic 16, over 15 past papers (2017–2025), and authoritative revision sources including IITian Academy, Save My Exams, Tutopiya, TES and chem‑bio.info. This resource is designed for first‑time study and deep understanding, providing thorough explanations, common misconceptions, and real‑world connections.
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## Part 1: Syllabus Mapping
 
 | Syllabus Ref. | Core | Supplement |
