@@ -4,7 +4,9 @@
 
 > 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及权威备考资源整理，涵盖细胞结构、细胞器功能、动植物细胞差异、细菌细胞、细胞分化、组织器官系统、显微镜等全部考点。  
 > 每个概念均给出 **标准定义**、**关键词**、**常见例子** 和 **考试陷阱**，可直接用于 Paper 2 和 Paper 4 备考。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ## 2.1 细胞结构 (Cell Structure)
