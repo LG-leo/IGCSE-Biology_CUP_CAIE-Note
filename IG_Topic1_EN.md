@@ -3,7 +3,9 @@
 ## 🔬 Complete Notes (Core & Supplement, 2026–2028 Syllabus)
 
 > Compiled using CAIE syllabus, 15+ past papers (2018–2025), and official mark schemes. All definitions are exam‑ready.
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 Metabolism is the word used to describe all the chemical reactions that happen within a cell or organism[reference:0]. Some reactions join smaller molecules together to make bigger ones (anabolism), while others break larger molecules into smaller ones (catabolism) to release energy.
 
