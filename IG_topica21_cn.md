@@ -1,7 +1,8 @@
-我为你整理了Topic 21（生物技术与基因改造）的**答案要点**、**关键词汇**和**典型试题**。所有内容均基于CAIE IGCSE Biology 0610大纲，并参考了超过10份过往试卷进行核对。
+# TOPIC 21
 
-> **说明**：以下内容已将纸笔考试（Paper 2 & 4）与线上资源（如 Save My Exams）的要求相结合。学习时请留意不同平台对同一知识点的表述差异。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 ### 📌 Topic 21 核心知识点一览表
