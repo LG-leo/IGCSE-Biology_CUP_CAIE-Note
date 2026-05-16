@@ -1,5 +1,7 @@
 # IGCSE Biology 0610 – Topic 5: 酶
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 重要说明
 
 本文档严格依据 **CAIE 2026–2028 考纲**（第 5.1 节）编写，覆盖 **Paper 2（选择题）** 和 **Paper 4（理论题）** 的全部内容。所有内容均与超过 15 份历年真题（2017–2025）及权威来源交叉核对，确保准确无误。本资源适合首次系统学习与深入理解，提供详尽解释并指出常见误区。
