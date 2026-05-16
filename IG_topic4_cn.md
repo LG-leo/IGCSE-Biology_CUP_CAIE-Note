@@ -1,5 +1,7 @@
 # IGCSE Biology 0610/0970 – Topic 4: Biological Molecules
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ## 完整知识点手册（覆盖 Core & Supplement，匹配 2026–2028 考纲 + 真题常考补充）
 
 > 本文档基于 CAIE 最新考纲、超过 15 份历年真题（2018–2025）及官方评分标准整理。内容包括元素组成、食物试验、碳水化合物、脂肪、蛋白质、维生素C、水、DNA 等全部必考点。**单糖/双糖/多糖的区分属于真题高频考点，虽考纲未详细列出，但笔记已完整涵盖。**  
