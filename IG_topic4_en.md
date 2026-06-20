@@ -41,8 +41,6 @@
 | Maltase (α-glucosidase) | Maltose | 2 × D-Glucose | Hydrolyzes α-1,4 bond in maltose |
 | Lactase (β-galactosidase) | Lactose | D-Glucose + D-Galactose | Hydrolyzes β-1,4 bond; deficiency → lactose intolerance |
 
-- **Cellulose** — humans have **no enzyme** to digest it (we lack cellulase). It's fibre.
-
 #### Lipids
 
 | Enzyme | Substrate | Product(s) | Where | Notes |
@@ -97,6 +95,22 @@ This is the **most common enzyme in IGCSE Paper 4 practical questions**. Know:
 | **Conditions** | Heat (boiling water bath for 2–5 minutes) |
 | **Positive result** | Blue → green (trace) → yellow → orange → **brick‑red precipitate** (large amount) |
 | **Note** | Non‑reducing sugars (e.g. sucrose) must be hydrolysed first |
+
+* Reducing sugars can be digested by enzymes like maltase, sucrase, lactase e.t.c., finally, it will break down into glucose. Those sugars are called reducing sugars.
+
+* Reducing sugars have free aldehyde or ketone groups that can reduce Cu²⁺ ions in Benedict's solution to Cu⁺, forming a precipitate. Non-reducing sugars like sucrose do not have free aldehyde/ketone groups until they are hydrolysed into their monosaccharide components (glucose and fructose), which are reducing sugars.
+
+* Common mistake: forgetting to hydrolyse sucrose before testing, leading to a false negative.
+
+* **⭐ Extension knowledge**: Benedict's test can also be used to detect other reducing sugars (glucose, fructose, maltose, lactose).
+* For non-reducing sugars, the hydrolysis step typically involves boiling with dilute acid (e.g. HCl) to break the glycosidic bond, then neutralising with alkali (e.g. NaOH) before performing the Benedict's test again.
+*  Example procedure for testing sucrose:
+*  1. Boil the sample with dilute HCl for 5 minutes to hydrolyse sucrose into glucose and fructose.
+*  2. Neutralise the acid with NaOH until the solution is alkaline.
+*  3. Perform the Benedict's test as usual. A positive result (brick-red precipitate) indicates the presence of reducing sugars, confirming that sucrose was present and has been hydrolysed.
+*   **⭐ Exam tip**: If a question asks why sucrose does not give a positive Benedict's test, the answer is because it is a non-reducing sugar and does not have free aldehyde or ketone groups to reduce the Cu²⁺ ions.
+*   **⭐ Common exam trap**: Some students mistakenly think that all sugars will give a positive Benedict's test. Remember, only reducing sugars do, and non-reducing sugars require hydrolysis first.
+
 
 ### 4.2.3 Protein test (Biuret test)
 
@@ -216,12 +230,9 @@ This is the **most common enzyme in IGCSE Paper 4 practical questions**. Know:
 ### 4.8.1 Structure and composition
 
 - **Full name**: Deoxyribonucleic acid.
-- **Building blocks**: nucleotides – each nucleotide = phosphate + deoxyribose sugar + nitrogenous base.
-- **Bases**:
-  - Purines: adenine (A), guanine (G)
-  - Pyrimidines: thymine (T), cytosine (C)
 - **Double helix** (Watson & Crick):
   - Two antiparallel strands held together by hydrogen bonds between bases: **A = T** (two bonds), **G ≡ C** (three bonds).
+  - In RNA, T is replaced by U, which pairs with A.
   - Sugar‑phosphate backbone on the outside, bases inside.
 - **Function**: carries genetic information, controls protein synthesis (via transcription and translation).
 

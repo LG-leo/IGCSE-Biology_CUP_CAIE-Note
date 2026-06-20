@@ -27,7 +27,8 @@ This document is written strictly according to the **CAIE 2026–2028 syllabus**
 
 #### 5.1.1 Definitions and Core Concepts
 - **Catalyst**: A catalyst is any substance that increases the rate of a chemical reaction, while the catalyst itself remains **chemically unchanged** at the end of the reaction. It is not used up – it can be reused repeatedly.  (Syllabus Core 1)
-- **Enzyme**: An enzyme is a **protein** that acts as a **biological catalyst**, meaning it speeds up reactions inside living organisms. All enzymes are proteins, and their function depends entirely on their three‑dimensional shape.  (Syllabus Core 2)
+- **Enzyme**: An enzyme is a **protein** that acts as a **biological catalyst**, meaning it speeds up reactions inside living organisms. All enzymes are proteins, and their function depends entirely on their three‑dimensional shape.  (Syllabus Core 2) //**ONLY IN IGCSE**
+- **EXCEPT IGCSE**: *In higher level biology, the course book will tell you that some RNA & DNA molecules can also have catalytic acativity (called ribozymes), but this isn't required for IGCSE. In Fact, all of the enzymes is made by amino-acids.*
 - **Why are enzymes essential for life?** Without enzymes, the vast majority of metabolic reactions in cells would happen far too slowly to sustain life. The body temperature of organisms (e.g. 37°C for humans) is too low to provide enough activation energy for uncatalyzed reactions. Enzymes lower the activation energy required for a reaction to occur, allowing metabolic processes – such as digestion, respiration, synthesis of new molecules, and breakdown of toxins – to proceed at rates compatible with life.  (Syllabus Core 3)
 
 #### 5.1.2 The Lock‑and‑Key Model
@@ -39,6 +40,9 @@ This document is written strictly according to the **CAIE 2026–2028 syllabus**
     3. The chemical reaction takes place at the active site. Bonds in the substrate may be broken, or new bonds may be formed between two substrates.
     4. The reaction products are formed. These products have a different shape and no longer fit the active site.
     5. The products are released. The enzyme molecule remains unchanged, and its active site is now free to bind to another substrate molecule.
+
+---
+
 - **Why is specificity important?** The lock‑and‑key model explains why enzymes are usually **specific** to only one reaction. A different substrate with a different shape would not fit into the active site, so the enzyme would not catalyze its reaction. Just as a specific key only opens a specific lock, a specific enzyme only works on a specific substrate. This is called **enzyme specificity**.  (Syllabus Supplement 7)
 - **Key terms to learn**:
     - *Active site* – the specific region on the enzyme where the substrate binds.
@@ -46,7 +50,7 @@ This document is written strictly according to the **CAIE 2026–2028 syllabus**
     - *Enzyme‑substrate complex* – the temporary structure formed when substrate and enzyme are bound.
     - *Product* – the molecule(s) released after the reaction.
 
-#### 5.1.3 Why Are Enzymes Made of Protein?
+#### 5.1.3 Why Are Enzymes Made of Protein? //supplement content, not in IGCSE TEST, but it is a funny things that we can learn.
 - Enzymes are proteins. A protein is a long chain of amino acids that has been folded into a precise three‑dimensional shape. This shape is held together by many weak bonds (such as hydrogen bonds, ionic bonds and disulfide bridges).
 - The active site's exact shape is utterly dependent on the overall 3D shape of the protein. If this shape is altered, the active site loses its precise complementary shape, and the substrate can no longer fit. This is the fundamental reason why enzymes are so sensitive to their environment.
 

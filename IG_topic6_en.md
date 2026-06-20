@@ -35,6 +35,9 @@ The leaf is the main organ of photosynthesis. Its structure is highly specialise
 
 ### 2.1 Leaf Cross‑section (from outside to inside)
 
+![Image](https://github.com/user-attachments/assets/5e34b029-c766-44c7-95db-069fe8e92397)
+
+
 | Structure | Location | Cell features | Main function | Relation to oxygen/gas |
 |-----------|----------|---------------|---------------|------------------------|
 | **Cuticle** | outer layer of upper/lower epidermis | transparent waxy layer, no cells | prevents water loss, allows light through | does not affect gas diffusion |
