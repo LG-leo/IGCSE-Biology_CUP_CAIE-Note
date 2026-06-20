@@ -77,7 +77,8 @@ Bacteria belong to kingdom **Prokaryotae**. Their structure differs from eukaryo
 | **Circular DNA** | main genetic information | **free in cytoplasm** – no nuclear membrane |
 | **Plasmid** | carries extra genes (e.g. antibiotic resistance); **used in genetic engineering** | small circular DNA, can replicate and transfer between bacteria |
 | **Flagellum** | movement (some bacteria) | structure different from eukaryotic flagella |
-| **Capsule** | protection, attachment | present in some bacteria; polysaccharide layer |
+
+**no nucleus, no membrane-bound organelles** is a core feature of bacteria, and exams often test this distinction between bacteria and eukaryotic (animal/plant) cells.
 
 **Comparison: bacteria vs animal/plant cells (Paper 2 common)**
 
