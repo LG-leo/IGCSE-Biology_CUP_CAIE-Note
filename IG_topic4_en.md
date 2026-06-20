@@ -20,6 +20,62 @@
 | **Water** | H, O | Inorganic but essential solvent |
 | **DNA** | C, H, O, N, P | Phosphate group contains P; deoxyribose contains C,H,O; bases contain N |
 
+### 4.1.1 Enzymes with biological molecules.
+#### Carbohydrates
+
+| Enzyme | Substrate | Product(s) | Where | Notes for Paper 4 |
+|--------|-----------|------------|-------|-------------------|
+| **Amylase** | Starch (also glycogen) | Maltose | Mouth (salivary glands), Pancreas, Small intestine | Optimum pH ~7; amylase from pancreas works in small intestine |
+| **Maltase** | Maltose | Glucose + Glucose | Small intestine (brush border) | Maltose = glucose + glucose |
+| **Sucrase** | Sucrose | Glucose + Fructose | Small intestine (brush border) | Sucrose = glucose + fructose |
+| **Lactase** | Lactose | Glucose + Galactose | Small intestine (brush border) | Lactose = glucose + galactose; deficiency → lactose intolerance |
+
+**What about glucose and glycogen?**
+- **Glucose** is a **monosaccharide** — no enzyme digests it further. It's absorbed directly into blood.
+- **Glycogen** (animal storage) — **same enzyme as starch**: **amylase** breaks it down (same α-1,4 glycosidic bonds). You don't need a separate enzyme name at IGCSE.
+- **Cellulose** — humans have **no enzyme** to digest it (we lack cellulase). It's fibre.
+
+| Enzyme | Substrate | Product | Notes |
+|---|---|---|---|
+| Glucoamylase (γ-amylase) | Starch, maltose | D-Glucose	Hydrolyzes α-1,4 and α-1,6 bonds |
+| Maltase (α-glucosidase) | Maltose | 2 × D-Glucose | Hydrolyzes α-1,4 bond in maltose |
+| Lactase (β-galactosidase) | Lactose | D-Glucose + D-Galactose | Hydrolyzes β-1,4 bond; deficiency → lactose intolerance |
+
+- **Cellulose** — humans have **no enzyme** to digest it (we lack cellulase). It's fibre.
+
+#### Lipids
+
+| Enzyme | Substrate | Product(s) | Where | Notes |
+|--------|-----------|------------|-------|-------|
+| **Lipase** | Lipids (fats/oils) | Fatty acids + Glycerol | Pancreas, Small intestine | Optimum pH ~8; works with bile (bile emulsifies, not an enzyme) |
+
+**Lipase is water-soluble. Lipids are insoluble in water. So lipase can only act at the surface of lipid droplets (the oil-water interface).** This is why **bile** is important: it emulsifies large fat globules into tiny droplets, increasing the surface area for lipase to work on → faster digestion.
+
+#### Proteins
+
+| Enzyme | Substrate | Product(s) | Where | Notes |
+|--------|-----------|------------|-------|-------|
+| **Pepsin** | Proteins | Peptides | Stomach | Optimum pH ~2 (acidic); secreted as pepsinogen |
+| **Trypsin** | Proteins / Peptides | Shorter peptides | Pancreas, Small intestine | Optimum pH ~8; activates other enzymes |
+| **Peptidases** (e.g. carboxypeptidase, aminopeptidase) | Peptides | Amino acids | Small intestine (brush border) | Exopeptidases — nibble off end amino acids |
+
+---
+
+### 🔬 Catalase — The Practical Enzyme (Paper 4 favourite)
+
+| Enzyme | Substrate | Product(s) | Notes |
+|--------|-----------|------------|-------|
+| **Catalase** | Hydrogen peroxide (H₂O₂) | Water (H₂O) + Oxygen (O₂) | Found in liver, potato, yeast; used to investigate effect of temperature/pH on enzymes |
+
+This is the **most common enzyme in IGCSE Paper 4 practical questions**. Know:
+- Effervescence (O₂ bubbles)
+- The glowing splint test (relights → oxygen)
+- Rate measured by: time for disc to rise / volume of gas collected
+- Effect of pH: rate highest at optimum pH, lower at acidic or alkaline pH (denaturation)
+- Effect of temperature: rate increases up to optimum, then drops sharply (denaturation)
+- Control variables: enzyme concentration, substrate concentration, temperature (if not the variable being tested), pH (if not the variable being tested), etc.
+- Common mistakes: forgetting to include a control, not measuring rate properly, not keeping variables constant, etc.
+
 ---
 
 ## 4.2 Food Tests (Common Chemical Tests)
