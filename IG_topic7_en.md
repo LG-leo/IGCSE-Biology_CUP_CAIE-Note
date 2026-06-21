@@ -84,6 +84,10 @@ The digestive system consists of the **alimentary canal** (the tube that food pa
 | **Assimilation** | The **uptake and use** of absorbed nutrients by the cells of the body. For example, absorbed amino acids are taken up by muscle cells and used to synthesise human proteins; absorbed glucose is taken up by respiring cells and used to provide energy (via respiration). |
 | **Egestion** | The removal of undigested food from the body as faeces through the anus. (Do not confuse with excretion — excretion is removal of metabolic wastes, e.g. urea, CO₂.) |
 
+
+![Image](https://github.com/user-attachments/assets/74929f5a-2af0-48e6-a11f-1175bc57b47c)
+
+
 ### 7.3 Physical Digestion
 
 #### 7.3.1 What is Physical Digestion?

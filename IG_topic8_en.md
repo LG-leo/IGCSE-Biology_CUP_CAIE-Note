@@ -7,229 +7,206 @@
 - 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
 - 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
 - This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
+
+# Topic 8: Transport in Plants — Complete IGCSE Notes
+
 ---
 
-## 8.1 Xylem and Phloem – Comparison of Function and Structure
+## 8.1 Xylem vs Phloem
 
-| Feature | **Xylem** | **Phloem** |
-| :--- | :--- | :--- |
-| **Function** | transports water + dissolved mineral ions; provides mechanical support | transports sucrose + amino acids (process called translocation) |
-| **Direction of transport** | one direction: roots → stem → leaves (upward) | bidirectional: source → sink (can move up or down) |
-| **Substances transported** | water, nitrate, magnesium, other mineral ions | sucrose (organic nutrients), amino acids |
-| **Cell state** | dead cells (no cytoplasm, no nucleus when mature) | living cells (require energy) |
-| **Cell wall** | thickened with lignin, provides support | cellulose cell wall, no lignin |
-| **End walls** | end walls absent, forming a continuous tube | sieve plates present, allow sap to pass |
-| **Associated cells** | none | companion cells + plasmodesmata |
+| Feature | Xylem | Phloem |
+|:---|:---|:---|
+| **Function** | Transports water and mineral ions; provides mechanical support | Transports sucrose and amino acids (translocation) |
+| **Direction of transport** | Upward only (roots → stem → leaves) | Bidirectional (source → sink) |
+| **Cell type** | Dead cells (no cytoplasm, no nucleus when mature) | Living cells |
+| **Cell wall** | Thickened with lignin | Cellulose, no lignin |
+| **End walls** | Absent — forms a continuous tube | Sieve plates present |
+| **Associated cells** | None | None required at IGCSE |
 
-### 1.1 Position of Vascular Bundles in Roots, Stems and Leaves (syllabus requirement)
+### Position in Cross-Sections
 
-| Organ (cross‑section) | Xylem position | Phloem position | Explanation |
-| :--- | :--- | :--- | :--- |
-| **Root** | central star‑shape (radiating arms) | between the arms of xylem (alternating) | xylem in centre resists tension; phloem at periphery for easy transport to cortex |
-| **Stem** | in vascular bundle near centre (pith side) | in vascular bundle near outside (epidermis side) | xylem inside resists bending; phloem outside for easy distribution |
-| **Leaf** | in vein closer to upper epidermis | in vein closer to lower epidermis | xylem brings water upward; phloem carries sugars downward |
-
-> In exams, you are often given a cross‑section diagram and asked to identify xylem (thick‑walled, large lumen) and phloem (smaller cells, sieve tubes + companion cells).
+| Organ | Xylem position | Phloem position |
+|:---|:---|:---|
+| **Root** | Centre — star shape (radiating arms) | Between the arms of xylem |
+| **Stem** | Inner side of vascular bundle (near pith) | Outer side of vascular bundle (near epidermis) |
+| **Leaf** | Upper side of vein | Lower side of vein |
 
 ---
 
 ## 8.2 Water and Mineral Ion Uptake by Roots
 
-### 8.2.1 Adaptations of Root Hair Cells
+### Root Hair Cell Adaptations
 
-Root hair cells are elongated projections of epidermal cells in the root maturation zone. Their adaptations are:
+| Adaptation | How it helps |
+|:---|:---|
+| **Long root hair** | Increases surface area for absorption |
+| **Thin cell wall** | Shortens diffusion distance |
+| **Many mitochondria** | Provide ATP for active transport of mineral ions |
+| **Large vacuole** | Maintains osmotic gradient for water entry |
+| **High solute concentration** | Keeps water potential low → water enters by osmosis |
 
-| Adaptation | How it helps absorption | Explanation |
-| :--- | :--- | :--- |
-| **Root hair** | greatly increases surface area | larger surface area → faster absorption |
-| **Thin cell wall** | shortens diffusion distance | water and ions reach the cell membrane more easily |
-| **Many mitochondria** | provide ATP for active transport | mineral ion uptake requires energy |
-| **Large vacuole** | creates osmotic gradient | maintains low water potential, drives water entry |
-| **High cytoplasmic concentration** | maintains low water potential | promotes osmotic water uptake |
+### Water Absorption
 
-### 8.2.2 Mechanisms of Water and Mineral Absorption
+- **Mechanism**: Osmosis
+- Water moves from **soil** (high water concentration / more dilute) into **root hair cell** (lower water concentration / more concentrated)
+- Requires **no energy**
 
-**Water absorption**: root hair cells absorb water by **osmosis**. The cell sap has high solute concentration (sugars, salts, etc.), so its water potential is lower than that of soil water → water diffuses across the partially permeable membrane into the root hair cell. (Does not require energy.)
+### Mineral Ion Absorption
 
-**Mineral ion absorption**: ions are taken up by **active transport** – requires **carrier proteins** and **energy (ATP)** from respiration. This allows uptake **against a concentration gradient**. After entering, some ions are assimilated into organic compounds, while others are transported upward via the xylem.
+- **Mechanism**: Active transport
+- Ions move **against** their concentration gradient (from low in soil to high in root)
+- Requires **energy (ATP)** from respiration
+- Requires **carrier proteins** in the cell membrane
 
-> **Paper 4 answer template**: “Why do root hair cells need many mitochondria?” → They use **active transport** to absorb mineral ions, which requires ATP. Mitochondria are the site of **aerobic respiration** that produces ATP.
-
----
-
-## 8.3 Long‑distance Water Transport – Transpiration Stream
-
-### 8.3.1 Pathway of Water
-
-**Complete pathway (memorise order – common in Paper 4/6)**:
-> soil → root hair cell → root cortex → xylem (vessels) → stem (xylem) → petiole (xylem) → leaf vein (xylem) → mesophyll cells → mesophyll cell walls → air spaces → water vapour diffuses out through stomata (transpiration)
-
-### 8.3.2 Transpiration Process
-
-**Transpiration**: loss of water vapour from leaves, mainly through stomata. Water evaporates from the surfaces of mesophyll cells into the air spaces, then diffuses out through the stomata.
-
-The air spaces in the spongy mesophyll are crucial for gas exchange: water vapour evaporates from moist mesophyll cell walls into the air spaces and then exits via stomata. **Stomata open during the day** to allow CO₂ entry for photosynthesis, which also lets water vapour escape (major water loss). At night, stomata close to reduce water loss.
-
-### 8.3.3 Mechanism of Upward Water Movement – Cohesion‑Tension Theory (Paper 4 essential)
-
-**Cohesion‑Tension Theory** explains how water moves upward in xylem. **Key steps (answer chain)**:
-
-1. Stomata open → water evaporates from mesophyll cell walls (transpiration).
-2. Mesophyll cells lose water → lower water potential → they absorb water from xylem vessels.
-3. Water column inside xylem vessels experiences **tension (negative pressure)**.
-4. Water molecules are held together by strong **cohesion** (hydrogen bonds), keeping the water column continuous (does not break).
-5. Tension is transmitted all the way down the water column to the root xylem.
-6. Negative pressure in root xylem → water enters the xylem from root hair cells by osmosis, replenishing the water column.
-7. Result: the whole water column moves upward → **transpiration stream**.
-
-> **Cohesion** = attraction between water molecules; **Adhesion** = attraction between water molecules and xylem walls; both maintain the continuous column.
-
-### 8.3.4 Water Vapour Loss and Leaf Structure (Supplement)
-
-- **Internal surface area**: the air spaces in spongy mesophyll provide a huge internal surface area for evaporation → high transpiration rate.
-- **Stomatal size and number**: more stomata and larger openings provide more pathways for water vapour diffusion → higher transpiration rate.
-
-> Xerophytes (e.g., cacti) have few, sunken stomata to reduce transpiration; hydrophytes (e.g., water lily) have stomata on the upper surface.
+> **Paper 4 question**: "Why do root hair cells need many mitochondria?"
+> **Answer**: To produce ATP by aerobic respiration for active transport of mineral ions.
 
 ---
 
-## 8.4 Factors Affecting Transpiration Rate (Extended – essential)
+## 8.3 Transpiration
 
-| Factor | Change | Effect on transpiration rate | Explanation (Paper 4) |
-| :--- | :--- | :--- | :--- |
-| **Light intensity** | increase | increase ↑ | Stomata open to allow CO₂ for photosynthesis → water vapour escapes. |
-| **Temperature** | increase | increase ↑ | Water molecules gain kinetic energy → faster evaporation from mesophyll cells. |
-| **Humidity** | increase | decrease ↓ | Concentration gradient of water vapour between leaf interior and air is reduced → slower diffusion. |
-| **Wind speed** | increase | increase ↑ | Moving air removes water vapour near the leaf surface, maintaining a steep concentration gradient. |
+### Definition
+**Transpiration**: Loss of water vapour from leaves, mainly through stomata.
 
-> Leaf size, stomatal density, cuticle thickness also affect transpiration, but IGCSE focuses on the four factors above.
+### Complete Pathway of Water (memorise this order)
+
+```
+Soil → root hair cell → root cortex → xylem (root) → xylem (stem) → xylem (leaf vein) → mesophyll cells → mesophyll cell walls → air spaces → stomata → atmosphere
+```
+
+### Cohesion-Tension Theory (Extended — Paper 4 essential)
+
+This explains how water moves upward in xylem:
+
+| Step | What happens |
+|:---|:---|
+| 1 | Water evaporates from mesophyll cell walls (transpiration) |
+| 2 | Mesophyll cells lose water → their water concentration drops → they absorb water from xylem vessels |
+| 3 | Water column inside xylem is pulled upward — this creates **tension** (suction) |
+| 4 | **Cohesion** (water molecules stick to each other) keeps the water column continuous — it does not break |
+| 5 | Tension is transmitted all the way down to the roots |
+| 6 | Water enters xylem from root hair cells by osmosis, replacing the water lost |
+| 7 | Result: continuous upward movement of water = **transpiration stream** |
+
+> **Key term**: **Cohesion** = attraction between water molecules (hydrogen bonds — but you don't need this term at IGCSE)
 
 ---
 
-## 8.5 Potometer – Measuring Transpiration Rate
+## 8.4 Factors Affecting Transpiration Rate
 
-### 8.5.1 Principle
+| Factor | Change | Effect on transpiration rate | Explanation |
+|:---|:---|:---|:---|
+| **Light intensity** | Increases | **Increases** | Stomata open to allow CO₂ in for photosynthesis → water vapour escapes |
+| **Temperature** | Increases | **Increases** | Water molecules gain kinetic energy → faster evaporation from mesophyll cells |
+| **Humidity** | Increases | **Decreases** | Smaller concentration gradient of water vapour between leaf and air → slower diffusion |
+| **Wind speed** | Increases | **Increases** | Moving air removes water vapour near leaf surface → maintains steep concentration gradient |
 
-A potometer directly measures **water uptake rate**. Assuming most water taken up is lost by transpiration (steady state, no growth), water uptake rate ≈ transpiration rate.
+---
 
-### 8.5.2 Standard Procedure (memorise)
+## 8.5 Potometer — Measuring Transpiration Rate
 
-1. **Cut a leafy shoot underwater** – prevents air bubbles entering the xylem and blocking water flow.
-2. **Insert the shoot into the potometer and seal joints** with petroleum jelly to ensure air‑tightness.
-3. **Allow the shoot to acclimatise**, then start recording – measure the distance an air bubble moves or the volume of water taken up per unit time.
-4. **Change the environmental factor** – light intensity, temperature, humidity, or wind (use a fan).
-5. **Repeat and calculate mean values** – reduce random error.
+### What it measures
+A potometer measures **water uptake rate** by the plant. Assuming most water taken up is lost by transpiration, water uptake rate ≈ transpiration rate.
 
-### 8.5.3 Formula
+### Procedure
 
-> Transpiration rate = volume of water absorbed per unit time ÷ leaf surface area (or sometimes per unit shoot mass, depending on the question).
+| Step | Detail |
+|:---|:---|
+| 1 | **Cut a leafy shoot underwater** — prevents air bubbles entering xylem and blocking water flow |
+| 2 | **Insert shoot into potometer** and seal all joints with petroleum jelly — ensures airtight |
+| 3 | **Allow shoot to acclimatise** to conditions |
+| 4 | **Measure** how far the air bubble moves per unit time (or volume of water taken up) |
+| 5 | **Change one environmental factor** (light, temperature, humidity, or wind using a fan) |
+| 6 | **Repeat** and calculate a mean — reduces random error |
+
+> **Important**: The potometer does NOT directly measure transpiration — it measures water uptake, which is an estimate.
 
 ---
 
 ## 8.6 Wilting
 
-### 8.6.1 Conditions and Causes
-
-**Wilting**: drooping of leaves and stems due to excessive water loss, occurs when **water loss (transpiration) > water uptake**.
-
-**Cause**: when soil water is insufficient or transpiration is too high, roots cannot absorb enough water to replace that lost by leaves → leaf cells lose water.
-
-### 8.6.2 Cellular Changes During Wilting
-
-- Guard cells and mesophyll cells lose water → **plasmolysis** (protoplast shrinks away from cell wall).
-- Cells lose **turgor pressure** → leaf droops.
-- Wilting also causes stomatal closure, further reducing transpiration and photosynthesis.
+| Aspect | Detail |
+|:---|:---|
+| **Definition** | Drooping of leaves and stems due to excessive water loss |
+| **Cause** | Water loss (transpiration) > water uptake by roots |
+| **Cellular change** | Cells lose water → **plasmolysis** (protoplast shrinks away from cell wall) |
+| **Effect** | Loss of **turgor pressure** → leaf droops |
+| **Consequence** | Stomata may close → reduces further water loss but also reduces photosynthesis |
 
 ---
 
-## 8.7 Phloem Transport (Translocation)
+## 8.7 Translocation (Phloem Transport)
 
-**Translocation**: movement of sucrose and amino acids in phloem from sources to sinks.
+### Definition
+**Translocation**: The movement of sucrose and amino acids in phloem from sources to sinks.
 
-### 8.7.1 Definition of Source and Sink
+### Source vs Sink
 
 | Term | Definition | Examples |
-| :--- | :--- | :--- |
-| **Source** | part of plant that releases sucrose or amino acids | photosynthesising leaves, germinating seeds (break down starch), storage organs (e.g., tubers) |
-| **Sink** | part of plant that uses or stores sucrose/amino acids | roots (growing), shoot tips (growing), developing fruits (store sugars), storage organs (tubers, seeds) |
+|:---|:---|:---|
+| **Source** | Part of plant that **releases** sucrose or amino acids | Photosynthesising leaves, germinating seeds (breaking down starch), storage organs (e.g. tubers) |
+| **Sink** | Part of plant that **uses or stores** sucrose or amino acids | Growing roots, shoot tips, developing fruits, storage organs (e.g. seeds, tubers) |
 
-**Source‑sink change**: the same organ can be a sink at one time and a source at another. Example: potato tuber is a sink (receives sucrose from leaves) during the growing season; in spring when it sprouts, it becomes a source (breaks down starch to sucrose to supply new shoots). Another example: leaves are sources during the day but may become sinks at night when they cannot photosynthesise and receive sugars from elsewhere.
+### Source-Sink Change
+The same organ can change its role:
+- **Potato tuber** in summer = **sink** (receives sucrose from leaves for storage)
+- **Potato tuber** in spring = **source** (breaks down starch to sucrose to supply new shoots)
+- **Leaves** during the day = **source** (photosynthesising)
+- **Leaves** at night = may become **sink** (cannot photosynthesise, receive sugars from elsewhere)
 
-### 8.7.2 Ringing Experiment (Girdling Experiment)
+### Key Points for Paper 4
 
-**Method**: remove a ring of bark (phloem) from a tree trunk, leaving the xylem intact (the xylem is inside the wood).
-
-**Results**:
-- Swelling appears **above** the girdled ring because sugars from leaves accumulate there.
-- Tissue below the ring gradually loses sugar and eventually dies.
-- The swollen part contains high sugar concentration (test with Benedict's solution).
-
-**Conclusion**: **Phloem transports organic nutrients** (the swelling above shows that sugar is moving downward from leaves and is blocked by removing phloem). Xylem water transport is not affected because xylem is inside the wood.
-
-**Supporting evidence**: Radioactive tracers – provide radioactive CO₂ to a leaf; the plant produces radioactive sugars, and their movement can be traced by autoradiography, confirming the phloem pathway.
-
-### 8.7.3 Phloem Structure – Sieve Tubes and Companion Cells
-
-| Cell type | Features | Adaptations |
-| :--- | :--- | :--- |
-| **Sieve tube element** | living, no nucleus, no vacuole, thin cytoplasm | low‑resistance transport over long distances |
-| **Companion cell** | many mitochondria, nucleus, connected to sieve tube via plasmodesmata | supplies ATP for active processes and maintains sieve tube functions |
-
-Translocation requires ATP for active loading and unloading. Companion cells provide ATP to sieve tubes.
-
-### 8.7.4 Translocation Pathway
-
-1. Sucrose is produced in source leaf mesophyll cells.
-2. **Active loading** into companion cells (requires ATP and carrier proteins).
-3. Sucrose moves from companion cells to sieve tubes via plasmodesmata.
-4. Sieve tubes transport sucrose to sink organs.
-5. **Unloading** at the sink may be active or passive, depending on concentration gradient.
+| What to know | Detail |
+|:---|:---|
+| **Substances transported** | Sucrose (not glucose/starch) and amino acids |
+| **Direction** | Bidirectional — depends on where the source and sink are |
+| **Energy required** | Yes — phloem cells are living and need ATP |
+| **Process name** | Translocation |
 
 ---
 
-## 8.8 Demonstration Experiment – Tracing Water Pathway with Dye (syllabus requirement)
+## 8.8 Dye Experiment — Tracing Water Pathway
 
-**Purpose**: to observe the pathway of water through a plant.
-
-**Method**: place a leafy shoot in water containing **eosin** or food colouring, leave in light. After several hours, observe the leaf veins and leaf blade.
-
-**Result**: colour appears only in the **xylem** of veins, because xylem is specialised for water transport. This demonstrates that water moves up through the xylem and follows the veins.
-
----
-
-## 8.9 Common Exam Traps (Paper 2)
-
-| Wrong idea | Correct statement | Sub‑topic |
-| :--- | :--- | :--- |
-| Xylem transports sucrose, phloem transports water | Xylem transports **water and minerals**; phloem transports **sucrose and amino acids** | 8.1 |
-| Phloem transport is one‑way (only downwards) | Phloem transports **bidirectionally**, depending on source‑sink positions | 8.1, 8.7 |
-| Water must pass through cytoplasm to reach xylem | Most water moves **between cells** (apoplast pathway); some moves through cells (symplast) | 8.2, 8.3 |
-| Potometer directly measures transpiration rate | Potometer measures **water uptake rate**, used as an estimate of transpiration | 8.5 |
-| Plants absorb water by active transport | Water enters root hairs by **osmosis**, no direct energy cost | 8.2 |
-| Transpiration occurs only during the day | Transpiration is highest during the day, but a small amount may occur at night through the cuticle | 8.3 |
-| Translocation occurs in all plants | IGCSE focuses on flowering plants; other plant groups may differ | 8.7 |
-| Ringing experiment proves xylem transports water | The experiment proves **phloem transports organic nutrients**; xylem water transport is unaffected because xylem is inside the wood | 8.7 |
-| Wilting increases turgor pressure | Wilting cells lose turgor pressure (turgor decreases) | 8.6 |
+| Aspect | Detail |
+|:---|:---|
+| **Method** | Place a leafy shoot in water containing **eosin** or food colouring. Leave in light for several hours. |
+| **Result** | Colour appears only in the **veins** of the leaf — specifically in the **xylem** |
+| **Conclusion** | Water travels through **xylem** vessels. The xylem forms a continuous network from roots to leaves. |
 
 ---
 
-## ✅ Topic 8 Revision Checklist
+## 8.9 Common Exam Traps
 
-- [ ] State the functions of xylem (water + minerals + support) and phloem (sucrose + amino acids)
-- [ ] Identify xylem and phloem positions in root, stem and leaf cross‑sections
-- [ ] Describe the adaptations of root hair cells (root hair, thin wall, many mitochondria, large vacuole, high solute concentration)
-- [ ] Explain why root hair cells require many mitochondria (active transport of minerals needs ATP)
+| Wrong idea | Correct answer | Topic |
+|:---|:---|:---|
+| Xylem transports sucrose; phloem transports water | Xylem transports **water + minerals**; Phloem transports **sucrose + amino acids** | 8.1 |
+| Phloem transport is only downwards | Phloem transport is **bidirectional** — depends on source-sink | 8.1, 8.7 |
+| Water enters root hairs by active transport | Water enters root hairs by **osmosis** — no energy required | 8.2 |
+| Potometer directly measures transpiration | Potometer measures **water uptake rate** — used as an estimate | 8.5 |
+| Wilting increases turgor pressure | Wilting **decreases** turgor pressure — cells become flaccid | 8.6 |
+| Transpiration only happens during the day | Transpiration is highest during the day, but some occurs at night through the cuticle | 8.3 |
+| Plants absorb minerals by osmosis | Minerals are absorbed by **active transport** (requires ATP) | 8.2 |
+
+---
+
+## ✅ Revision Checklist
+
+- [ ] State functions of xylem (water + minerals + support) and phloem (sucrose + amino acids)
+- [ ] Identify xylem and phloem positions in root, stem, and leaf cross-sections
+- [ ] Describe root hair cell adaptations (root hair, thin wall, many mitochondria, large vacuole, high solute concentration)
+- [ ] Explain why root hair cells need many mitochondria (ATP for active transport of minerals)
 - [ ] State the pathway of water from soil to atmosphere
-- [ ] Define transpiration and explain the role of mesophyll cells, air spaces and stomata
-- [ ] Explain the cohesion‑tension theory (transpiration pull, cohesion, continuous water column)
-- [ ] Describe the effects of light intensity, temperature, humidity and wind speed on transpiration rate
-- [ ] Describe how a potometer works and the procedure for measuring transpiration rate
-- [ ] Explain wilting (water loss > uptake) and the cellular changes (plasmolysis, loss of turgor)
-- [ ] Define source and sink; give examples; explain how an organ can change from sink to source
-- [ ] Compare sieve tube elements and companion cells (structure and function)
-- [ ] Describe the ringing experiment and its conclusions (phloem transports sugars)
-- [ ] Describe the dye experiment to trace water movement (xylem pathway)
+- [ ] Define transpiration
+- [ ] Explain the cohesion-tension theory (cohesion, transpiration pull, continuous water column)
+- [ ] Describe effects of light intensity, temperature, humidity, and wind speed on transpiration rate
+- [ ] Describe how a potometer works and the procedure
+- [ ] Explain wilting (water loss > uptake, plasmolysis, loss of turgor)
+- [ ] Define source and sink, give examples, explain source-sink change
+- [ ] Describe the dye experiment and its conclusion (xylem pathway)
+- [ ] State that phloem transports sucrose and amino acids — this is called translocation
 
 ---
+
+> These notes contain **only** Cambridge IGCSE Biology 0610/0970 syllabus content for Topic 8. All A Level overkill (companion cells, ATP loading mechanism, ringing experiment, apoplast/symplast, xerophytes, water potential terminology) has been removed.
 
 > This document covers all IGCSE Biology Topic 8 content for the 2026–2028 syllabus, based on 15+ past papers and official mark schemes. Detailed explanations and model answers are included. For other topics, please refer to the corresponding notes.
