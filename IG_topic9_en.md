@@ -23,6 +23,26 @@
 - Distribute heat and maintain body temperature
 - Transport white blood cells and antibodies for immune defence
 
+### 9.1.2 KEY definition - ice break (from more important to less important)
+
+1. atrium vs ventricle: atrium receives blood, ventricle pumps blood out.
+2. pulmonary vs systemic circulation: pulmonary = heart → lungs → heart; systemic = heart → body → heart.
+3. deoxygenated blood vs oxygenated blood: deoxygenated = low O₂, high CO₂; oxygenated = high O₂, low CO₂. (**it is huge different with classification of arterial and venous blood(aorta and vein)**)
+4. arterial blood(aorta, artery) vs venous blood(vein): arterial = blood in arteries (away from heart), venous = blood in veins (toward heart). (**it is huge different with classification of deoxygenated and oxygenated blood**)
+5. single vs three-chambered vs double circulation: 
+   - single= blood passes through heart once per circuit (fish); 
+   - three-chambered= partial mixing of oxygenated and deoxygenated blood (reptiles); 
+   - double circulation advantages: higher systemic blood pressure, faster flow, more efficient oxygen delivery, supports high metabolic rate. *//KEY OF PAPER 4*
+6. valves in the herts & veins pervent the blood flow back.
+   - valve in the hert: prevent the blood flow back to the atrium or ventricles to the heart(lower pressure).
+   - valve in the vein: prevent the blood flow back to the heart, especially in the leg vein, because the blood pressure is very low in the vein, and the blood can flow back due to the gravity.
+   - valves close & open is caused by direction of valve opening and the pressure difference between two sides of the valve. When the pressure on one side is higher than the other, the valve opens; when the pressure on one side is lower than the other, the valve closes.
+7. single vs double circulation: single = blood passes through heart once per circuit, double = blood passes through heart twice per circuit, more effeicency: lower pressure flow to the lungs(more oxygen), higher pressure flow to the body(faster).
+8. plasma vs serum: plasma = liquid component of blood with clotting factors; serum = plasma minus clotting factors (mainly fibrinogen)
+9.  coronary arteries: supply oxygen and nutrients to heart muscle.
+
+
+
 ### 9.1.2 Single vs Double Circulation
 
 #### Single circulation in fish
@@ -31,7 +51,7 @@
 - Path: ventricle → gills → body → atrium → ventricle
 - Blood pressure drops after passing through gill capillaries, leading to slower flow
 
-#### Reptilian heart (three‑chambered – Supplement)
+#### Reptilian heart (three‑chambered – Supplement) paper 4 only.
 - Heart has **three chambers**: 2 atria + 1 ventricle
 - The ventricle is partially divided, but some mixing of oxygenated and deoxygenated blood still occurs
 - Transitional type between fish (two chambers) and mammals (four chambers)
@@ -84,6 +104,31 @@ Two heart sounds are produced during each cardiac cycle:
 | **Second sound (dub)** | **Closure of semilunar valves** (aortic and pulmonary) | Beginning of ventricular diastole | Marks the start of ventricular relaxation; ventricles begin to fill with blood |
 
 **Mechanism**: When valves close, the sudden deceleration or change in blood flow direction causes vibrations of the valves and adjacent vessel walls. These vibrations are transmitted to the chest wall and heard with a stethoscope. **Heart murmurs** (abnormal sounds) often indicate valve incompetence (leakage) or stenosis (narrowing).
+
+#### how the heart beats: cardiac cycle
+The cardiac cycle is the sequence of events in one complete heartbeat. It has two main phases:
+
+| Phase | What happens | Valve movements | Sound |
+|:---|:---|:---|:---|
+| **1. Ventricular contraction (systole)** | Ventricles contract → pressure inside ventricles rises → blood is pushed into arteries | AV valves **close** (prevent backflow into atria) → semilunar valves **open** (blood enters arteries) | **Lub** (AV valves closing) |
+| **2. Ventricular relaxation (diastole)** | Ventricles relax → pressure drops → arteries push blood back → semilunar valves close → AV valves open → blood flows from atria into ventricles | Semilunar valves **close** (prevent backflow from arteries) → AV valves **open** (ventricles fill with blood) | **Dub** (semilunar valves closing) |
+
+**Step-by-step sequence**:
+1. Heart muscle (cardiac muscle) contracts
+2. Pressure inside chambers increases
+3. AV valves close → "lub"
+4. Semilunar valves open → blood ejected into arteries
+5. Heart muscle relaxes
+6. Pressure drops
+7. Semilunar valves close → "dub"
+8. AV valves open → blood flows from atria into ventricles
+9. Cycle repeat.
+
+
+**Key feature of cardiac muscle**:
+- Contracts **rhythmically** (without nerve signal)
+- Never gets tired (has many mitochondria + rich blood supply from coronary arteries)
+
 
 ### 9.2.3 Blood Flow Pathway Through the Heart
 
@@ -191,39 +236,61 @@ Blood consists of **plasma**, **red blood cells**, **white blood cells (phagocyt
 
 ---
 
-## 9.6 Lymphatic System
+### 9.6 Coronary Heart Disease (CHD)
 
-### 9.6.1 Formation of Tissue Fluid
-- At the arterial end of capillaries, blood pressure forces water, glucose, amino acids, oxygen and ions out through the capillary wall (single layer of endothelium with pores), forming **tissue fluid** that bathes all cells.
-- About **90%** of tissue fluid is reabsorbed into capillaries at the venous end.
-- The remaining **10%** enters **lymphatic capillaries**, becoming **lymph**.
+#### 9.6.1 What is CHD?
 
-### 9.6.2 Functions of Lymph
-- Returns excess tissue fluid to the bloodstream
-- Transports absorbed fats (chyle) from the small intestine
-- Filters pathogens in **lymph nodes** and participates in immune defence
+**Coronary arteries** supply oxygen and nutrients to the heart muscle itself.
 
----
+CHD occurs when these arteries become **narrowed or blocked** due to **fatty plaque buildup** (atherosclerosis).
 
-## 9.7 Coronary Heart Disease
+Normal coronary artery: ⭕ wide open → plenty of blood flow
+Narrowed coronary artery: 🟤 narrow → reduced blood flow
+Blocked coronary artery: ❌ blocked → no blood flow → heart attack
 
-### 9.7.1 Coronary Artery Disease
-- **Coronary arteries** supply oxygen and nutrients to the heart muscle.
-- High‑cholesterol diet, smoking etc. cause **fatty plaques** to build up → narrowing of the lumen → reduced blood flow to cardiac muscle → angina (chest pain) → myocardial infarction (heart attack).
 
-### 9.7.2 Risk Factors
+**Progression**:
 
-| Factor | Explanation |
-| :--- | :--- |
-| High saturated fat diet | raises blood cholesterol, accelerates plaque formation |
-| Smoking | damages arterial endothelium; carbon monoxide reduces oxygen‑carrying capacity of blood |
-| Lack of exercise | leads to obesity, hypertension, high cholesterol |
-| Genetic predisposition (family history) | increases susceptibility |
-| Age and sex | risk increases with age; males are at higher risk earlier |
-| Stress | raises blood pressure and increases heart workload |
+Fatty plaque buildup → lumen narrows → less blood reaches heart muscle
+↓
+Angina (chest pain during exercise)
+↓
+Complete blockage → heart attack (myocardial infarction)
+↓
+Part of heart muscle dies (irreversible)
 
-### 9.7.3 Prevention
-- Quit smoking; low‑fat diet; eat more fruits and vegetables; regular exercise
+
+#### 9.6.2 Risk Factors
+
+| Risk factor | Why it causes CHD |
+|:---|:---|
+| **Diet high in saturated fat** | Raises blood cholesterol → accelerates plaque formation |
+| **Smoking** | Damages artery lining; carbon monoxide reduces oxygen carried by blood |
+| **Lack of exercise** | Leads to obesity, high blood pressure, high cholesterol |
+| **Genetic predisposition** | Some people inherit higher risk (family history) |
+| **Stress** | Raises blood pressure, increases heart workload |
+| **Age** | Risk increases as you get older |
+
+#### 9.6.3 Prevention
+
+| Prevention | How it helps |
+|:---|:---|
+| **Healthy diet** | Low saturated fat, more fruits and vegetables → lowers cholesterol |
+| **Regular exercise** | Strengthens heart, lowers blood pressure, maintains healthy weight |
+| **No smoking** | Prevents artery damage, improves oxygen supply |
+| **Reduce stress** | Lowers blood pressure and heart workload |
+| **Regular checkups** | Early detection of high cholesterol or high blood pressure |
+
+##### Key points for Paper 4
+
+| What you must know | Detail |
+|:---|:---|
+| **Cause** | Fatty plaques (atherosclerosis) narrow coronary arteries |
+| **Effect on heart muscle** | Less oxygen reaches cardiac muscle → cannot respire enough |
+| **Angina** | Chest pain — heart muscle not getting enough oxygen during exercise |
+| **Heart attack** | Complete blockage → part of heart muscle dies |
+| **Prevention** | Diet, exercise, no smoking |
+
 
 ---
 
